@@ -57,7 +57,7 @@
       "assistPlayerExternalId": null,
       "assistPlayerName": null,
       "detail": "Yellow Card",
-      "comments": "Roughing"
+      "comments": "Foul"
     },
     {
       "type": "subst",
@@ -166,19 +166,6 @@
     {
       "type": "Card",
       "minute": 90,
-      "extraMinute": 3,
-      "teamId": "COD",
-      "teamExternalId": 1508,
-      "playerExternalId": 48555,
-      "playerName": "C. Pickel",
-      "assistPlayerExternalId": null,
-      "assistPlayerName": null,
-      "detail": "Yellow Card",
-      "comments": "Unsportsmanlike conduct"
-    },
-    {
-      "type": "Card",
-      "minute": 90,
       "extraMinute": 4,
       "teamId": "COL",
       "teamExternalId": 8,
@@ -187,7 +174,20 @@
       "assistPlayerExternalId": null,
       "assistPlayerName": null,
       "detail": "Yellow Card",
-      "comments": "Roughing"
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 48555,
+      "playerName": "C. Pickel",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Argument"
     }
   ],
   "statistics": [

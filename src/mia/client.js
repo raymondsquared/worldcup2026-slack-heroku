@@ -40,4 +40,76 @@ async function chatWithTools(messages, tools, opts = {}) {
   return postChatCompletion({ model: INFERENCE_MODEL_ID, messages, tools, ...opts });
 }
 
-module.exports = { chat, chatWithTools };
+// Chat with automatic MCP tool execution via /v1/agents/heroku
+async function chatWithAgent(messages, opts = {}) {
+  const body = {
+    model: INFERENCE_MODEL_ID,
+    messages,
+  };
+
+  // Add MCP tools (must specify individual tool names, not namespace)
+  if (opts.enableMcp) {
+    body.tools = [
+      { type: 'mcp', name: 'football_get_live_fixtures' },
+      { type: 'mcp', name: 'football_get_fixtures_by_date' },
+      { type: 'mcp', name: 'football_get_fixture_details' },
+      { type: 'mcp', name: 'football_get_standings' },
+      { type: 'mcp', name: 'football_get_team_squad' },
+    ];
+  }
+
+  const response = await fetch(`${INFERENCE_URL}/v1/agents/heroku`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${INFERENCE_KEY}`,
+      'X-Forwarded-Proto': 'https',
+    },
+    body: JSON.stringify(body),
+    signal: AbortSignal.timeout(30000),
+  });
+
+  if (!response.ok) {
+    const errorBody = await response.text().catch(() => 'unknown error');
+    throw new Error(`Agent request failed (${response.status}): ${errorBody}`);
+  }
+
+  const text = await response.text();
+  const lines = text.split('\n');
+
+  let finalContent = '';
+  let foundToolUse = false;
+
+  for (const line of lines) {
+    if (line.startsWith('data:')) {
+      const data = line.slice(5).trim();
+
+      if (data === '[DONE]') {
+        break;
+      }
+
+      try {
+        const parsed = JSON.parse(data);
+
+        if (parsed.choices?.[0]?.message?.tool_calls) {
+          foundToolUse = true;
+        }
+
+        if (parsed.choices?.[0]?.message?.role === 'assistant' &&
+            parsed.choices[0].message.content) {
+          finalContent = parsed.choices[0].message.content;
+        }
+      } catch (err) {
+        // Skip invalid JSON
+      }
+    }
+  }
+
+  if (!finalContent) {
+    throw new Error('No final message received from agent endpoint');
+  }
+
+  return finalContent;
+}
+
+module.exports = { chat, chatWithTools, chatWithAgent };

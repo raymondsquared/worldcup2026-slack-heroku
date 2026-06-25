@@ -1,0 +1,337 @@
+{
+  "id": 53,
+  "dateAndTimeInUTC": "2026-06-25T01:00:00+00:00",
+  "stage": "Group Stage - 3",
+  "externalId": 1489407,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "RSA",
+    "homeTeamExternalId": 1531,
+    "awayTeamId": "KOR",
+    "awayTeamExternalId": 17
+  },
+  "finalScore": {
+    "home": 1,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 1,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 24888,
+      "playerName": "Hwang Hee-Chan",
+      "assistPlayerExternalId": 186,
+      "assistPlayerName": "Son Heung-Min",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 2909,
+      "playerName": "Paik Seung-Ho",
+      "assistPlayerExternalId": 34168,
+      "assistPlayerName": "Kim Jin-Gyu",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 237220,
+      "playerName": "Lee Tae-Seok",
+      "assistPlayerExternalId": 280358,
+      "assistPlayerName": "J. Castrop",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 62,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 179893,
+      "playerName": "O. Appollis",
+      "assistPlayerExternalId": 295977,
+      "assistPlayerName": "T. Moremi",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 63,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 354831,
+      "playerName": "T. Maseko",
+      "assistPlayerExternalId": 295977,
+      "assistPlayerName": "T. Moremi",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 2897,
+      "playerName": "Kim Min-Jae",
+      "assistPlayerExternalId": 99211,
+      "assistPlayerName": "Park Jin-Seop",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 73,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 46334,
+      "playerName": "A. Modiba",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 74,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 34710,
+      "playerName": "Oh Hyeon-Gyu",
+      "assistPlayerExternalId": 34211,
+      "assistPlayerName": "Cho Gue-Sung",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 354831,
+      "playerName": "T. Maseko",
+      "assistPlayerExternalId": 127429,
+      "assistPlayerName": "I. Rayners",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 34211,
+      "playerName": "Cho Gue-Sung",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Roughing"
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 414149,
+      "playerName": "R. Mofokeng",
+      "assistPlayerExternalId": 268710,
+      "assistPlayerName": "J. Adams",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "RSA",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 13
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 4
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 5
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 8
+        },
+        {
+          "type": "Fouls",
+          "value": 7
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "32%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 339
+        },
+        {
+          "type": "Passes accurate",
+          "value": 277
+        },
+        {
+          "type": "Passes %",
+          "value": "82%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.10"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.61"
+        }
+      ]
+    },
+    {
+      "teamId": "KOR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 8
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 5
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 9
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 6
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "68%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 720
+        },
+        {
+          "type": "Passes accurate",
+          "value": 643
+        },
+        {
+          "type": "Passes %",
+          "value": "89%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.00"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.61"
+        }
+      ]
+    }
+  ],
+  "group": "Group A"
+}

@@ -86,9 +86,7 @@ function buildRecapContext(liveData, fixture) {
   return 'Match Summary:\n===\n' + parts.join('\n') + '\n===';
 }
 
-/**
- * Format goal scorers for the recap card context line.
- */
+// Format goal scorers for recap context line.
 function formatRecapScorers(events, fixture) {
   if (!events || events.length === 0) return '';
 
@@ -115,9 +113,7 @@ function formatRecapScorers(events, fixture) {
   return [...homeParts, ...awayParts].join('  ') || '';
 }
 
-/**
- * Build rich Block Kit blocks for the post-match recap card.
- */
+// Build Block Kit blocks for post-match recap card.
 function buildRecapBlocks(fixture, liveData, recapText) {
   const homeId = fixture.teams?.homeTeamId;
   const awayId = fixture.teams?.awayTeamId;

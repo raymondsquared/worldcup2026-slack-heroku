@@ -201,7 +201,7 @@ start until all tasks listed in its Dependencies column are complete.
   - Agent: Software Engineer
   - Action: Update the task's Status column in the PRD task table (docs/prd-YYYYMMDD.md) from
     `TO_DO` to `IN_PROGRESS` before beginning any planning or execution work on the task.
-    This change is committed as part of the plan commit at the Task Plan Human Gate.
+    This change will be committed together with the implementation at the Task Approval Human Gate.
 
 - Plan Task
   - Agent: Software Engineer
@@ -228,20 +228,16 @@ start until all tasks listed in its Dependencies column are complete.
   - Reviewer: Human
   - Input: docs/plan-task-N-YYYYMMDD.md and any ADRs created
   - Decision: Approve, request changes, or reject
-  - Gate: Must pass before committing plan and executing the task
-  - CRITICAL: DO NOT commit plan before human approval
+  - Gate: Must pass before executing the task
   - Instruction: STOP. Do not proceed. Present the following to the human:
     1. Plan summary (what will be built)
     2. Review status and findings
-    3. Proposed commit message (Conventional Commits: concise subject + brief body, 2-3 sentences max)
-    4. Ask: "Task N plan is ready. Please review docs/plan-task-N-YYYYMMDD.md and the proposed
-       commit message. What is your decision?"
-    - Options: Approve / Request Changes / Modify Commit Message / Reject
-    - If Approve: Commit with the proposed message, proceed to Execute Task
+    3. Ask: "Task N plan is ready. Please review docs/plan-task-N-YYYYMMDD.md. What is your decision?"
+    - Options: Approve / Request Changes / Reject
+    - If Approve: Proceed to Execute Task (plan will be committed with implementation at Human Gate 6)
     - If Request Changes: Ask "What changes are needed?" then revise the plan and present for review again
-    - If Modify Commit Message: Ask for the new message, then commit and proceed
     - If Reject: Re-plan the task from scratch
-  - You MUST wait for explicit human approval before committing plan and executing
+  - You MUST wait for explicit human approval before executing
 
 - Execute Task
   - Agent: Software Engineer
@@ -272,8 +268,8 @@ start until all tasks listed in its Dependencies column are complete.
     5. Ask: "Task N implementation is complete. Please review the code changes and proposed
        commit message. What is your decision?"
     - Options: Approve / Request Changes / Modify Commit Message / Reject
-    - If Approve: Update status to DONE in the PRD task table, then commit both the implementation
-      and status change together with the proposed message. Proceed to next task.
+    - If Approve: Update status to DONE in the PRD task table, then commit plan + implementation +
+      status change together with the proposed message. Proceed to next task.
     - If Request Changes: Ask "What changes are needed?" then revise and present for review again
     - If Modify Commit Message: Ask for the new message, then commit and proceed
     - If Reject: Revert changes, re-plan the task from scratch. Status remains `IN_PROGRESS`.

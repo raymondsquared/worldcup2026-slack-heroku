@@ -1,0 +1,376 @@
+{
+  "id": 54,
+  "dateAndTimeInUTC": "2026-06-25T01:00:00+00:00",
+  "stage": "Group Stage - 3",
+  "externalId": 1539010,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "CZE",
+    "homeTeamExternalId": 770,
+    "awayTeamId": "MEX",
+    "awayTeamExternalId": 16
+  },
+  "finalScore": {
+    "home": 0,
+    "away": 3
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 0,
+      "away": 3
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 55,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 390002,
+      "playerName": "M. Chavez",
+      "assistPlayerExternalId": 35970,
+      "assistPlayerName": "L. Romo",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 56,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 290212,
+      "playerName": "D. Visinsky",
+      "assistPlayerExternalId": 66353,
+      "assistPlayerName": "L. Provod",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 35532,
+      "playerName": "J. Quinones",
+      "assistPlayerExternalId": 2878,
+      "assistPlayerName": "J. Sanchez",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 63,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 36088,
+      "playerName": "G. Martinez",
+      "assistPlayerExternalId": 94562,
+      "assistPlayerName": "S. Gimenez",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 63,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 35970,
+      "playerName": "L. Romo",
+      "assistPlayerExternalId": 313383,
+      "assistPlayerName": "O. Vargas",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 2869,
+      "playerName": "E. Alvarez",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Tripping"
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 66019,
+      "playerName": "A. Hlozek",
+      "assistPlayerExternalId": 794,
+      "assistPlayerName": "P. Schick",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 2252,
+      "playerName": "T. Holes",
+      "assistPlayerExternalId": 1243,
+      "assistPlayerName": "T. Soucek",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 482605,
+      "playerName": "G. Mora",
+      "assistPlayerExternalId": 750,
+      "assistPlayerName": "Alvaro Fidalgo",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 78,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 270774,
+      "playerName": "J. Rangel",
+      "assistPlayerExternalId": 2098,
+      "assistPlayerName": "G. Ochoa",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 78,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 390002,
+      "playerName": "M. Chavez",
+      "assistPlayerExternalId": 2881,
+      "assistPlayerName": "J. Gallardo",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 87,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 162194,
+      "playerName": "L. Cerv",
+      "assistPlayerExternalId": 818,
+      "assistPlayerName": "T. Chory",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 87,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 1243,
+      "playerName": "T. Soucek",
+      "assistPlayerExternalId": 386837,
+      "assistPlayerName": "A. Sojka",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": 4,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 750,
+      "playerName": "Alvaro Fidalgo",
+      "assistPlayerExternalId": 2879,
+      "assistPlayerName": "R. Alvarado",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "CZE",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 1
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 8
+        },
+        {
+          "type": "Total Shots",
+          "value": 13
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 4
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 6
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 7
+        },
+        {
+          "type": "Fouls",
+          "value": 9
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "52%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 398
+        },
+        {
+          "type": "Passes accurate",
+          "value": 332
+        },
+        {
+          "type": "Passes %",
+          "value": "83%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.47"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.13"
+        }
+      ]
+    },
+    {
+      "teamId": "MEX",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 5
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 11
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 9
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 13
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 1
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "48%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 388
+        },
+        {
+          "type": "Passes accurate",
+          "value": 331
+        },
+        {
+          "type": "Passes %",
+          "value": "85%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.79"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.13"
+        }
+      ]
+    }
+  ],
+  "group": "Group A"
+}

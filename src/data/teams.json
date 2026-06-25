@@ -49,8 +49,8 @@
     "name": "Bosnia & Herzegovina",
     "group": "Group B",
     "rank": 3,
-    "points": 1,
-    "goalsDiff": -3,
+    "points": 4,
+    "goalsDiff": -1,
     "externalId": 1113
   },
   {
@@ -58,17 +58,17 @@
     "name": "Brazil",
     "group": "Group C",
     "rank": 1,
-    "points": 4,
-    "goalsDiff": 3,
+    "points": 7,
+    "goalsDiff": 6,
     "externalId": 6
   },
   {
     "id": "CAN",
     "name": "Canada",
     "group": "Group B",
-    "rank": 1,
+    "rank": 2,
     "points": 4,
-    "goalsDiff": 6,
+    "goalsDiff": 5,
     "externalId": 5529
   },
   {
@@ -120,9 +120,9 @@
     "id": "CZE",
     "name": "Czechia",
     "group": "Group A",
-    "rank": 3,
+    "rank": 4,
     "points": 1,
-    "goalsDiff": -1,
+    "goalsDiff": -4,
     "externalId": 770
   },
   {
@@ -185,7 +185,7 @@
     "group": "Group C",
     "rank": 4,
     "points": 0,
-    "goalsDiff": -4,
+    "goalsDiff": -6,
     "externalId": 2386
   },
   {
@@ -238,8 +238,8 @@
     "name": "Mexico",
     "group": "Group A",
     "rank": 1,
-    "points": 6,
-    "goalsDiff": 3,
+    "points": 9,
+    "goalsDiff": 6,
     "externalId": 16
   },
   {
@@ -247,8 +247,8 @@
     "name": "Morocco",
     "group": "Group C",
     "rank": 2,
-    "points": 4,
-    "goalsDiff": 1,
+    "points": 7,
+    "goalsDiff": 3,
     "externalId": 31
   },
   {
@@ -311,7 +311,7 @@
     "group": "Group B",
     "rank": 4,
     "points": 1,
-    "goalsDiff": -6,
+    "goalsDiff": -8,
     "externalId": 1569
   },
   {
@@ -329,7 +329,7 @@
     "group": "Group C",
     "rank": 3,
     "points": 3,
-    "goalsDiff": 0,
+    "goalsDiff": -3,
     "externalId": 1108
   },
   {
@@ -345,18 +345,18 @@
     "id": "RSA",
     "name": "South Africa",
     "group": "Group A",
-    "rank": 4,
-    "points": 1,
-    "goalsDiff": -2,
+    "rank": 2,
+    "points": 4,
+    "goalsDiff": -1,
     "externalId": 1531
   },
   {
     "id": "KOR",
     "name": "South Korea",
     "group": "Group A",
-    "rank": 2,
+    "rank": 3,
     "points": 3,
-    "goalsDiff": 0,
+    "goalsDiff": -1,
     "externalId": 17
   },
   {
@@ -381,9 +381,9 @@
     "id": "SUI",
     "name": "Switzerland",
     "group": "Group B",
-    "rank": 2,
-    "points": 4,
-    "goalsDiff": 3,
+    "rank": 1,
+    "points": 7,
+    "goalsDiff": 4,
     "externalId": 15
   },
   {

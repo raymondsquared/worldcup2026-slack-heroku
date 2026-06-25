@@ -1,6 +1,6 @@
 'use strict';
 
-const { chat, chatWithTools } = require('./client');
+const { chat, chatWithTools, chatWithAgent } = require('./client');
 const { maskPii, demaskPii, sanitizeInput, filterToxic, TOXIC_REPLY } = require('./guardrails');
 const { logInteraction } = require('./audit');
 const { isFootballRelated: isFootballRelatedKeyword } = require('./scope');
@@ -14,6 +14,9 @@ const {
 const { isLowConfidence } = require('./low-confidence');
 const { webSearch } = require('../web-search');
 const { TOOL_SCHEMAS, dispatchTool, safeParseArgs } = require('./tools');
+
+// Feature flag: MCP tools (/v1/agents/heroku) vs ADR-6 tools (/v1/chat/completions)
+const USE_MCP_TOOLS = process.env.USE_MCP_TOOLS === 'true';
 
 const ANSWER_REGEX = /<answer>([\s\S]*?)<\/answer>/;
 const CONFIDENCE_REGEX = /<confidenceScore>(\d+)<\/confidenceScore>/;
@@ -188,8 +191,22 @@ async function ask(userText, opts = {}) {
     rawOutput = await chat(buildMessages(systemPrompt, context, sanitized), { temperature: 0 });
     retrievalPath = 'context';
     parsed = parseResponse(rawOutput);
+  } else if (USE_MCP_TOOLS) {
+    // (b) MCP agent endpoint with automatic tool execution
+    try {
+      const messages = buildMessages(systemPrompt, '', sanitized);
+      rawOutput = await chatWithAgent(messages, { enableMcp: true });
+      retrievalPath = 'mcp_agent';
+      toolsCalled = ['mcp-football'];
+      parsed = parseResponse(rawOutput);
+    } catch (err) {
+      console.error('MCP agent call failed, falling back to direct:', err.message);
+      rawOutput = await chat(buildMessages(systemPrompt, '', sanitized), { temperature: 0 });
+      retrievalPath = 'direct';
+      parsed = parseResponse(rawOutput);
+    }
   } else {
-    // (b) PRIMARY: let the model drive retrieval via the read-only tool loop.
+    // (c) ADR-6 tool loop
     const toolResult = await retrieveWithTools(sanitized, systemPrompt);
     if (toolResult) {
       rawOutput = toolResult.rawOutput;

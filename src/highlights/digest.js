@@ -5,6 +5,7 @@ const { sanitizeInput } = require('../mia/guardrails');
 const { getRandomPersona, RECAP_PERSONAS } = require('../mia/personas');
 const { getFixtureById, getTeamName } = require('../data');
 const { getFlag } = require('../broadcast/flags');
+const { possessionChartUrl, statsChartUrl } = require('../broadcast/charts');
 const { slackDate, utcTime } = require('../lib/format');
 
 const CHANNEL = process.env.BROADCAST_CHANNEL_ID;
@@ -99,6 +100,18 @@ function buildMatchBlocks(matches) {
         action_id: `digest_watch_${match.fixture.id}`,
       },
     });
+
+    const stats = fixture?.statistics;
+    if (stats) {
+      const possUrl = possessionChartUrl(stats, homeId, awayId, home, away);
+      if (possUrl) {
+        blocks.push({ type: 'image', image_url: possUrl, alt_text: 'Ball Possession' });
+      }
+      const matchStatsUrl = statsChartUrl(stats, homeId, awayId, home, away);
+      if (matchStatsUrl) {
+        blocks.push({ type: 'image', image_url: matchStatsUrl, alt_text: 'Match Stats' });
+      }
+    }
   }
 
   return blocks;

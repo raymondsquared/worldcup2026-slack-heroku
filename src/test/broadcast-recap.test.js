@@ -446,6 +446,7 @@ describe('broadcast/recap - buildRecapBlocks', () => {
     expect(scoreLine).toContain('Away');
     expect(scoreLine).toContain('0 - 0');
   });
+
 });
 
 describe('broadcast/recap - generateRecap', () => {

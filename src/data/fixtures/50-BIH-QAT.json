@@ -1,0 +1,402 @@
+{
+  "id": 50,
+  "dateAndTimeInUTC": "2026-06-24T19:00:00+00:00",
+  "stage": "Group Stage - 3",
+  "externalId": 1539009,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "BIH",
+    "homeTeamExternalId": 1113,
+    "awayTeamId": "QAT",
+    "awayTeamExternalId": 1569
+  },
+  "finalScore": {
+    "home": 3,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 2,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 3,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 29,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 395559,
+      "playerName": "Kerim-Sam Alajbegovic",
+      "assistPlayerExternalId": 162222,
+      "assistPlayerName": "I. Basic",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 34,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 42207,
+      "playerName": "Mahmud Abunada",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Own Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 42,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 2545,
+      "playerName": "Hassan Al Haydos",
+      "assistPlayerExternalId": 42075,
+      "assistPlayerName": "Edmilson Junior",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 409670,
+      "playerName": "A. Malic",
+      "assistPlayerExternalId": 322101,
+      "assistPlayerName": "A. Memic",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 1324,
+      "playerName": "I. Sunjic",
+      "assistPlayerExternalId": 264094,
+      "assistPlayerName": "B. Tahirovic",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 200981,
+      "playerName": "Jassem Gaber",
+      "assistPlayerExternalId": 2533,
+      "assistPlayerName": "Abdulaziz Hatem",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 56,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 2545,
+      "playerName": "Hassan Al Haydos",
+      "assistPlayerExternalId": 42286,
+      "assistPlayerName": "Ahmed Al Ganehi",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 63,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 1741,
+      "playerName": "N. Katic",
+      "assistPlayerExternalId": 53517,
+      "assistPlayerName": "D. Hadzikadunic",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 790,
+      "playerName": "E. Dzeko",
+      "assistPlayerExternalId": 340173,
+      "assistPlayerName": "Ermin Mahmic",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 2537,
+      "playerName": "Karim Boudiaf",
+      "assistPlayerExternalId": 2543,
+      "assistPlayerName": "Almoez Ali",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 78,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 2539,
+      "playerName": "Ahmed Fathi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 2539,
+      "playerName": "Ahmed Fathi",
+      "assistPlayerExternalId": 283174,
+      "assistPlayerName": "Mohamed Al Manai",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 42075,
+      "playerName": "Edmilson Junior",
+      "assistPlayerExternalId": 2542,
+      "assistPlayerName": "Ahmed Alaa",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 340173,
+      "playerName": "Ermin Mahmic",
+      "assistPlayerExternalId": 53517,
+      "assistPlayerName": "D. Hadzikadunic",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 82,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 340173,
+      "playerName": "Ermin Mahmic",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 82,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 395559,
+      "playerName": "Kerim-Sam Alajbegovic",
+      "assistPlayerExternalId": 25129,
+      "assistPlayerName": "D. Burnic",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "BIH",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 5
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 14
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 5
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 10
+        },
+        {
+          "type": "Fouls",
+          "value": 9
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "55%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 516
+        },
+        {
+          "type": "Passes accurate",
+          "value": 452
+        },
+        {
+          "type": "Passes %",
+          "value": "88%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.64"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-2.11"
+        }
+      ]
+    },
+    {
+      "teamId": "QAT",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 6
+        },
+        {
+          "type": "Total Shots",
+          "value": 9
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 0
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 5
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 14
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "45%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 434
+        },
+        {
+          "type": "Passes accurate",
+          "value": 370
+        },
+        {
+          "type": "Passes %",
+          "value": "85%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.77"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-2.11"
+        }
+      ]
+    }
+  ],
+  "group": "Group B"
+}

@@ -1,0 +1,467 @@
+{
+  "id": 51,
+  "dateAndTimeInUTC": "2026-06-24T22:00:00+00:00",
+  "stage": "Group Stage - 3",
+  "externalId": 1489405,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "MAR",
+    "homeTeamExternalId": 31,
+    "awayTeamId": "HAI",
+    "awayTeamExternalId": 2386
+  },
+  "finalScore": {
+    "home": 4,
+    "away": 2
+  },
+  "score": {
+    "halftime": {
+      "home": 2,
+      "away": 2
+    },
+    "fulltime": {
+      "home": 4,
+      "away": 2
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 10,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 2701,
+      "playerName": "Y. Bounou",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Own Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 39,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 9,
+      "playerName": "A. Hakimi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Var",
+      "minute": 40,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 9,
+      "playerName": "A. Hakimi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Goal confirmed",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 43,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 84087,
+      "playerName": "W. Isidor",
+      "assistPlayerExternalId": 20655,
+      "assistPlayerName": "J. Duverne",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 45,
+      "extraMinute": 1,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 161897,
+      "playerName": "I. Saibari",
+      "assistPlayerExternalId": 9,
+      "assistPlayerName": "A. Hakimi",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 67,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 84087,
+      "playerName": "W. Isidor",
+      "assistPlayerExternalId": 128766,
+      "assistPlayerName": "L. Deedson",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 67,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 162733,
+      "playerName": "R. Providence",
+      "assistPlayerExternalId": 45020,
+      "assistPlayerName": "D. Nazon",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 70,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 161897,
+      "playerName": "I. Saibari",
+      "assistPlayerExternalId": 36579,
+      "assistPlayerName": "S. Rahimi",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 70,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 744,
+      "playerName": "Brahim Diaz",
+      "assistPlayerExternalId": 129678,
+      "assistPlayerName": "A. Ounahi",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 70,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 2722,
+      "playerName": "A. El Kaabi",
+      "assistPlayerExternalId": 369544,
+      "assistPlayerName": "Gessime Yassine",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 78,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 36579,
+      "playerName": "S. Rahimi",
+      "assistPlayerExternalId": 278898,
+      "assistPlayerName": "C. Riad",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 87789,
+      "playerName": "J. Placide",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "type": "Card",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 45020,
+      "playerName": "D. Nazon",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 338367,
+      "playerName": "D. Jean-Jacques",
+      "assistPlayerExternalId": 194242,
+      "assistPlayerName": "D. Simon",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 20655,
+      "playerName": "J. Duverne",
+      "assistPlayerExternalId": 20850,
+      "assistPlayerName": "C. Arcus",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 277003,
+      "playerName": "N. El Aynaoui",
+      "assistPlayerExternalId": 415431,
+      "assistPlayerName": "S. El Mourabet",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 162451,
+      "playerName": "A. Salah-Eddine",
+      "assistPlayerExternalId": 545,
+      "assistPlayerName": "N. Mazraoui",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 21613,
+      "playerName": "L. Joseph",
+      "assistPlayerExternalId": 8601,
+      "assistPlayerName": "F. Pierrot",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 369544,
+      "playerName": "Gessime Yassine",
+      "assistPlayerExternalId": 36579,
+      "assistPlayerName": "S. Rahimi",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Var",
+      "minute": 90,
+      "extraMinute": 1,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 369544,
+      "playerName": "Gessime Yassine",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Goal confirmed",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 174915,
+      "playerName": "J. Casimir",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "MAR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 11
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 6
+        },
+        {
+          "type": "Total Shots",
+          "value": 22
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 5
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 15
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 7
+        },
+        {
+          "type": "Fouls",
+          "value": 10
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 9
+        },
+        {
+          "type": "Offsides",
+          "value": 5
+        },
+        {
+          "type": "Ball Possession",
+          "value": "70%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 540
+        },
+        {
+          "type": "Passes accurate",
+          "value": 478
+        },
+        {
+          "type": "Passes %",
+          "value": "89%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "3.26"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.23"
+        }
+      ]
+    },
+    {
+      "teamId": "HAI",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 1
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 5
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 2
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 18
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 0
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "30%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 3
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 8
+        },
+        {
+          "type": "Total passes",
+          "value": 242
+        },
+        {
+          "type": "Passes accurate",
+          "value": 193
+        },
+        {
+          "type": "Passes %",
+          "value": "80%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.52"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.23"
+        }
+      ]
+    }
+  ],
+  "group": "Group C"
+}

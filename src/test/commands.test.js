@@ -275,8 +275,7 @@ describe('highlightsBlocks', () => {
   });
 
   test('returns match cards with header, divider, and footer when highlights exist', () => {
-    // Use real fixture ids + teams (1 = MEX/RSA, 2 = KOR/CZE) so the data that
-    // buildMatchBlocks re-fetches via getFixtureById matches the mocked input.
+    // Real fixture ids so getFixtureById returns matching data
     getLatestHighlights.mockReturnValue([
       {
         fixture: { id: 1, teams: { homeTeamId: 'MEX', awayTeamId: 'RSA' } },
@@ -292,25 +291,29 @@ describe('highlightsBlocks', () => {
 
     const blocks = highlightsBlocks();
 
-    // header + divider + 2 match sections + divider + context
-    expect(blocks).toHaveLength(6);
+    // Chart image blocks may vary; check structural anchors
     expect(blocks[0].type).toBe('header');
     expect(blocks[0].text.text).toContain('Recent Highlights');
     expect(blocks[1].type).toBe('divider');
     expect(blocks[2].type).toBe('section');
     expect(blocks[2].accessory.type).toBe('button');
-    expect(blocks[3].type).toBe('section');
-    expect(blocks[4].type).toBe('divider');
-    expect(blocks[5].type).toBe('context');
-    expect(blocks[5].elements[0].text).toContain('2 matches');
 
-    // Content matches the real fixture rows (names/score from getFixtureById)
+    // Footer
+    const last = blocks[blocks.length - 1];
+    const secondLast = blocks[blocks.length - 2];
+    expect(secondLast.type).toBe('divider');
+    expect(last.type).toBe('context');
+    expect(last.elements[0].text).toContain('2 matches');
+
+    // Match content
     expect(blocks[2].text.text).toContain('Mexico');
     expect(blocks[2].text.text).toContain('South Africa');
-    expect(blocks[3].text.text).toContain('South Korea');
-    expect(blocks[3].text.text).toContain('Czechia');
-    // KOR vs CZE real finalScore is 2-1 - input and re-fetched data agree
-    expect(blocks[3].text.text).toContain('2 - 1');
+
+    // Second match
+    const sections = blocks.filter((b) => b.type === 'section');
+    expect(sections[1].text.text).toContain('South Korea');
+    expect(sections[1].text.text).toContain('Czechia');
+    expect(sections[1].text.text).toContain('2 - 1');
   });
 
   test('returns friendly message when no highlights available', () => {

@@ -287,11 +287,11 @@
         },
         {
           "type": "Total passes",
-          "value": 352
+          "value": 353
         },
         {
           "type": "Passes accurate",
-          "value": 283
+          "value": 282
         },
         {
           "type": "Passes %",
@@ -299,11 +299,11 @@
         },
         {
           "type": "expected_goals",
-          "value": "2.10"
+          "value": "2.20"
         },
         {
           "type": "goals_prevented",
-          "value": "-1.19"
+          "value": "-1.05"
         }
       ]
     },
@@ -316,7 +316,7 @@
         },
         {
           "type": "Shots off Goal",
-          "value": 6
+          "value": 7
         },
         {
           "type": "Total Shots",
@@ -324,7 +324,7 @@
         },
         {
           "type": "Blocked Shots",
-          "value": 6
+          "value": 5
         },
         {
           "type": "Shots insidebox",
@@ -364,11 +364,11 @@
         },
         {
           "type": "Total passes",
-          "value": 487
+          "value": 489
         },
         {
           "type": "Passes accurate",
-          "value": 429
+          "value": 430
         },
         {
           "type": "Passes %",
@@ -376,11 +376,11 @@
         },
         {
           "type": "expected_goals",
-          "value": "1.70"
+          "value": "1.72"
         },
         {
           "type": "goals_prevented",
-          "value": "-1.19"
+          "value": "-1.05"
         }
       ]
     }

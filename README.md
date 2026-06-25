@@ -25,9 +25,15 @@ Required environment variables (set in `.env` locally or Heroku config vars):
 
 ## Commands
 
+### Development
+
 - `npm start` - run the app
 - `npm run dev` - run with live reload
+
+### Testing
+
 - `npm test` - run tests
+- `npm run test:mcp` - test MCP Football API tools
 - `npm run lint` - lint all (JS + markdown)
 - `npm run lint:js` - lint JavaScript only
 - `npm run lint:md` - lint markdown only
@@ -83,6 +89,97 @@ sync:teams (must run first - other commands need externalId in teams.json)
 - Highlight backfill: `npm run sync:highlights` to backfill highlight URLs
   for all matchable fixtures
 - Data only (no highlights): `npm run sync:data`
+
+## MCP Server (Football API)
+
+The app includes an MCP server that exposes Football API data to Heroku Managed
+Inference for AI chat interactions.
+
+### Deployment Architecture
+
+**Common Runtime Deployment:** `rb-mia-slack-wc26-ext`
+
+The app runs both the Slack bot worker and MCP server in a single Common Runtime
+app. MCP STDIO transport requires Common Runtime (not supported in Private Spaces).
+
+The MCP server uses STDIO transport and runs on-demand (one-off dynos) when
+tools are called by Heroku Managed Inference.
+
+### Available Tools
+
+1. **football_get_live_fixtures** - Get currently live World Cup 2026 fixtures
+2. **football_get_fixtures_by_date** - Get fixtures for a specific date (YYYY-MM-DD)
+3. **football_get_fixture_details** - Get detailed fixture with events/lineups/stats
+4. **football_get_team_squad** - Get team roster for a team
+5. **football_get_standings** - Get group standings (defaults to World Cup 2026)
+
+### Usage
+
+**Via Heroku Managed Inference (AI Chat):**
+
+When users @mention the bot or send DMs, MCP tools are automatically called via
+the `/v1/agents/heroku` endpoint to fetch fresh World Cup data.
+
+**Direct Testing via MCP Protocol:**
+
+```bash
+# Test locally with stdin/stdout
+echo '{"jsonrpc":"2.0","id":1,"method":"tools/list","params":{}}' | \
+  node --env-file=.env src/mcp/football-server.js 2>/dev/null
+
+# Or use the automated test suite
+npm run test:mcp
+```
+
+**Testing via Heroku Inference API:**
+
+```bash
+curl -X POST "$INFERENCE_URL/v1/agents/heroku" \
+  -H "Authorization: Bearer $INFERENCE_KEY" \
+  -H "Content-Type: application/json" \
+  -H "X-Forwarded-Proto: https" \
+  -d '{
+    "model": "'"$INFERENCE_MODEL_ID"'",
+    "messages": [{"role": "user", "content": "What are the current standings?"}],
+    "tools": [
+      {"type": "mcp", "name": "football_get_standings"},
+      {"type": "mcp", "name": "football_get_live_fixtures"}
+    ]
+  }'
+```
+
+### Architecture
+
+- **MCP Tools:** Automatically available when `USE_MCP_TOOLS=true`. Fetch fresh data
+  directly from Football API via `/v1/agents/heroku` endpoint with automatic tool
+  execution and orchestration.
+- **ADR-6 Tools (fallback):** When `USE_MCP_TOOLS=false`, uses manual control loop
+  via `/v1/chat/completions` endpoint. Primarily for slash commands and contexts
+  with explicit data.
+- **Transport:** STDIO (one-off dynos, ~300-500ms cold start)
+- **Security:** All errors sanitized to prevent API key leaks
+- **Filtering:** Responses filtered to World Cup 2026 only (league ID 1)
+
+See ADR-7 (STDIO transport) and ADR-8 (direct API calls) for architectural decisions.
+
+### Deployment
+
+The app runs in Common Runtime with both worker and MCP server processes:
+
+```bash
+# Deploy to Common Runtime
+git push heroku-common main
+
+# Check status
+heroku ps --app rb-mia-slack-wc26-ext
+
+# View logs
+heroku logs --tail --app rb-mia-slack-wc26-ext
+```
+
+The `Procfile` declares both process types:
+- `worker: node src/index.js` - Slack bot
+- `mcp-football: node src/mcp/football-server.js` - MCP server (on-demand)
 
 ## Acknowledgements
 

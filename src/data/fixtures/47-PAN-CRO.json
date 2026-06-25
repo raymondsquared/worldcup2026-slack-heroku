@@ -39,10 +39,10 @@
       "extraMinute": null,
       "teamId": "CRO",
       "teamExternalId": 3,
-      "playerExternalId": 66055,
-      "playerName": "P. Musa",
-      "assistPlayerExternalId": 46746,
-      "assistPlayerName": "A. Budimir",
+      "playerExternalId": 129033,
+      "playerName": "J. Gvardiol",
+      "assistPlayerExternalId": 726,
+      "assistPlayerName": "A. Kramaric",
       "detail": "Substitution 1",
       "comments": null
     },
@@ -52,10 +52,10 @@
       "extraMinute": null,
       "teamId": "CRO",
       "teamExternalId": 3,
-      "playerExternalId": 129033,
-      "playerName": "J. Gvardiol",
-      "assistPlayerExternalId": 726,
-      "assistPlayerName": "A. Kramaric",
+      "playerExternalId": 66055,
+      "playerName": "P. Musa",
+      "assistPlayerExternalId": 46746,
+      "assistPlayerName": "A. Budimir",
       "detail": "Substitution 2",
       "comments": null
     },
@@ -83,7 +83,7 @@
       "assistPlayerExternalId": null,
       "assistPlayerName": null,
       "detail": "Yellow Card",
-      "comments": "Roughing"
+      "comments": "Foul"
     },
     {
       "type": "subst",
@@ -151,17 +151,17 @@
       "comments": null
     },
     {
-      "type": "subst",
+      "type": "Card",
       "minute": 90,
-      "extraMinute": null,
-      "teamId": "PAN",
-      "teamExternalId": 11,
-      "playerExternalId": 2975,
-      "playerName": "C. Blackman",
-      "assistPlayerExternalId": 2970,
-      "assistPlayerName": "E. Davis",
-      "detail": "Substitution 3",
-      "comments": null
+      "extraMinute": 2,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 348205,
+      "playerName": "P. Sucic",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
     },
     {
       "type": "subst",
@@ -173,21 +173,21 @@
       "playerName": "Y. Barcenas",
       "assistPlayerExternalId": 57910,
       "assistPlayerName": "T. Rodriguez",
-      "detail": "Substitution 4",
+      "detail": "Substitution 3",
       "comments": null
     },
     {
-      "type": "Card",
+      "type": "subst",
       "minute": 90,
-      "extraMinute": 2,
-      "teamId": "CRO",
-      "teamExternalId": 3,
-      "playerExternalId": 348205,
-      "playerName": "P. Sucic",
-      "assistPlayerExternalId": null,
-      "assistPlayerName": null,
-      "detail": "Yellow Card",
-      "comments": "Tripping"
+      "extraMinute": null,
+      "teamId": "PAN",
+      "teamExternalId": 11,
+      "playerExternalId": 2975,
+      "playerName": "C. Blackman",
+      "assistPlayerExternalId": 2970,
+      "assistPlayerName": "E. Davis",
+      "detail": "Substitution 4",
+      "comments": null
     }
   ],
   "statistics": [

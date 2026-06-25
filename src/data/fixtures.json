@@ -1660,7 +1660,8 @@
         "home": null,
         "away": null
       }
-    }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=kwbH2dm1AXo"
   },
   {
     "id": 46,
@@ -1696,7 +1697,8 @@
         "home": null,
         "away": null
       }
-    }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=Qe-fptt6wXs"
   },
   {
     "id": 47,
@@ -1732,7 +1734,8 @@
         "home": null,
         "away": null
       }
-    }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=Y5PJGL-8qyM"
   },
   {
     "id": 48,
@@ -1768,7 +1771,8 @@
         "home": null,
         "away": null
       }
-    }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=JTGXHmxlXHc"
   },
   {
     "id": 49,
@@ -1776,7 +1780,7 @@
     "stage": "Group Stage - 3",
     "group": "Group B",
     "externalId": 1489408,
-    "status": "Not Started",
+    "status": "Match Finished",
     "teams": {
       "homeTeamId": "SUI",
       "homeTeamExternalId": 15,
@@ -1784,17 +1788,17 @@
       "awayTeamExternalId": 5529
     },
     "finalScore": {
-      "home": null,
-      "away": null
+      "home": 2,
+      "away": 1
     },
     "score": {
       "halftime": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "fulltime": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "extratime": {
         "home": null,
@@ -1812,7 +1816,7 @@
     "stage": "Group Stage - 3",
     "group": "Group B",
     "externalId": 1539009,
-    "status": "Not Started",
+    "status": "Match Finished",
     "teams": {
       "homeTeamId": "BIH",
       "homeTeamExternalId": 1113,
@@ -1820,17 +1824,17 @@
       "awayTeamExternalId": 1569
     },
     "finalScore": {
-      "home": null,
-      "away": null
+      "home": 3,
+      "away": 1
     },
     "score": {
       "halftime": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 1
       },
       "fulltime": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 1
       },
       "extratime": {
         "home": null,
@@ -1848,7 +1852,7 @@
     "stage": "Group Stage - 3",
     "group": "Group C",
     "externalId": 1489405,
-    "status": "Not Started",
+    "status": "Match Finished",
     "teams": {
       "homeTeamId": "MAR",
       "homeTeamExternalId": 31,
@@ -1856,17 +1860,17 @@
       "awayTeamExternalId": 2386
     },
     "finalScore": {
-      "home": null,
-      "away": null
+      "home": 4,
+      "away": 2
     },
     "score": {
       "halftime": {
-        "home": null,
-        "away": null
+        "home": 2,
+        "away": 2
       },
       "fulltime": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 2
       },
       "extratime": {
         "home": null,
@@ -1884,7 +1888,7 @@
     "stage": "Group Stage - 3",
     "group": "Group C",
     "externalId": 1489406,
-    "status": "Not Started",
+    "status": "Match Finished",
     "teams": {
       "homeTeamId": "SCO",
       "homeTeamExternalId": 1108,
@@ -1892,17 +1896,17 @@
       "awayTeamExternalId": 6
     },
     "finalScore": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 3
     },
     "score": {
       "halftime": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 2
       },
       "fulltime": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 3
       },
       "extratime": {
         "home": null,
@@ -1920,7 +1924,7 @@
     "stage": "Group Stage - 3",
     "group": "Group A",
     "externalId": 1489407,
-    "status": "Not Started",
+    "status": "Match Finished",
     "teams": {
       "homeTeamId": "RSA",
       "homeTeamExternalId": 1531,
@@ -1928,17 +1932,17 @@
       "awayTeamExternalId": 17
     },
     "finalScore": {
-      "home": null,
-      "away": null
+      "home": 1,
+      "away": 0
     },
     "score": {
       "halftime": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "fulltime": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
       "extratime": {
         "home": null,
@@ -1956,7 +1960,7 @@
     "stage": "Group Stage - 3",
     "group": "Group A",
     "externalId": 1539010,
-    "status": "Not Started",
+    "status": "Match Finished",
     "teams": {
       "homeTeamId": "CZE",
       "homeTeamExternalId": 770,
@@ -1964,17 +1968,17 @@
       "awayTeamExternalId": 16
     },
     "finalScore": {
-      "home": null,
-      "away": null
+      "home": 0,
+      "away": 3
     },
     "score": {
       "halftime": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
       "fulltime": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 3
       },
       "extratime": {
         "home": null,
@@ -2610,6 +2614,42 @@
       "homeTeamExternalId": 1548,
       "awayTeamId": "ARG",
       "awayTeamExternalId": 26
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 73,
+    "dateAndTimeInUTC": "2026-06-28T19:00:00+00:00",
+    "stage": "Round of 32",
+    "group": null,
+    "externalId": 1561329,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "RSA",
+      "homeTeamExternalId": 1531,
+      "awayTeamId": "CAN",
+      "awayTeamExternalId": 5529
     },
     "finalScore": {
       "home": null,

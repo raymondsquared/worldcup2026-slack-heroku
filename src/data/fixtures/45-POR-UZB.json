@@ -104,10 +104,10 @@
       "extraMinute": null,
       "teamId": "POR",
       "teamExternalId": 27,
-      "playerExternalId": 1864,
-      "playerName": "Pedro Neto",
-      "assistPlayerExternalId": 161585,
-      "assistPlayerName": "Francisco Conceicao",
+      "playerExternalId": 855,
+      "playerName": "Joao Cancelo",
+      "assistPlayerExternalId": 130,
+      "assistPlayerName": "Nelson Semedo",
       "detail": "Substitution 1",
       "comments": null
     },
@@ -117,24 +117,11 @@
       "extraMinute": null,
       "teamId": "POR",
       "teamExternalId": 27,
-      "playerExternalId": 855,
-      "playerName": "Joao Cancelo",
-      "assistPlayerExternalId": 130,
-      "assistPlayerName": "Nelson Semedo",
+      "playerExternalId": 1864,
+      "playerName": "Pedro Neto",
+      "assistPlayerExternalId": 161585,
+      "assistPlayerName": "Francisco Conceicao",
       "detail": "Substitution 2",
-      "comments": null
-    },
-    {
-      "type": "subst",
-      "minute": 46,
-      "extraMinute": null,
-      "teamId": "UZB",
-      "teamExternalId": 1568,
-      "playerExternalId": 53835,
-      "playerName": "O. Hamrobekov",
-      "assistPlayerExternalId": 73522,
-      "assistPlayerName": "A. Mozgovoy",
-      "detail": "Substitution 1",
       "comments": null
     },
     {
@@ -147,6 +134,19 @@
       "playerName": "S. Nasrullayev",
       "assistPlayerExternalId": 72122,
       "assistPlayerName": "K. Alijonov",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 53835,
+      "playerName": "O. Hamrobekov",
+      "assistPlayerExternalId": 73522,
+      "assistPlayerName": "A. Mozgovoy",
       "detail": "Substitution 2",
       "comments": null
     },
@@ -165,7 +165,7 @@
     },
     {
       "type": "subst",
-      "minute": 64,
+      "minute": 63,
       "extraMinute": null,
       "teamId": "POR",
       "teamExternalId": 27,
@@ -244,26 +244,26 @@
     {
       "type": "subst",
       "minute": 90,
-      "extraMinute": null,
-      "teamId": "UZB",
-      "teamExternalId": 1568,
-      "playerExternalId": 50272,
-      "playerName": "O. Shukurov",
-      "assistPlayerExternalId": 363723,
-      "assistPlayerName": "S. Esanov",
-      "detail": "Substitution 4",
-      "comments": null
-    },
-    {
-      "type": "subst",
-      "minute": 90,
-      "extraMinute": null,
+      "extraMinute": 2,
       "teamId": "UZB",
       "teamExternalId": 1568,
       "playerExternalId": 416964,
       "playerName": "B. Karimov",
       "assistPlayerExternalId": 312231,
       "assistPlayerName": "Ruslanbek Jiyanov",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 2,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 50272,
+      "playerName": "O. Shukurov",
+      "assistPlayerExternalId": 363723,
+      "assistPlayerName": "S. Esanov",
       "detail": "Substitution 5",
       "comments": null
     }
@@ -326,7 +326,7 @@
         },
         {
           "type": "Total passes",
-          "value": 623
+          "value": 624
         },
         {
           "type": "Passes accurate",
@@ -338,11 +338,11 @@
         },
         {
           "type": "expected_goals",
-          "value": "2.41"
+          "value": "2.61"
         },
         {
           "type": "goals_prevented",
-          "value": "-1.08"
+          "value": "-1.51"
         }
       ]
     },
@@ -403,23 +403,23 @@
         },
         {
           "type": "Total passes",
-          "value": 324
+          "value": 327
         },
         {
           "type": "Passes accurate",
-          "value": 263
+          "value": 262
         },
         {
           "type": "Passes %",
-          "value": "81%"
+          "value": "80%"
         },
         {
           "type": "expected_goals",
-          "value": "0.25"
+          "value": "0.24"
         },
         {
           "type": "goals_prevented",
-          "value": "-1.08"
+          "value": "-1.51"
         }
       ]
     }

@@ -285,6 +285,70 @@ describe('highlights/digest', () => {
 
       expect(blocks[0].text.text).toContain('`? - ?`');
     });
+
+    test('includes chart image blocks when fixture has statistics', () => {
+      getFixtureById.mockReturnValue({
+        id: 1,
+        teams: { homeTeamId: 'MEX', awayTeamId: 'RSA' },
+        finalScore: { home: 2, away: 0 },
+        stage: 'Group Stage - 1',
+        group: 'Group A',
+        statistics: [
+          {
+            teamId: 'MEX',
+            statistics: [
+              { type: 'Ball Possession', value: '65%' },
+              { type: 'Total Shots', value: 18 },
+            ],
+          },
+          {
+            teamId: 'RSA',
+            statistics: [
+              { type: 'Ball Possession', value: '35%' },
+              { type: 'Total Shots', value: 7 },
+            ],
+          },
+        ],
+      });
+      const matches = [makeMatch(1, 'MEX', 'RSA', 'https://youtube.com/watch?v=abc', 'Highlights')];
+
+      const blocks = buildMatchBlocks(matches);
+
+      const imageBlocks = blocks.filter((b) => b.type === 'image');
+      expect(imageBlocks).toHaveLength(2);
+      expect(imageBlocks[0].alt_text).toBe('Ball Possession');
+      expect(imageBlocks[0].image_url).toContain('quickchart.io');
+      expect(imageBlocks[1].alt_text).toBe('Match Stats');
+      expect(imageBlocks[1].image_url).toContain('quickchart.io');
+    });
+
+    test('skips chart blocks when fixture has no statistics', () => {
+      const matches = [makeMatch(1, 'MEX', 'RSA', 'https://youtube.com/watch?v=abc', 'Highlights')];
+
+      const blocks = buildMatchBlocks(matches);
+
+      const imageBlocks = blocks.filter((b) => b.type === 'image');
+      expect(imageBlocks).toHaveLength(0);
+    });
+
+    test('shows only possession chart when shots data is missing', () => {
+      getFixtureById.mockReturnValue({
+        id: 1,
+        teams: { homeTeamId: 'MEX', awayTeamId: 'RSA' },
+        finalScore: { home: 2, away: 0 },
+        statistics: [
+          { teamId: 'MEX', statistics: [{ type: 'Ball Possession', value: '60%' }] },
+          { teamId: 'RSA', statistics: [{ type: 'Ball Possession', value: '40%' }] },
+        ],
+      });
+      const matches = [makeMatch(1, 'MEX', 'RSA', 'https://youtube.com/watch?v=abc', 'Highlights')];
+
+      const blocks = buildMatchBlocks(matches);
+
+      const imageBlocks = blocks.filter((b) => b.type === 'image');
+      expect(imageBlocks).toHaveLength(1);
+      expect(imageBlocks[0].alt_text).toBe('Ball Possession');
+    });
   });
 
   describe('buildDigestContext', () => {

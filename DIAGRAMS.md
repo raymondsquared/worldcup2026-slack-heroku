@@ -6,11 +6,13 @@
 flowchart TD
     user["<b>Slack User</b>\n[Person]\n\nAsks World Cup questions,\nreceives match updates"]
 
-    app["<b>World Cup 2026 Slack App</b>\n[Software System]\n\nProvides AI-powered World Cup info,\nlive match broadcasting, and\nconversational responses"]
+    app["<b>World Cup 2026 Slack App</b>\n[Software System]\n[Heroku Private Space]\n\nSlack bot, live broadcasting,\nslash commands"]
+
+    mcpserver["<b>Football API MCP Server</b>\n[Software System]\n[Heroku Common Runtime]\n\nExposes Football API data\nvia MCP protocol"]
 
     slack["<b>Slack</b>\n[External System]\n\nTeam messaging and\ncollaboration platform"]
 
-    mia["<b>Heroku MIA (Managed Inference Agents)</b>\n[External System]\n\nAI inference and\nlanguage model service"]
+    mia["<b>Heroku MIA</b>\n[External System]\n[Attached to MCP Server]\n\nAI inference and\nlanguage model service"]
 
     football["<b>Football Data API</b>\n[External System]\n\nLive fixtures, scores,\nevents, and squads"]
 
@@ -21,17 +23,27 @@ flowchart TD
     user -- "Slash commands,\n@mentions, DMs" --> slack
     slack -- "Events via\nWebSocket" --> app
     app -- "Block Kit responses,\nlive match cards" --> slack
-    app <-- "Grounded prompts /\nAI responses\n[HTTPS]" --> mia
+    app -- "AI chat requests\n[HTTPS]" --> mia
+    mia -- "MCP tool calls\n[STDIO]" --> mcpserver
+    mia -- "AI responses" --> app
     app -- "Polls live fixtures,\nscores, events\n[HTTPS]" --> football
+    mcpserver -- "Direct API calls\n[HTTPS]" --> football
     app -- "Fallback search\nqueries [HTTPS]" --> websearch
     app -- "Fetches highlight\nvideos [HTTPS]" --> highlights
 ```
 
 Legend:
 
-- Software System (center) - The system being documented
+- Software System (center) - The systems being documented
 - External System - Third-party systems this system depends on
 - Person - End user of the system
+
+Deployment Model:
+
+- Slack App: Heroku Private Space (`rb-heroku-mia-slack-worldcup26`)
+- MCP Server: Heroku Common Runtime (`rb-mcp-football-server`)
+- Inference Add-on: Attached to MCP Server app
+- Private Space app uses MCP Server's INFERENCE_URL/KEY
 
 ## Container Diagram (C4)
 

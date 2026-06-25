@@ -1,0 +1,350 @@
+{
+  "id": 47,
+  "dateAndTimeInUTC": "2026-06-23T23:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489403,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "PAN",
+    "homeTeamExternalId": 11,
+    "awayTeamId": "CRO",
+    "awayTeamExternalId": 3
+  },
+  "finalScore": {
+    "home": 0,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 0,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 66055,
+      "playerName": "P. Musa",
+      "assistPlayerExternalId": 46746,
+      "assistPlayerName": "A. Budimir",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 129033,
+      "playerName": "J. Gvardiol",
+      "assistPlayerExternalId": 726,
+      "assistPlayerName": "A. Kramaric",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 54,
+      "extraMinute": null,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 46746,
+      "playerName": "A. Budimir",
+      "assistPlayerExternalId": 125171,
+      "assistPlayerName": "J. Stanisic",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "PAN",
+      "teamExternalId": 11,
+      "playerExternalId": 46855,
+      "playerName": "Y. Barcenas",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Roughing"
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 260865,
+      "playerName": "Marco Pasalic",
+      "assistPlayerExternalId": 7332,
+      "assistPlayerName": "L. Sucic",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 2291,
+      "playerName": "M. Kovacic",
+      "assistPlayerExternalId": 348205,
+      "assistPlayerName": "P. Sucic",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 77,
+      "extraMinute": null,
+      "teamId": "PAN",
+      "teamExternalId": 11,
+      "playerExternalId": 57667,
+      "playerName": "J. Ramos",
+      "assistPlayerExternalId": 51648,
+      "assistPlayerName": "C. Waterman",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 754,
+      "playerName": "L. Modric",
+      "assistPlayerExternalId": 2763,
+      "assistPlayerName": "Mario Pasalic",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "PAN",
+      "teamExternalId": 11,
+      "playerExternalId": 2983,
+      "playerName": "J. Fajardo",
+      "assistPlayerExternalId": 292396,
+      "assistPlayerName": "A. Londono",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "PAN",
+      "teamExternalId": 11,
+      "playerExternalId": 2975,
+      "playerName": "C. Blackman",
+      "assistPlayerExternalId": 2970,
+      "assistPlayerName": "E. Davis",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "PAN",
+      "teamExternalId": 11,
+      "playerExternalId": 46855,
+      "playerName": "Y. Barcenas",
+      "assistPlayerExternalId": 57910,
+      "assistPlayerName": "T. Rodriguez",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 2,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 348205,
+      "playerName": "P. Sucic",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Tripping"
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "PAN",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 1
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 8
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 6
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 19
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 7
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "42%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 352
+        },
+        {
+          "type": "Passes accurate",
+          "value": 277
+        },
+        {
+          "type": "Passes %",
+          "value": "79%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.55"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.04"
+        }
+      ]
+    },
+    {
+      "teamId": "CRO",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 6
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 12
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "58%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 512
+        },
+        {
+          "type": "Passes accurate",
+          "value": 432
+        },
+        {
+          "type": "Passes %",
+          "value": "84%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.65"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.04"
+        }
+      ]
+    }
+  ],
+  "group": "Group L"
+}

@@ -1,0 +1,391 @@
+{
+  "get": "standings",
+  "parameters": {
+    "league": "1",
+    "season": "2026"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "league": {
+        "id": 1,
+        "name": "World Cup",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/1.png",
+        "flag": null,
+        "season": 2026,
+        "standings": [
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 16,
+                "name": "Mexico",
+                "logo": "https://media.api-sports.io/football/teams/16.png"
+              },
+              "points": 6,
+              "goalsDiff": 4,
+              "group": "Group A",
+              "form": "WW",
+              "status": "same",
+              "description": "Promotion - World Cup (Knockout stage)",
+              "all": {
+                "played": 2,
+                "win": 2,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 5,
+                  "against": 1
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 1
+                }
+              },
+              "update": "2026-06-15T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 2384,
+                "name": "USA",
+                "logo": "https://media.api-sports.io/football/teams/2384.png"
+              },
+              "points": 3,
+              "goalsDiff": 3,
+              "group": "Group A",
+              "form": "WL",
+              "status": "same",
+              "description": "Promotion - World Cup (Knockout stage)",
+              "all": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 4,
+                  "against": 1
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 1
+                }
+              },
+              "update": "2026-06-15T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 1534,
+                "name": "Mali",
+                "logo": "https://media.api-sports.io/football/teams/1534.png"
+              },
+              "points": 3,
+              "goalsDiff": -1,
+              "group": "Group A",
+              "form": "LW",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 2
+                }
+              },
+              "update": "2026-06-15T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 1531,
+                "name": "South Africa",
+                "logo": "https://media.api-sports.io/football/teams/1531.png"
+              },
+              "points": 0,
+              "goalsDiff": -6,
+              "group": "Group A",
+              "form": "LL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 2,
+                "win": 0,
+                "draw": 0,
+                "lose": 2,
+                "goals": {
+                  "for": 0,
+                  "against": 6
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 3
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 3
+                }
+              },
+              "update": "2026-06-15T00:00:00+00:00"
+            }
+          ],
+          [
+            {
+              "rank": 1,
+              "team": {
+                "id": 26,
+                "name": "Canada",
+                "logo": "https://media.api-sports.io/football/teams/26.png"
+              },
+              "points": 4,
+              "goalsDiff": 2,
+              "group": "Group B",
+              "form": "WD",
+              "status": "same",
+              "description": "Promotion - World Cup (Knockout stage)",
+              "all": {
+                "played": 2,
+                "win": 1,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 3,
+                  "against": 1
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 1
+                }
+              },
+              "update": "2026-06-15T00:00:00+00:00"
+            },
+            {
+              "rank": 2,
+              "team": {
+                "id": 1535,
+                "name": "Bosnia & Herzegovina",
+                "logo": "https://media.api-sports.io/football/teams/1535.png"
+              },
+              "points": 3,
+              "goalsDiff": 1,
+              "group": "Group B",
+              "form": "WL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 2,
+                "win": 1,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 2,
+                  "against": 1
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 1,
+                "draw": 0,
+                "lose": 0,
+                "goals": {
+                  "for": 2,
+                  "against": 0
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 1
+                }
+              },
+              "update": "2026-06-15T00:00:00+00:00"
+            },
+            {
+              "rank": 3,
+              "team": {
+                "id": 31,
+                "name": "Korea Republic",
+                "logo": "https://media.api-sports.io/football/teams/31.png"
+              },
+              "points": 1,
+              "goalsDiff": -1,
+              "group": "Group B",
+              "form": "DL",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 2,
+                "win": 0,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 2
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 0,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 1
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 1
+                }
+              },
+              "update": "2026-06-15T00:00:00+00:00"
+            },
+            {
+              "rank": 4,
+              "team": {
+                "id": 1536,
+                "name": "Czechia",
+                "logo": "https://media.api-sports.io/football/teams/1536.png"
+              },
+              "points": 1,
+              "goalsDiff": -2,
+              "group": "Group B",
+              "form": "LD",
+              "status": "same",
+              "description": null,
+              "all": {
+                "played": 2,
+                "win": 0,
+                "draw": 1,
+                "lose": 1,
+                "goals": {
+                  "for": 1,
+                  "against": 3
+                }
+              },
+              "home": {
+                "played": 1,
+                "win": 0,
+                "draw": 0,
+                "lose": 1,
+                "goals": {
+                  "for": 0,
+                  "against": 2
+                }
+              },
+              "away": {
+                "played": 1,
+                "win": 0,
+                "draw": 1,
+                "lose": 0,
+                "goals": {
+                  "for": 1,
+                  "against": 1
+                }
+              },
+              "update": "2026-06-15T00:00:00+00:00"
+            }
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "id": 42,
+  "dateAndTimeInUTC": "2026-06-22T21:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1539017,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "FRA",
+    "homeTeamExternalId": 2,
+    "awayTeamId": "IRQ",
+    "awayTeamExternalId": 1567
+  },
+  "finalScore": {
+    "home": 3,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 1,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 3,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 6,
+      "extraMinute": null,
+      "teamId": "IRQ",
+      "teamExternalId": 1567,
+      "playerExternalId": 47792,
+      "playerName": "Amir Al Ammari",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 14,
+      "extraMinute": null,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 278,
+      "playerName": "Kylian Mbappe",
+      "assistPlayerExternalId": 19617,
+      "assistPlayerName": "M. Olise",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 26,
+      "extraMinute": null,
+      "teamId": "IRQ",
+      "teamExternalId": 1567,
+      "playerExternalId": 49451,
+      "playerName": "Aymen Hussein",
+      "assistPlayerExternalId": 299813,
+      "assistPlayerName": "Ali Al Hamadi",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 54,
+      "extraMinute": null,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 278,
+      "playerName": "Kylian Mbappe",
+      "assistPlayerExternalId": 153,
+      "assistPlayerName": "O. Dembele",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "IRQ",
+      "teamExternalId": 1567,
+      "playerExternalId": 296373,
+      "playerName": "Zayed Tahseen",
+      "assistPlayerExternalId": 42261,
+      "assistPlayerName": "Rebin Solaka",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "IRQ",
+      "teamExternalId": 1567,
+      "playerExternalId": 626479,
+      "playerName": "Z. Ismaeel",
+      "assistPlayerExternalId": 282065,
+      "assistPlayerName": "Youssef Amyn",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 66,
+      "extraMinute": null,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 153,
+      "playerName": "O. Dembele",
+      "assistPlayerExternalId": 19617,
+      "assistPlayerName": "M. Olise",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 68,
+      "extraMinute": null,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 19617,
+      "playerName": "M. Olise",
+      "assistPlayerExternalId": 156477,
+      "assistPlayerName": "R. Cherki",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 68,
+      "extraMinute": null,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 153,
+      "playerName": "O. Dembele",
+      "assistPlayerExternalId": 343027,
+      "assistPlayerName": "D. Doue",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 68,
+      "extraMinute": null,
+      "teamId": "IRQ",
+      "teamExternalId": 1567,
+      "playerExternalId": 47792,
+      "playerName": "Amir Al Ammari",
+      "assistPlayerExternalId": 48129,
+      "assistPlayerName": "A. Sher",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 69,
+      "extraMinute": null,
+      "teamId": "IRQ",
+      "teamExternalId": 1567,
+      "playerExternalId": 140747,
+      "playerName": "Ibraheem Bayesh",
+      "assistPlayerExternalId": 265448,
+      "assistPlayerName": "M. Farji",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 1257,
+      "playerName": "J. Kounde",
+      "assistPlayerExternalId": 161907,
+      "assistPlayerName": "M. Gusto",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 161904,
+      "playerName": "B. Barcola",
+      "assistPlayerExternalId": 274300,
+      "assistPlayerName": "M. Akliouche",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 1,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 278,
+      "playerName": "Kylian Mbappe",
+      "assistPlayerExternalId": 21509,
+      "assistPlayerName": "M. Thuram",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "FRA",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 5
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 10
+        },
+        {
+          "type": "Total Shots",
+          "value": 19
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 4
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 12
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 7
+        },
+        {
+          "type": "Fouls",
+          "value": 8
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "56%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 0
+        },
+        {
+          "type": "Total passes",
+          "value": 603
+        },
+        {
+          "type": "Passes accurate",
+          "value": 540
+        },
+        {
+          "type": "Passes %",
+          "value": "90%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "2.67"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.72"
+        }
+      ]
+    },
+    {
+      "teamId": "IRQ",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 0
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 4
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 3
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 1
+        },
+        {
+          "type": "Fouls",
+          "value": 4
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "44%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 481
+        },
+        {
+          "type": "Passes accurate",
+          "value": 413
+        },
+        {
+          "type": "Passes %",
+          "value": "86%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.63"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.72"
+        }
+      ]
+    }
+  ],
+  "group": "Group I"
+}

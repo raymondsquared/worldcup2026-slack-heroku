@@ -1,0 +1,210 @@
+[
+  {
+    "id": "NOR-1",
+    "name": "Ø. Nyland",
+    "teamId": "NOR",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 19172
+  },
+  {
+    "id": "NOR-13",
+    "name": "E. Selvik",
+    "teamId": "NOR",
+    "position": "Goalkeeper",
+    "number": 13,
+    "externalId": 39082
+  },
+  {
+    "id": "NOR-12",
+    "name": "S. Tangvik",
+    "teamId": "NOR",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 264378
+  },
+  {
+    "id": "NOR-3",
+    "name": "K. Ajer",
+    "teamId": "NOR",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 1119
+  },
+  {
+    "id": "NOR-15",
+    "name": "F. Bjørkan",
+    "teamId": "NOR",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 39058
+  },
+  {
+    "id": "NOR-25",
+    "name": "H. Falchener",
+    "teamId": "NOR",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 180937
+  },
+  {
+    "id": "NOR-24",
+    "name": "S. Langas",
+    "teamId": "NOR",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 265444
+  },
+  {
+    "id": "NOR-17",
+    "name": "T. Heggem",
+    "teamId": "NOR",
+    "position": "Defender",
+    "number": 17,
+    "externalId": 39254
+  },
+  {
+    "id": "NOR-4",
+    "name": "L. Østigard",
+    "teamId": "NOR",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 18967
+  },
+  {
+    "id": "NOR-16",
+    "name": "M. Pedersen",
+    "teamId": "NOR",
+    "position": "Defender",
+    "number": 16,
+    "externalId": 39362
+  },
+  {
+    "id": "NOR-5",
+    "name": "D. Møller Wolfe",
+    "teamId": "NOR",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 265782
+  },
+  {
+    "id": "NOR-19",
+    "name": "T. Aasgaard",
+    "teamId": "NOR",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 277930
+  },
+  {
+    "id": "NOR-14",
+    "name": "F. Aursnes",
+    "teamId": "NOR",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 39043
+  },
+  {
+    "id": "NOR-6",
+    "name": "P. Berg",
+    "teamId": "NOR",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 39064
+  },
+  {
+    "id": "NOR-8",
+    "name": "S. Berge",
+    "teamId": "NOR",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 1934
+  },
+  {
+    "id": "NOR-22",
+    "name": "Oscar Bobb",
+    "teamId": "NOR",
+    "position": "Midfielder",
+    "number": 22,
+    "externalId": 278133
+  },
+  {
+    "id": "NOR-10",
+    "name": "M. Ødegaard",
+    "teamId": "NOR",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 37127
+  },
+  {
+    "id": "NOR-2",
+    "name": "M. Thorsby",
+    "teamId": "NOR",
+    "position": "Midfielder",
+    "number": 2,
+    "externalId": 36980
+  },
+  {
+    "id": "NOR-18",
+    "name": "K. Thorstvedt",
+    "teamId": "NOR",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 39143
+  },
+  {
+    "id": "NOR-21",
+    "name": "A. Schjelderup",
+    "teamId": "NOR",
+    "position": "Attacker",
+    "number": 21,
+    "externalId": 301528
+  },
+  {
+    "id": "NOR-23",
+    "name": "J. Hauge",
+    "teamId": "NOR",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 39073
+  },
+  {
+    "id": "NOR-9",
+    "name": "E. Haaland",
+    "teamId": "NOR",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 1100
+  },
+  {
+    "id": "NOR-11",
+    "name": "J. Strand Larsen",
+    "teamId": "NOR",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 2032
+  },
+  {
+    "id": "NOR-20",
+    "name": "A. Nusa",
+    "teamId": "NOR",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 314511
+  },
+  {
+    "id": "NOR-7",
+    "name": "A. Sørloth",
+    "teamId": "NOR",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 8492
+  },
+  {
+    "id": "NOR-26",
+    "name": "J. Ryerson",
+    "teamId": "NOR",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 24845
+  }
+]

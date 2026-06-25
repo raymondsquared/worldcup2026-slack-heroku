@@ -1,0 +1,210 @@
+[
+  {
+    "id": "GER-12",
+    "name": "O. Baumann",
+    "teamId": "GER",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 702
+  },
+  {
+    "id": "GER-1",
+    "name": "M. Neuer",
+    "teamId": "GER",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 497
+  },
+  {
+    "id": "GER-21",
+    "name": "A. Nubel",
+    "teamId": "GER",
+    "position": "Goalkeeper",
+    "number": 21,
+    "externalId": 399
+  },
+  {
+    "id": "GER-3",
+    "name": "W. Anton",
+    "teamId": "GER",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 25368
+  },
+  {
+    "id": "GER-18",
+    "name": "N. Brown",
+    "teamId": "GER",
+    "position": "Defender",
+    "number": 18,
+    "externalId": 280074
+  },
+  {
+    "id": "GER-22",
+    "name": "D. Raum",
+    "teamId": "GER",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 25158
+  },
+  {
+    "id": "GER-2",
+    "name": "A. Rudiger",
+    "teamId": "GER",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 2285
+  },
+  {
+    "id": "GER-15",
+    "name": "N. Schlotterbeck",
+    "teamId": "GER",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 26243
+  },
+  {
+    "id": "GER-4",
+    "name": "J. Tah",
+    "teamId": "GER",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 972
+  },
+  {
+    "id": "GER-24",
+    "name": "M. Thiaw",
+    "teamId": "GER",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 163189
+  },
+  {
+    "id": "GER-6",
+    "name": "J. Kimmich",
+    "teamId": "GER",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 502
+  },
+  {
+    "id": "GER-20",
+    "name": "N. Amiri",
+    "teamId": "GER",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 714
+  },
+  {
+    "id": "GER-8",
+    "name": "L. Goretzka",
+    "teamId": "GER",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 511
+  },
+  {
+    "id": "GER-13",
+    "name": "P. Groß",
+    "teamId": "GER",
+    "position": "Midfielder",
+    "number": 13,
+    "externalId": 18970
+  },
+  {
+    "id": "GER-25",
+    "name": "A. Ouedraogo",
+    "teamId": "GER",
+    "position": "Midfielder",
+    "number": 25,
+    "externalId": 380978
+  },
+  {
+    "id": "GER-9",
+    "name": "J. Leweling",
+    "teamId": "GER",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 128533
+  },
+  {
+    "id": "GER-10",
+    "name": "J. Musiala",
+    "teamId": "GER",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 181812
+  },
+  {
+    "id": "GER-23",
+    "name": "F. Nmecha",
+    "teamId": "GER",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 637
+  },
+  {
+    "id": "GER-5",
+    "name": "A. Pavlovic",
+    "teamId": "GER",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 328033
+  },
+  {
+    "id": "GER-19",
+    "name": "L. Sane",
+    "teamId": "GER",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 644
+  },
+  {
+    "id": "GER-16",
+    "name": "A. Stiller",
+    "teamId": "GER",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 137210
+  },
+  {
+    "id": "GER-17",
+    "name": "F. Wirtz",
+    "teamId": "GER",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 203224
+  },
+  {
+    "id": "GER-7",
+    "name": "K. Havertz",
+    "teamId": "GER",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 978
+  },
+  {
+    "id": "GER-14",
+    "name": "M. Beier",
+    "teamId": "GER",
+    "position": "Attacker",
+    "number": 14,
+    "externalId": 158644
+  },
+  {
+    "id": "GER-26",
+    "name": "D. Undav",
+    "teamId": "GER",
+    "position": "Attacker",
+    "number": 26,
+    "externalId": 26475
+  },
+  {
+    "id": "GER-11",
+    "name": "N. Woltemade",
+    "teamId": "GER",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 158054
+  }
+]

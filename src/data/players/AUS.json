@@ -1,0 +1,210 @@
+[
+  {
+    "id": "AUS-18",
+    "name": "P. Beach",
+    "teamId": "AUS",
+    "position": "Goalkeeper",
+    "number": 18,
+    "externalId": 353883
+  },
+  {
+    "id": "AUS-12",
+    "name": "P. Izzo",
+    "teamId": "AUS",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 6870
+  },
+  {
+    "id": "AUS-1",
+    "name": "M. Ryan",
+    "teamId": "AUS",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 2741
+  },
+  {
+    "id": "AUS-16",
+    "name": "A. Behich",
+    "teamId": "AUS",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 225
+  },
+  {
+    "id": "AUS-5",
+    "name": "J. Bos",
+    "teamId": "AUS",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 337587
+  },
+  {
+    "id": "AUS-21",
+    "name": "C. Burgess",
+    "teamId": "AUS",
+    "position": "Defender",
+    "number": 21,
+    "externalId": 20457
+  },
+  {
+    "id": "AUS-3",
+    "name": "A. Circati",
+    "teamId": "AUS",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 348568
+  },
+  {
+    "id": "AUS-6",
+    "name": "J. Geria",
+    "teamId": "AUS",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 33847
+  },
+  {
+    "id": "AUS-25",
+    "name": "L. Herrington",
+    "teamId": "AUS",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 426480
+  },
+  {
+    "id": "AUS-19",
+    "name": "H. Souttar",
+    "teamId": "AUS",
+    "position": "Defender",
+    "number": 19,
+    "externalId": 20079
+  },
+  {
+    "id": "AUS-2",
+    "name": "M. Degenek",
+    "teamId": "AUS",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 2742
+  },
+  {
+    "id": "AUS-4",
+    "name": "J. Italiano",
+    "teamId": "AUS",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 6808
+  },
+  {
+    "id": "AUS-15",
+    "name": "K. Trewin",
+    "teamId": "AUS",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 153622
+  },
+  {
+    "id": "AUS-22",
+    "name": "J. Irvine",
+    "teamId": "AUS",
+    "position": "Midfielder",
+    "number": 22,
+    "externalId": 2749
+  },
+  {
+    "id": "AUS-14",
+    "name": "C. Devlin",
+    "teamId": "AUS",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 6832
+  },
+  {
+    "id": "AUS-13",
+    "name": "A. O Neill",
+    "teamId": "AUS",
+    "position": "Midfielder",
+    "number": 13,
+    "externalId": 7050
+  },
+  {
+    "id": "AUS-24",
+    "name": "Paul Okon-Engstler",
+    "teamId": "AUS",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 441269
+  },
+  {
+    "id": "AUS-8",
+    "name": "C. Metcalfe",
+    "teamId": "AUS",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 6904
+  },
+  {
+    "id": "AUS-10",
+    "name": "A. Hrustic",
+    "teamId": "AUS",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 38123
+  },
+  {
+    "id": "AUS-20",
+    "name": "C. Volpato",
+    "teamId": "AUS",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 342035
+  },
+  {
+    "id": "AUS-17",
+    "name": "N. Irankunda",
+    "teamId": "AUS",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 338014
+  },
+  {
+    "id": "AUS-7",
+    "name": "M. Leckie",
+    "teamId": "AUS",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 2751
+  },
+  {
+    "id": "AUS-11",
+    "name": "A. Mabil",
+    "teamId": "AUS",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 2755
+  },
+  {
+    "id": "AUS-26",
+    "name": "T. Yengi",
+    "teamId": "AUS",
+    "position": "Attacker",
+    "number": 26,
+    "externalId": 296645
+  },
+  {
+    "id": "AUS-9",
+    "name": "M. Toure",
+    "teamId": "AUS",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 198352
+  },
+  {
+    "id": "AUS-23",
+    "name": "N. Velupillay",
+    "teamId": "AUS",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 312459
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "CRO-23",
+    "name": "D. Kotarski",
+    "teamId": "CRO",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 524
+  },
+  {
+    "id": "CRO-1",
+    "name": "D. Livakovic",
+    "teamId": "CRO",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 1305
+  },
+  {
+    "id": "CRO-12",
+    "name": "I. Pandur",
+    "teamId": "CRO",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 14268
+  },
+  {
+    "id": "CRO-5",
+    "name": "D. Caleta-Car",
+    "teamId": "CRO",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 1902
+  },
+  {
+    "id": "CRO-25",
+    "name": "M. Erlic",
+    "teamId": "CRO",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 30827
+  },
+  {
+    "id": "CRO-4",
+    "name": "J. Gvardiol",
+    "teamId": "CRO",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 129033
+  },
+  {
+    "id": "CRO-3",
+    "name": "M. Pongracic",
+    "teamId": "CRO",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 1084
+  },
+  {
+    "id": "CRO-2",
+    "name": "J. Stanisic",
+    "teamId": "CRO",
+    "position": "Midfielder",
+    "number": 2,
+    "externalId": 125171
+  },
+  {
+    "id": "CRO-6",
+    "name": "J. Sutalo",
+    "teamId": "CRO",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 14701
+  },
+  {
+    "id": "CRO-22",
+    "name": "L. Vuskovic",
+    "teamId": "CRO",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 387521
+  },
+  {
+    "id": "CRO-16",
+    "name": "M. Baturina",
+    "teamId": "CRO",
+    "position": "Attacker",
+    "number": 16,
+    "externalId": 295026
+  },
+  {
+    "id": "CRO-19",
+    "name": "T. Fruk",
+    "teamId": "CRO",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 284869
+  },
+  {
+    "id": "CRO-18",
+    "name": "K. Jakic",
+    "teamId": "CRO",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 14395
+  },
+  {
+    "id": "CRO-8",
+    "name": "M. Kovacic",
+    "teamId": "CRO",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 2291
+  },
+  {
+    "id": "CRO-10",
+    "name": "L. Modric",
+    "teamId": "CRO",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 754
+  },
+  {
+    "id": "CRO-7",
+    "name": "N. Moro",
+    "teamId": "CRO",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 1322
+  },
+  {
+    "id": "CRO-15",
+    "name": "Mario Pasalic",
+    "teamId": "CRO",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 2763
+  },
+  {
+    "id": "CRO-21",
+    "name": "L. Sucic",
+    "teamId": "CRO",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 7332
+  },
+  {
+    "id": "CRO-17",
+    "name": "P. Sucic",
+    "teamId": "CRO",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 348205
+  },
+  {
+    "id": "CRO-13",
+    "name": "N. Vlasic",
+    "teamId": "CRO",
+    "position": "Midfielder",
+    "number": 13,
+    "externalId": 842
+  },
+  {
+    "id": "CRO-11",
+    "name": "A. Budimir",
+    "teamId": "CRO",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 46746
+  },
+  {
+    "id": "CRO-9",
+    "name": "A. Kramaric",
+    "teamId": "CRO",
+    "position": "Midfielder",
+    "number": 9,
+    "externalId": 726
+  },
+  {
+    "id": "CRO-20",
+    "name": "I. Matanovic",
+    "teamId": "CRO",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 202696
+  },
+  {
+    "id": "CRO-26",
+    "name": "P. Musa",
+    "teamId": "CRO",
+    "position": "Attacker",
+    "number": 26,
+    "externalId": 66055
+  },
+  {
+    "id": "CRO-24",
+    "name": "Marco Pasalic",
+    "teamId": "CRO",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 260865
+  },
+  {
+    "id": "CRO-14",
+    "name": "I. Perisic",
+    "teamId": "CRO",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 207
+  }
+]

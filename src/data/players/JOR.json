@@ -1,0 +1,210 @@
+[
+  {
+    "id": "JOR-1",
+    "name": "Yazid Abu Layla",
+    "teamId": "JOR",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 140607
+  },
+  {
+    "id": "JOR-22",
+    "name": "Abdallah Al Fakhouri",
+    "teamId": "JOR",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 163884
+  },
+  {
+    "id": "JOR-12",
+    "name": "Noureddin Zaid",
+    "teamId": "JOR",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 163908
+  },
+  {
+    "id": "JOR-4",
+    "name": "H. Abu Al Dahab",
+    "teamId": "JOR",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 542822
+  },
+  {
+    "id": "JOR-2",
+    "name": "M. Abu Hasheesh",
+    "teamId": "JOR",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 542710
+  },
+  {
+    "id": "JOR-16",
+    "name": "M. Abualnadi",
+    "teamId": "JOR",
+    "position": "Defender",
+    "number": 16,
+    "externalId": 102538
+  },
+  {
+    "id": "JOR-5",
+    "name": "Yazan Al Arab",
+    "teamId": "JOR",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 53900
+  },
+  {
+    "id": "JOR-19",
+    "name": "Saed Al Rosan",
+    "teamId": "JOR",
+    "position": "Defender",
+    "number": 19,
+    "externalId": 213978
+  },
+  {
+    "id": "JOR-26",
+    "name": "A. Badawi",
+    "teamId": "JOR",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 664028
+  },
+  {
+    "id": "JOR-3",
+    "name": "Abdallah Naseeb",
+    "teamId": "JOR",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 310835
+  },
+  {
+    "id": "JOR-17",
+    "name": "Saleem Obaid",
+    "teamId": "JOR",
+    "position": "Defender",
+    "number": 17,
+    "externalId": 72140
+  },
+  {
+    "id": "JOR-23",
+    "name": "Ehsan Haddad",
+    "teamId": "JOR",
+    "position": "Defender",
+    "number": 23,
+    "externalId": 53902
+  },
+  {
+    "id": "JOR-20",
+    "name": "Mohannad Abu Taha",
+    "teamId": "JOR",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 310785
+  },
+  {
+    "id": "JOR-25",
+    "name": "M. Al Daoud",
+    "teamId": "JOR",
+    "position": "Midfielder",
+    "number": 25,
+    "externalId": 651096
+  },
+  {
+    "id": "JOR-15",
+    "name": "Ibrahim Sa'deh",
+    "teamId": "JOR",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 542768
+  },
+  {
+    "id": "JOR-21",
+    "name": "Nizar Al Rashdan",
+    "teamId": "JOR",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 213980
+  },
+  {
+    "id": "JOR-8",
+    "name": "Noor Al Rawabdeh",
+    "teamId": "JOR",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 140609
+  },
+  {
+    "id": "JOR-14",
+    "name": "Rajaei Ayed",
+    "teamId": "JOR",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 104242
+  },
+  {
+    "id": "JOR-6",
+    "name": "Amer Jamous",
+    "teamId": "JOR",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 198211
+  },
+  {
+    "id": "JOR-13",
+    "name": "Mahmoud Al Mardi",
+    "teamId": "JOR",
+    "position": "Attacker",
+    "number": 13,
+    "externalId": 123530
+  },
+  {
+    "id": "JOR-7",
+    "name": "Mohammed Abu Zurayq",
+    "teamId": "JOR",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 72142
+  },
+  {
+    "id": "JOR-11",
+    "name": "O. Al Fakhouri",
+    "teamId": "JOR",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 568556
+  },
+  {
+    "id": "JOR-24",
+    "name": "A. Azaizeh",
+    "teamId": "JOR",
+    "position": "Attacker",
+    "number": 24,
+    "externalId": 575283
+  },
+  {
+    "id": "JOR-9",
+    "name": "Ali Olwan",
+    "teamId": "JOR",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 164026
+  },
+  {
+    "id": "JOR-18",
+    "name": "M. Abu Ghoush",
+    "teamId": "JOR",
+    "position": "Defender",
+    "number": 18,
+    "externalId": 601853
+  },
+  {
+    "id": "JOR-10",
+    "name": "Mousa Tamari",
+    "teamId": "JOR",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 15286
+  }
+]

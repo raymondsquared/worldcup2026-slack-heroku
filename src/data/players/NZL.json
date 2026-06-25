@@ -1,0 +1,210 @@
+[
+  {
+    "id": "NZL-1",
+    "name": "M. Crocombe",
+    "teamId": "NZL",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 18110
+  },
+  {
+    "id": "NZL-12",
+    "name": "A. Paulsen",
+    "teamId": "NZL",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 94360
+  },
+  {
+    "id": "NZL-22",
+    "name": "M. Woud",
+    "teamId": "NZL",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 36777
+  },
+  {
+    "id": "NZL-4",
+    "name": "Tyler Bindon",
+    "teamId": "NZL",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 430835
+  },
+  {
+    "id": "NZL-5",
+    "name": "M. Boxall",
+    "teamId": "NZL",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 51149
+  },
+  {
+    "id": "NZL-13",
+    "name": "L. Cacace",
+    "teamId": "NZL",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 6931
+  },
+  {
+    "id": "NZL-3",
+    "name": "F. de Vries",
+    "teamId": "NZL",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 94405
+  },
+  {
+    "id": "NZL-24",
+    "name": "C. Elliot",
+    "teamId": "NZL",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 6932
+  },
+  {
+    "id": "NZL-2",
+    "name": "T. Payne",
+    "teamId": "NZL",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 94346
+  },
+  {
+    "id": "NZL-15",
+    "name": "N. Pijnaker",
+    "teamId": "NZL",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 94344
+  },
+  {
+    "id": "NZL-26",
+    "name": "T. Smith",
+    "teamId": "NZL",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 51307
+  },
+  {
+    "id": "NZL-16",
+    "name": "F. Surman",
+    "teamId": "NZL",
+    "position": "Defender",
+    "number": 16,
+    "externalId": 210165
+  },
+  {
+    "id": "NZL-25",
+    "name": "L. Bayliss",
+    "teamId": "NZL",
+    "position": "Midfielder",
+    "number": 25,
+    "externalId": 405957
+  },
+  {
+    "id": "NZL-6",
+    "name": "J. Bell",
+    "teamId": "NZL",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 94541
+  },
+  {
+    "id": "NZL-7",
+    "name": "L. Rogerson",
+    "teamId": "NZL",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 26161
+  },
+  {
+    "id": "NZL-20",
+    "name": "C. McCowatt",
+    "teamId": "NZL",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 94322
+  },
+  {
+    "id": "NZL-14",
+    "name": "A. Rufer",
+    "teamId": "NZL",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 6934
+  },
+  {
+    "id": "NZL-10",
+    "name": "S. Singh",
+    "teamId": "NZL",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 6935
+  },
+  {
+    "id": "NZL-8",
+    "name": "M. Stamenic",
+    "teamId": "NZL",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 179862
+  },
+  {
+    "id": "NZL-23",
+    "name": "R. Thomas",
+    "teamId": "NZL",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 242
+  },
+  {
+    "id": "NZL-11",
+    "name": "E. Just",
+    "teamId": "NZL",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 94333
+  },
+  {
+    "id": "NZL-19",
+    "name": "B. Old",
+    "teamId": "NZL",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 179856
+  },
+  {
+    "id": "NZL-17",
+    "name": "K. Barbarouses",
+    "teamId": "NZL",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 6865
+  },
+  {
+    "id": "NZL-21",
+    "name": "J. Randall",
+    "teamId": "NZL",
+    "position": "Attacker",
+    "number": 21,
+    "externalId": 158688
+  },
+  {
+    "id": "NZL-18",
+    "name": "B. Waine",
+    "teamId": "NZL",
+    "position": "Attacker",
+    "number": 18,
+    "externalId": 6938
+  },
+  {
+    "id": "NZL-9",
+    "name": "C. Wood",
+    "teamId": "NZL",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 18931
+  }
+]

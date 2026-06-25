@@ -1,0 +1,389 @@
+{
+  "id": 35,
+  "dateAndTimeInUTC": "2026-06-21T00:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489392,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "ECU",
+    "homeTeamExternalId": 2382,
+    "awayTeamId": "CUW",
+    "awayTeamExternalId": 5530
+  },
+  "finalScore": {
+    "home": 0,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 0,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 38,
+      "extraMinute": null,
+      "teamId": "ECU",
+      "teamExternalId": 2382,
+      "playerExternalId": 16470,
+      "playerName": "J. Alcivar",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 39,
+      "extraMinute": null,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 18997,
+      "playerName": "L. Bacuna",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "ECU",
+      "teamExternalId": 2382,
+      "playerExternalId": 16470,
+      "playerName": "J. Alcivar",
+      "assistPlayerExternalId": 361966,
+      "assistPlayerName": "K. Rodriguez",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 53,
+      "extraMinute": null,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 19047,
+      "playerName": "J. Bacuna",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 56,
+      "extraMinute": null,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 309763,
+      "playerName": "L. Comenencia",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 70,
+      "extraMinute": null,
+      "teamId": "ECU",
+      "teamExternalId": 2382,
+      "playerExternalId": 46731,
+      "playerName": "P. Estupinan",
+      "assistPlayerExternalId": 311543,
+      "assistPlayerName": "N. Angulo",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 36857,
+      "playerName": "J. Gaari",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 19047,
+      "playerName": "J. Bacuna",
+      "assistPlayerExternalId": 41627,
+      "assistPlayerName": "K. Gorre",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 353808,
+      "playerName": "Deveron Fonville",
+      "assistPlayerExternalId": 37066,
+      "assistPlayerName": "R. van Eijma",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 906,
+      "playerName": "T. Chong",
+      "assistPlayerExternalId": 195067,
+      "assistPlayerName": "J. Margaritha",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "ECU",
+      "teamExternalId": 2382,
+      "playerExternalId": 16360,
+      "playerName": "A. Franco",
+      "assistPlayerExternalId": 2583,
+      "assistPlayerName": "A. Preciado",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 18981,
+      "playerName": "J. Locadia",
+      "assistPlayerExternalId": 38708,
+      "assistPlayerName": "G. Kastaneer",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 309763,
+      "playerName": "L. Comenencia",
+      "assistPlayerExternalId": 36842,
+      "assistPlayerName": "G. Roemeratoe",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "ECU",
+      "teamExternalId": 2382,
+      "playerExternalId": 25414,
+      "playerName": "J. Yeboah",
+      "assistPlayerExternalId": 16590,
+      "assistPlayerName": "J. Caicedo",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 1,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 38708,
+      "playerName": "G. Kastaneer",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "ECU",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 15
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 10
+        },
+        {
+          "type": "Total Shots",
+          "value": 27
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 21
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 6
+        },
+        {
+          "type": "Fouls",
+          "value": 7
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 9
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "75%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 644
+        },
+        {
+          "type": "Passes accurate",
+          "value": 581
+        },
+        {
+          "type": "Passes %",
+          "value": "90%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "2.84"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "2.27"
+        }
+      ]
+    },
+    {
+      "teamId": "CUW",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 10
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 6
+        },
+        {
+          "type": "Fouls",
+          "value": 10
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 0
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "25%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 5
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 15
+        },
+        {
+          "type": "Total passes",
+          "value": 227
+        },
+        {
+          "type": "Passes accurate",
+          "value": 159
+        },
+        {
+          "type": "Passes %",
+          "value": "70%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.50"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "2.27"
+        }
+      ]
+    }
+  ],
+  "group": "Group E"
+}

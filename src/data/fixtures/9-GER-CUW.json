@@ -1,0 +1,402 @@
+{
+  "id": 9,
+  "dateAndTimeInUTC": "2026-06-14T17:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489374,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "GER",
+    "homeTeamExternalId": 25,
+    "awayTeamId": "CUW",
+    "awayTeamExternalId": 5530
+  },
+  "finalScore": {
+    "home": 7,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 3,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 7,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 6,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 637,
+      "playerName": "F. Nmecha",
+      "assistPlayerExternalId": 203224,
+      "assistPlayerName": "F. Wirtz",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 21,
+      "extraMinute": null,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 309763,
+      "playerName": "L. Comenencia",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 38,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 26243,
+      "playerName": "N. Schlotterbeck",
+      "assistPlayerExternalId": 280074,
+      "assistPlayerName": "N. Brown",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 45,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 978,
+      "playerName": "K. Havertz",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 161884,
+      "playerName": "S. Hansen",
+      "assistPlayerExternalId": 163220,
+      "assistPlayerName": "J. Antonisse",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 47,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 181812,
+      "playerName": "J. Musiala",
+      "assistPlayerExternalId": 502,
+      "assistPlayerName": "J. Kimmich",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 181812,
+      "playerName": "J. Musiala",
+      "assistPlayerExternalId": 26475,
+      "assistPlayerName": "D. Undav",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 18981,
+      "playerName": "J. Locadia",
+      "assistPlayerExternalId": 195067,
+      "assistPlayerName": "J. Margaritha",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 68,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 280074,
+      "playerName": "N. Brown",
+      "assistPlayerExternalId": 26475,
+      "assistPlayerName": "D. Undav",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 73,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 637,
+      "playerName": "F. Nmecha",
+      "assistPlayerExternalId": 511,
+      "assistPlayerName": "L. Goretzka",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 73,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 972,
+      "playerName": "J. Tah",
+      "assistPlayerExternalId": 2285,
+      "assistPlayerName": "A. Rudiger",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 73,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 280074,
+      "playerName": "N. Brown",
+      "assistPlayerExternalId": 25158,
+      "assistPlayerName": "D. Raum",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 78,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 26475,
+      "playerName": "D. Undav",
+      "assistPlayerExternalId": 502,
+      "assistPlayerName": "J. Kimmich",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 502,
+      "playerName": "J. Kimmich",
+      "assistPlayerExternalId": 25368,
+      "assistPlayerName": "W. Anton",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "CUW",
+      "teamExternalId": 5530,
+      "playerExternalId": 906,
+      "playerName": "T. Chong",
+      "assistPlayerExternalId": 38708,
+      "assistPlayerName": "G. Kastaneer",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 88,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 978,
+      "playerName": "K. Havertz",
+      "assistPlayerExternalId": 26475,
+      "assistPlayerName": "D. Undav",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "GER",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 12
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 6
+        },
+        {
+          "type": "Total Shots",
+          "value": 26
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 8
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 21
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 5
+        },
+        {
+          "type": "Fouls",
+          "value": 18
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 8
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "65%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 637
+        },
+        {
+          "type": "Passes accurate",
+          "value": 554
+        },
+        {
+          "type": "Passes %",
+          "value": "87%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "4.22"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-1.76"
+        }
+      ]
+    },
+    {
+      "teamId": "CUW",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 6
+        },
+        {
+          "type": "Total Shots",
+          "value": 8
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 0
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 11
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 1
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "35%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 4
+        },
+        {
+          "type": "Total passes",
+          "value": 343
+        },
+        {
+          "type": "Passes accurate",
+          "value": 282
+        },
+        {
+          "type": "Passes %",
+          "value": "82%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.41"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-1.76"
+        }
+      ]
+    }
+  ],
+  "group": "Group E"
+}

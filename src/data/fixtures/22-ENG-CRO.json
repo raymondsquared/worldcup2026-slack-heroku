@@ -1,0 +1,402 @@
+{
+  "id": 22,
+  "dateAndTimeInUTC": "2026-06-17T20:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489384,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "ENG",
+    "homeTeamExternalId": 10,
+    "awayTeamId": "CRO",
+    "awayTeamExternalId": 3
+  },
+  "finalScore": {
+    "home": 4,
+    "away": 2
+  },
+  "score": {
+    "halftime": {
+      "home": 2,
+      "away": 2
+    },
+    "fulltime": {
+      "home": 4,
+      "away": 2
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 12,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 184,
+      "playerName": "H. Kane",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 36,
+      "extraMinute": null,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 295026,
+      "playerName": "M. Baturina",
+      "assistPlayerExternalId": 348205,
+      "assistPlayerName": "P. Sucic",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 42,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 184,
+      "playerName": "H. Kane",
+      "assistPlayerExternalId": 2937,
+      "assistPlayerName": "D. Rice",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 45,
+      "extraMinute": null,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 66055,
+      "playerName": "P. Musa",
+      "assistPlayerExternalId": 207,
+      "assistPlayerName": "I. Perisic",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 47,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 129718,
+      "playerName": "J. Bellingham",
+      "assistPlayerExternalId": 138908,
+      "assistPlayerName": "E. Anderson",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 58,
+      "extraMinute": null,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 754,
+      "playerName": "L. Modric",
+      "assistPlayerExternalId": 2291,
+      "assistPlayerName": "M. Kovacic",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 66,
+      "extraMinute": null,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 387521,
+      "playerName": "L. Vuskovic",
+      "assistPlayerExternalId": 260865,
+      "assistPlayerName": "Marco Pasalic",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 66,
+      "extraMinute": null,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 66055,
+      "playerName": "P. Musa",
+      "assistPlayerExternalId": 202696,
+      "assistPlayerName": "I. Matanovic",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 2937,
+      "playerName": "D. Rice",
+      "assistPlayerExternalId": 19170,
+      "assistPlayerName": "M. Rogers",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 136723,
+      "playerName": "N. Madueke",
+      "assistPlayerExternalId": 1460,
+      "assistPlayerName": "B. Saka",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 138787,
+      "playerName": "A. Gordon",
+      "assistPlayerExternalId": 909,
+      "assistPlayerName": "M. Rashford",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 78,
+      "extraMinute": null,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 2763,
+      "playerName": "Mario Pasalic",
+      "assistPlayerExternalId": 726,
+      "assistPlayerName": "A. Kramaric",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 78,
+      "extraMinute": null,
+      "teamId": "CRO",
+      "teamExternalId": 3,
+      "playerExternalId": 295026,
+      "playerName": "M. Baturina",
+      "assistPlayerExternalId": 842,
+      "assistPlayerName": "N. Vlasic",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 129718,
+      "playerName": "J. Bellingham",
+      "assistPlayerExternalId": 19235,
+      "assistPlayerName": "D. Spence",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 85,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 909,
+      "playerName": "M. Rashford",
+      "assistPlayerExternalId": 1460,
+      "assistPlayerName": "B. Saka",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 87,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 626,
+      "playerName": "J. Stones",
+      "assistPlayerExternalId": 67971,
+      "assistPlayerName": "M. Guehi",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "ENG",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 11
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 6
+        },
+        {
+          "type": "Total Shots",
+          "value": 22
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 5
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 20
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 10
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 8
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "52%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 474
+        },
+        {
+          "type": "Passes accurate",
+          "value": 406
+        },
+        {
+          "type": "Passes %",
+          "value": "86%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "3.20"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.67"
+        }
+      ]
+    },
+    {
+      "teamId": "CRO",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 5
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 10
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 6
+        },
+        {
+          "type": "Fouls",
+          "value": 12
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "48%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 7
+        },
+        {
+          "type": "Total passes",
+          "value": 443
+        },
+        {
+          "type": "Passes accurate",
+          "value": 381
+        },
+        {
+          "type": "Passes %",
+          "value": "86%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.70"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.67"
+        }
+      ]
+    }
+  ],
+  "group": "Group L"
+}

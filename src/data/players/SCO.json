@@ -1,0 +1,210 @@
+[
+  {
+    "id": "SCO-21",
+    "name": "C. Gordon",
+    "teamId": "SCO",
+    "position": "Goalkeeper",
+    "number": 21,
+    "externalId": 1106
+  },
+  {
+    "id": "SCO-1",
+    "name": "A. Gunn",
+    "teamId": "SCO",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 18933
+  },
+  {
+    "id": "SCO-12",
+    "name": "L. Kelly",
+    "teamId": "SCO",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 44937
+  },
+  {
+    "id": "SCO-5",
+    "name": "G. Hanley",
+    "teamId": "SCO",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 19066
+  },
+  {
+    "id": "SCO-13",
+    "name": "J. Hendry",
+    "teamId": "SCO",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 1111
+  },
+  {
+    "id": "SCO-2",
+    "name": "A. Hickey",
+    "teamId": "SCO",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 44871
+  },
+  {
+    "id": "SCO-16",
+    "name": "D. Hyam",
+    "teamId": "SCO",
+    "position": "Defender",
+    "number": 16,
+    "externalId": 19987
+  },
+  {
+    "id": "SCO-26",
+    "name": "S. McKenna",
+    "teamId": "SCO",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 44811
+  },
+  {
+    "id": "SCO-22",
+    "name": "N. Patterson",
+    "teamId": "SCO",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 138417
+  },
+  {
+    "id": "SCO-24",
+    "name": "A. Ralston",
+    "teamId": "SCO",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 1115
+  },
+  {
+    "id": "SCO-3",
+    "name": "A. Robertson",
+    "teamId": "SCO",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 289
+  },
+  {
+    "id": "SCO-15",
+    "name": "J. Souttar",
+    "teamId": "SCO",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 44865
+  },
+  {
+    "id": "SCO-6",
+    "name": "K. Tierney",
+    "teamId": "SCO",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 1117
+  },
+  {
+    "id": "SCO-11",
+    "name": "R. Christie",
+    "teamId": "SCO",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 1125
+  },
+  {
+    "id": "SCO-19",
+    "name": "L. Ferguson",
+    "teamId": "SCO",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 44814
+  },
+  {
+    "id": "SCO-8",
+    "name": "T. Fletcher",
+    "teamId": "SCO",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 557460
+  },
+  {
+    "id": "SCO-7",
+    "name": "J.  McGinn",
+    "teamId": "SCO",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 19191
+  },
+  {
+    "id": "SCO-23",
+    "name": "K. McLean",
+    "teamId": "SCO",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 19077
+  },
+  {
+    "id": "SCO-4",
+    "name": "S. McTominay",
+    "teamId": "SCO",
+    "position": "Attacker",
+    "number": 4,
+    "externalId": 903
+  },
+  {
+    "id": "SCO-10",
+    "name": "C. Adams",
+    "teamId": "SCO",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 19524
+  },
+  {
+    "id": "SCO-9",
+    "name": "L. Dykes",
+    "teamId": "SCO",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 45307
+  },
+  {
+    "id": "SCO-17",
+    "name": "B. Doak",
+    "teamId": "SCO",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 343576
+  },
+  {
+    "id": "SCO-18",
+    "name": "G. Hirst",
+    "teamId": "SCO",
+    "position": "Attacker",
+    "number": 18,
+    "externalId": 8794
+  },
+  {
+    "id": "SCO-20",
+    "name": "L. Shankland",
+    "teamId": "SCO",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 45175
+  },
+  {
+    "id": "SCO-14",
+    "name": "R. Stewart",
+    "teamId": "SCO",
+    "position": "Attacker",
+    "number": 14,
+    "externalId": 45078
+  },
+  {
+    "id": "SCO-25",
+    "name": "Findlay Curtis",
+    "teamId": "SCO",
+    "position": "Attacker",
+    "number": 25,
+    "externalId": 433272
+  }
+]

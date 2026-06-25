@@ -1,0 +1,210 @@
+[
+  {
+    "id": "IRN-1",
+    "name": "A. Beiranvand",
+    "teamId": "IRN",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 2682
+  },
+  {
+    "id": "IRN-22",
+    "name": "H. Hosseini",
+    "teamId": "IRN",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 29755
+  },
+  {
+    "id": "IRN-12",
+    "name": "P. Niazmand",
+    "teamId": "IRN",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 2681
+  },
+  {
+    "id": "IRN-25",
+    "name": "D. Eiri",
+    "teamId": "IRN",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 532950
+  },
+  {
+    "id": "IRN-23",
+    "name": "R. Rezaeian",
+    "teamId": "IRN",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 2691
+  },
+  {
+    "id": "IRN-3",
+    "name": "E. Hajisafi",
+    "teamId": "IRN",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 2685
+  },
+  {
+    "id": "IRN-2",
+    "name": "Saleh Hardani",
+    "teamId": "IRN",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 136880
+  },
+  {
+    "id": "IRN-13",
+    "name": "H. Kanani",
+    "teamId": "IRN",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 2687
+  },
+  {
+    "id": "IRN-4",
+    "name": "S. Khalilzadeh",
+    "teamId": "IRN",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 29704
+  },
+  {
+    "id": "IRN-5",
+    "name": "M. Mohammadi",
+    "teamId": "IRN",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 2688
+  },
+  {
+    "id": "IRN-19",
+    "name": "A. Nemati",
+    "teamId": "IRN",
+    "position": "Defender",
+    "number": 19,
+    "externalId": 533035
+  },
+  {
+    "id": "IRN-17",
+    "name": "A. Yousefi",
+    "teamId": "IRN",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 343405
+  },
+  {
+    "id": "IRN-7",
+    "name": "A. Jahanbakhsh",
+    "teamId": "IRN",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 2700
+  },
+  {
+    "id": "IRN-15",
+    "name": "R. Cheshmi",
+    "teamId": "IRN",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 2683
+  },
+  {
+    "id": "IRN-6",
+    "name": "S. Ezatolahi",
+    "teamId": "IRN",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 19614
+  },
+  {
+    "id": "IRN-14",
+    "name": "S. Ghoddos",
+    "teamId": "IRN",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 2699
+  },
+  {
+    "id": "IRN-26",
+    "name": "A. Razzaghinia",
+    "teamId": "IRN",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 423753
+  },
+  {
+    "id": "IRN-21",
+    "name": "M. Ghorbani",
+    "teamId": "IRN",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 341844
+  },
+  {
+    "id": "IRN-8",
+    "name": "M. Mohebi",
+    "teamId": "IRN",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 134217
+  },
+  {
+    "id": "IRN-16",
+    "name": "M. Torabi",
+    "teamId": "IRN",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 2697
+  },
+  {
+    "id": "IRN-10",
+    "name": "M. Ghaedi",
+    "teamId": "IRN",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 29781
+  },
+  {
+    "id": "IRN-18",
+    "name": "A. Hosseinzadeh",
+    "teamId": "IRN",
+    "position": "Attacker",
+    "number": 18,
+    "externalId": 29937
+  },
+  {
+    "id": "IRN-11",
+    "name": "A. Alipour",
+    "teamId": "IRN",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 29720
+  },
+  {
+    "id": "IRN-20",
+    "name": "S. Moghanlou",
+    "teamId": "IRN",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 89982
+  },
+  {
+    "id": "IRN-24",
+    "name": "D. Eckert Ayensa",
+    "teamId": "IRN",
+    "position": "Attacker",
+    "number": 24,
+    "externalId": 37892
+  },
+  {
+    "id": "IRN-9",
+    "name": "M. Taremi",
+    "teamId": "IRN",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 42315
+  }
+]

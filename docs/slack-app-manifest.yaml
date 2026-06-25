@@ -1,0 +1,36 @@
+display_information:
+  name: World Cup 2026 Bot
+  description: Heroku MIA-powered World Cup 2026 Slack app
+features:
+  bot_user:
+    display_name: World Cup 2026
+    always_online: true
+  app_home:
+    home_tab_enabled: true
+    messages_tab_enabled: true
+    messages_tab_read_only_enabled: false
+  slash_commands:
+    - command: /worldcup2026
+      description: World Cup 2026 schedule, groups, and daily highlights
+      usage_hint: "[schedule | groups | highlights]"
+      should_escape: false
+oauth_config:
+  scopes:
+    bot:
+      - app_mentions:read
+      - channels:history
+      - channels:read
+      - chat:write
+      - commands
+      - im:history
+      - im:read
+      - im:write
+settings:
+  socket_mode_enabled: true
+  org_deploy_enabled: false
+  token_rotation_enabled: false
+  event_subscriptions:
+    bot_events:
+      - app_mention
+      - message.im
+  

@@ -1,0 +1,363 @@
+{
+  "id": 25,
+  "dateAndTimeInUTC": "2026-06-18T16:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1539004,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "CZE",
+    "homeTeamExternalId": 770,
+    "awayTeamId": "RSA",
+    "awayTeamExternalId": 1531
+  },
+  "finalScore": {
+    "home": 1,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 1,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 1,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 6,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 241,
+      "playerName": "M. Sadilek",
+      "assistPlayerExternalId": 386837,
+      "assistPlayerName": "A. Sojka",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 33,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 3287,
+      "playerName": "T. Mokoena",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 40,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 194430,
+      "playerName": "T. Mbatha",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 268710,
+      "playerName": "J. Adams",
+      "assistPlayerExternalId": 414149,
+      "assistPlayerName": "R. Mofokeng",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 55,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 386837,
+      "playerName": "A. Sojka",
+      "assistPlayerExternalId": 1237,
+      "assistPlayerName": "J. Zeleny",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 55,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 25348,
+      "playerName": "V. Darida",
+      "assistPlayerExternalId": 66387,
+      "assistPlayerName": "P. Sulc",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 66,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 127429,
+      "playerName": "I. Rayners",
+      "assistPlayerExternalId": 201354,
+      "assistPlayerName": "E. Makgopa",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 67,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 66019,
+      "playerName": "A. Hlozek",
+      "assistPlayerExternalId": 66353,
+      "assistPlayerName": "L. Provod",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 67,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 241,
+      "playerName": "M. Sadilek",
+      "assistPlayerExternalId": 1243,
+      "assistPlayerName": "T. Soucek",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 66407,
+      "playerName": "L. Krejci",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 78,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 162194,
+      "playerName": "L. Cerv",
+      "assistPlayerExternalId": 128772,
+      "assistPlayerName": "D. Zima",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 3287,
+      "playerName": "T. Mokoena",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 354831,
+      "playerName": "T. Maseko",
+      "assistPlayerExternalId": 359561,
+      "assistPlayerName": "K. Sebelebele",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "CZE",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 8
+        },
+        {
+          "type": "Total Shots",
+          "value": 14
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 11
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 12
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "38%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 341
+        },
+        {
+          "type": "Passes accurate",
+          "value": 272
+        },
+        {
+          "type": "Passes %",
+          "value": "80%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.02"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.47"
+        }
+      ]
+    },
+    {
+      "teamId": "RSA",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 17
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 8
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 6
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 11
+        },
+        {
+          "type": "Fouls",
+          "value": 10
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "62%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 563
+        },
+        {
+          "type": "Passes accurate",
+          "value": 508
+        },
+        {
+          "type": "Passes %",
+          "value": "90%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.38"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.47"
+        }
+      ]
+    }
+  ],
+  "group": "Group A"
+}

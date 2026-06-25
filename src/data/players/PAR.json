@@ -1,0 +1,210 @@
+[
+  {
+    "id": "PAR-1",
+    "name": "R. Fernandez",
+    "teamId": "PAR",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 535737
+  },
+  {
+    "id": "PAR-12",
+    "name": "O. Gill",
+    "teamId": "PAR",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 70852
+  },
+  {
+    "id": "PAR-22",
+    "name": "G. Olveira",
+    "teamId": "PAR",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 51733
+  },
+  {
+    "id": "PAR-3",
+    "name": "O. Alderete",
+    "teamId": "PAR",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 6168
+  },
+  {
+    "id": "PAR-6",
+    "name": "J. Alonso",
+    "teamId": "PAR",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 2499
+  },
+  {
+    "id": "PAR-4",
+    "name": "J. Caceres",
+    "teamId": "PAR",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 195992
+  },
+  {
+    "id": "PAR-5",
+    "name": "F. Balbuena",
+    "teamId": "PAR",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 2500
+  },
+  {
+    "id": "PAR-15",
+    "name": "G. Gomez",
+    "teamId": "PAR",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 2502
+  },
+  {
+    "id": "PAR-26",
+    "name": "A. Maidana",
+    "teamId": "PAR",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 425020
+  },
+  {
+    "id": "PAR-2",
+    "name": "G. Velazquez",
+    "teamId": "PAR",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 35808
+  },
+  {
+    "id": "PAR-13",
+    "name": "J. Canale",
+    "teamId": "PAR",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 70732
+  },
+  {
+    "id": "PAR-16",
+    "name": "D. Bobadilla",
+    "teamId": "PAR",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 195107
+  },
+  {
+    "id": "PAR-24",
+    "name": "G. Caballero",
+    "teamId": "PAR",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 119128
+  },
+  {
+    "id": "PAR-14",
+    "name": "A. Cubas",
+    "teamId": "PAR",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 6236
+  },
+  {
+    "id": "PAR-23",
+    "name": "M. Galarza",
+    "teamId": "PAR",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 305832
+  },
+  {
+    "id": "PAR-8",
+    "name": "D. Gomez",
+    "teamId": "PAR",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 278370
+  },
+  {
+    "id": "PAR-11",
+    "name": "Mauricio",
+    "teamId": "PAR",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 106485
+  },
+  {
+    "id": "PAR-20",
+    "name": "B. Ojeda",
+    "teamId": "PAR",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 70767
+  },
+  {
+    "id": "PAR-7",
+    "name": "R. Sosa",
+    "teamId": "PAR",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 196298
+  },
+  {
+    "id": "PAR-10",
+    "name": "M. Almiron",
+    "teamId": "PAR",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 2507
+  },
+  {
+    "id": "PAR-17",
+    "name": "A. Romero",
+    "teamId": "PAR",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 2514
+  },
+  {
+    "id": "PAR-18",
+    "name": "A. Arce",
+    "teamId": "PAR",
+    "position": "Attacker",
+    "number": 18,
+    "externalId": 95460
+  },
+  {
+    "id": "PAR-21",
+    "name": "G. Avalos",
+    "teamId": "PAR",
+    "position": "Attacker",
+    "number": 21,
+    "externalId": 6483
+  },
+  {
+    "id": "PAR-19",
+    "name": "J. Enciso",
+    "teamId": "PAR",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 70747
+  },
+  {
+    "id": "PAR-25",
+    "name": "I. Pitta",
+    "teamId": "PAR",
+    "position": "Attacker",
+    "number": 25,
+    "externalId": 70670
+  },
+  {
+    "id": "PAR-9",
+    "name": "A. Sanabria",
+    "teamId": "PAR",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 2522
+  }
+]

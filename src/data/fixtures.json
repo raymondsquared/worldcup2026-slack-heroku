@@ -1,0 +1,2637 @@
+[
+  {
+    "id": 1,
+    "dateAndTimeInUTC": "2026-06-11T19:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group A",
+    "externalId": 1489369,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "MEX",
+      "homeTeamExternalId": 16,
+      "awayTeamId": "RSA",
+      "awayTeamExternalId": 1531
+    },
+    "finalScore": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=PmevGCkUtM8"
+  },
+  {
+    "id": 2,
+    "dateAndTimeInUTC": "2026-06-12T02:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group A",
+    "externalId": 1538999,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "KOR",
+      "homeTeamExternalId": 17,
+      "awayTeamId": "CZE",
+      "awayTeamExternalId": 770
+    },
+    "finalScore": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=6k18EJY8zIc"
+  },
+  {
+    "id": 3,
+    "dateAndTimeInUTC": "2026-06-12T19:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group B",
+    "externalId": 1539000,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "CAN",
+      "homeTeamExternalId": 5529,
+      "awayTeamId": "BIH",
+      "awayTeamExternalId": 1113
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=w-_rY5morQY"
+  },
+  {
+    "id": 4,
+    "dateAndTimeInUTC": "2026-06-13T01:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group D",
+    "externalId": 1489370,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "USA",
+      "homeTeamExternalId": 2384,
+      "awayTeamId": "PAR",
+      "awayTeamExternalId": 2380
+    },
+    "finalScore": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=0PVo3bk-TMk"
+  },
+  {
+    "id": 5,
+    "dateAndTimeInUTC": "2026-06-13T19:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group B",
+    "externalId": 1489373,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "QAT",
+      "homeTeamExternalId": 1569,
+      "awayTeamId": "SUI",
+      "awayTeamExternalId": 15
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=KVz43-eddIQ"
+  },
+  {
+    "id": 6,
+    "dateAndTimeInUTC": "2026-06-13T22:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group C",
+    "externalId": 1489371,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "BRA",
+      "homeTeamExternalId": 6,
+      "awayTeamId": "MAR",
+      "awayTeamExternalId": 31
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=ECnK7UzAjIs"
+  },
+  {
+    "id": 7,
+    "dateAndTimeInUTC": "2026-06-14T01:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group C",
+    "externalId": 1489372,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "HAI",
+      "homeTeamExternalId": 2386,
+      "awayTeamId": "SCO",
+      "awayTeamExternalId": 1108
+    },
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=TcCufmPCsu4"
+  },
+  {
+    "id": 8,
+    "dateAndTimeInUTC": "2026-06-14T04:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group D",
+    "externalId": 1539001,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "AUS",
+      "homeTeamExternalId": 20,
+      "awayTeamId": "TUR",
+      "awayTeamExternalId": 777
+    },
+    "finalScore": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=5eqzEDe8wHs"
+  },
+  {
+    "id": 9,
+    "dateAndTimeInUTC": "2026-06-14T17:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group E",
+    "externalId": 1489374,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "GER",
+      "homeTeamExternalId": 25,
+      "awayTeamId": "CUW",
+      "awayTeamExternalId": 5530
+    },
+    "finalScore": {
+      "home": 7,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 7,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=B6-Z5ul2ccQ"
+  },
+  {
+    "id": 10,
+    "dateAndTimeInUTC": "2026-06-14T20:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group F",
+    "externalId": 1489376,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "NED",
+      "homeTeamExternalId": 1118,
+      "awayTeamId": "JPN",
+      "awayTeamExternalId": 12
+    },
+    "finalScore": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=r8SvHZxALQs"
+  },
+  {
+    "id": 11,
+    "dateAndTimeInUTC": "2026-06-14T23:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group E",
+    "externalId": 1489375,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "CIV",
+      "homeTeamExternalId": 1501,
+      "awayTeamId": "ECU",
+      "awayTeamExternalId": 2382
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=84xvEwRc0iQ"
+  },
+  {
+    "id": 12,
+    "dateAndTimeInUTC": "2026-06-15T02:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group F",
+    "externalId": 1539002,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "SWE",
+      "homeTeamExternalId": 5,
+      "awayTeamId": "TUN",
+      "awayTeamExternalId": 28
+    },
+    "finalScore": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=MM5hUuEzH3g"
+  },
+  {
+    "id": 13,
+    "dateAndTimeInUTC": "2026-06-15T16:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group H",
+    "externalId": 1489380,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "ESP",
+      "homeTeamExternalId": 9,
+      "awayTeamId": "CPV",
+      "awayTeamExternalId": 1533
+    },
+    "finalScore": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=W9Z4ER9oX0k"
+  },
+  {
+    "id": 14,
+    "dateAndTimeInUTC": "2026-06-15T19:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group G",
+    "externalId": 1489377,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "BEL",
+      "homeTeamExternalId": 1,
+      "awayTeamId": "EGY",
+      "awayTeamExternalId": 32
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=i8sD2Aea9_M"
+  },
+  {
+    "id": 15,
+    "dateAndTimeInUTC": "2026-06-15T22:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group H",
+    "externalId": 1489379,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "KSA",
+      "homeTeamExternalId": 23,
+      "awayTeamId": "URU",
+      "awayTeamExternalId": 7
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=XrDExPcLCXY"
+  },
+  {
+    "id": 16,
+    "dateAndTimeInUTC": "2026-06-16T01:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group G",
+    "externalId": 1489378,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "IRN",
+      "homeTeamExternalId": 22,
+      "awayTeamId": "NZL",
+      "awayTeamExternalId": 4673
+    },
+    "finalScore": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=memCfdob60w"
+  },
+  {
+    "id": 17,
+    "dateAndTimeInUTC": "2026-06-16T19:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group I",
+    "externalId": 1489383,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "FRA",
+      "homeTeamExternalId": 2,
+      "awayTeamId": "SEN",
+      "awayTeamExternalId": 13
+    },
+    "finalScore": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=n3JDGlOwMJ4"
+  },
+  {
+    "id": 18,
+    "dateAndTimeInUTC": "2026-06-16T22:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group I",
+    "externalId": 1539016,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "IRQ",
+      "homeTeamExternalId": 1567,
+      "awayTeamId": "NOR",
+      "awayTeamExternalId": 1090
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=UzSswKnmpgk"
+  },
+  {
+    "id": 19,
+    "dateAndTimeInUTC": "2026-06-17T01:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group J",
+    "externalId": 1489381,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "ARG",
+      "homeTeamExternalId": 26,
+      "awayTeamId": "ALG",
+      "awayTeamExternalId": 1532
+    },
+    "finalScore": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=JH_WRKTCPK4"
+  },
+  {
+    "id": 20,
+    "dateAndTimeInUTC": "2026-06-17T04:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group J",
+    "externalId": 1489382,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "AUT",
+      "homeTeamExternalId": 775,
+      "awayTeamId": "JOR",
+      "awayTeamExternalId": 1548
+    },
+    "finalScore": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=pU-mPZcuENY"
+  },
+  {
+    "id": 21,
+    "dateAndTimeInUTC": "2026-06-17T17:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group K",
+    "externalId": 1539003,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "POR",
+      "homeTeamExternalId": 27,
+      "awayTeamId": "COD",
+      "awayTeamExternalId": 1508
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=fJrctBM0poE"
+  },
+  {
+    "id": 22,
+    "dateAndTimeInUTC": "2026-06-17T20:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group L",
+    "externalId": 1489384,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "ENG",
+      "homeTeamExternalId": 10,
+      "awayTeamId": "CRO",
+      "awayTeamExternalId": 3
+    },
+    "finalScore": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=ynqGWHJPkuQ"
+  },
+  {
+    "id": 23,
+    "dateAndTimeInUTC": "2026-06-17T23:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group L",
+    "externalId": 1489385,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "GHA",
+      "homeTeamExternalId": 1504,
+      "awayTeamId": "PAN",
+      "awayTeamExternalId": 11
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=gy8h5JJ2b_E"
+  },
+  {
+    "id": 24,
+    "dateAndTimeInUTC": "2026-06-18T02:00:00+00:00",
+    "stage": "Group Stage - 1",
+    "group": "Group K",
+    "externalId": 1489386,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "UZB",
+      "homeTeamExternalId": 1568,
+      "awayTeamId": "COL",
+      "awayTeamExternalId": 8
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=cjsFUxVHAX0"
+  },
+  {
+    "id": 25,
+    "dateAndTimeInUTC": "2026-06-18T16:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group A",
+    "externalId": 1539004,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "CZE",
+      "homeTeamExternalId": 770,
+      "awayTeamId": "RSA",
+      "awayTeamExternalId": 1531
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=C_2Lx8Wg1kg"
+  },
+  {
+    "id": 26,
+    "dateAndTimeInUTC": "2026-06-18T19:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group B",
+    "externalId": 1539005,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "SUI",
+      "homeTeamExternalId": 15,
+      "awayTeamId": "BIH",
+      "awayTeamExternalId": 1113
+    },
+    "finalScore": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=c9wbxaKBu2E"
+  },
+  {
+    "id": 27,
+    "dateAndTimeInUTC": "2026-06-18T22:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group B",
+    "externalId": 1489387,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "CAN",
+      "homeTeamExternalId": 5529,
+      "awayTeamId": "QAT",
+      "awayTeamExternalId": 1569
+    },
+    "finalScore": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=HTR0DIvBYlg"
+  },
+  {
+    "id": 28,
+    "dateAndTimeInUTC": "2026-06-19T01:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group A",
+    "externalId": 1489388,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "MEX",
+      "homeTeamExternalId": 16,
+      "awayTeamId": "KOR",
+      "awayTeamExternalId": 17
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=o_AAtfdVp3Y"
+  },
+  {
+    "id": 29,
+    "dateAndTimeInUTC": "2026-06-19T19:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group D",
+    "externalId": 1489391,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "USA",
+      "homeTeamExternalId": 2384,
+      "awayTeamId": "AUS",
+      "awayTeamExternalId": 20
+    },
+    "finalScore": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=tXxvgvgMiRg"
+  },
+  {
+    "id": 30,
+    "dateAndTimeInUTC": "2026-06-19T22:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group C",
+    "externalId": 1489390,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "SCO",
+      "homeTeamExternalId": 1108,
+      "awayTeamId": "MAR",
+      "awayTeamExternalId": 31
+    },
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=ACKeXJdm5us"
+  },
+  {
+    "id": 31,
+    "dateAndTimeInUTC": "2026-06-20T00:30:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group C",
+    "externalId": 1489389,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "BRA",
+      "homeTeamExternalId": 6,
+      "awayTeamId": "HAI",
+      "awayTeamExternalId": 2386
+    },
+    "finalScore": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=lz3_atghfmY"
+  },
+  {
+    "id": 32,
+    "dateAndTimeInUTC": "2026-06-20T03:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group D",
+    "externalId": 1539006,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "TUR",
+      "homeTeamExternalId": 777,
+      "awayTeamId": "PAR",
+      "awayTeamExternalId": 2380
+    },
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=atWtyemTWQ0"
+  },
+  {
+    "id": 33,
+    "dateAndTimeInUTC": "2026-06-20T17:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group F",
+    "externalId": 1539007,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "NED",
+      "homeTeamExternalId": 1118,
+      "awayTeamId": "SWE",
+      "awayTeamExternalId": 5
+    },
+    "finalScore": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=tm1PRvtp1PM"
+  },
+  {
+    "id": 34,
+    "dateAndTimeInUTC": "2026-06-20T20:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group E",
+    "externalId": 1489393,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "GER",
+      "homeTeamExternalId": 25,
+      "awayTeamId": "CIV",
+      "awayTeamExternalId": 1501
+    },
+    "finalScore": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=_3PYS5oCgvQ"
+  },
+  {
+    "id": 35,
+    "dateAndTimeInUTC": "2026-06-21T00:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group E",
+    "externalId": 1489392,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "ECU",
+      "homeTeamExternalId": 2382,
+      "awayTeamId": "CUW",
+      "awayTeamExternalId": 5530
+    },
+    "finalScore": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=nYoSztBShPE"
+  },
+  {
+    "id": 36,
+    "dateAndTimeInUTC": "2026-06-21T04:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group F",
+    "externalId": 1489394,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "TUN",
+      "homeTeamExternalId": 28,
+      "awayTeamId": "JPN",
+      "awayTeamExternalId": 12
+    },
+    "finalScore": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 37,
+    "dateAndTimeInUTC": "2026-06-21T16:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group H",
+    "externalId": 1489397,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "ESP",
+      "homeTeamExternalId": 9,
+      "awayTeamId": "KSA",
+      "awayTeamExternalId": 23
+    },
+    "finalScore": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=j0BQN0nJ7mM"
+  },
+  {
+    "id": 38,
+    "dateAndTimeInUTC": "2026-06-21T19:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group G",
+    "externalId": 1489395,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "BEL",
+      "homeTeamExternalId": 1,
+      "awayTeamId": "IRN",
+      "awayTeamExternalId": 22
+    },
+    "finalScore": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=4zYJyJY57i8"
+  },
+  {
+    "id": 39,
+    "dateAndTimeInUTC": "2026-06-21T22:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group H",
+    "externalId": 1489398,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "URU",
+      "homeTeamExternalId": 7,
+      "awayTeamId": "CPV",
+      "awayTeamExternalId": 1533
+    },
+    "finalScore": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=eh20EVuWFFI"
+  },
+  {
+    "id": 40,
+    "dateAndTimeInUTC": "2026-06-22T01:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group G",
+    "externalId": 1489396,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "NZL",
+      "homeTeamExternalId": 4673,
+      "awayTeamId": "EGY",
+      "awayTeamExternalId": 32
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=8OYG-yIFbFI"
+  },
+  {
+    "id": 41,
+    "dateAndTimeInUTC": "2026-06-22T17:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group J",
+    "externalId": 1489399,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "ARG",
+      "homeTeamExternalId": 26,
+      "awayTeamId": "AUT",
+      "awayTeamExternalId": 775
+    },
+    "finalScore": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=M4Ccsmk3gcE"
+  },
+  {
+    "id": 42,
+    "dateAndTimeInUTC": "2026-06-22T21:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group I",
+    "externalId": 1539017,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "FRA",
+      "homeTeamExternalId": 2,
+      "awayTeamId": "IRQ",
+      "awayTeamExternalId": 1567
+    },
+    "finalScore": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=XejscwNpvLU"
+  },
+  {
+    "id": 43,
+    "dateAndTimeInUTC": "2026-06-23T00:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group I",
+    "externalId": 1489401,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "NOR",
+      "homeTeamExternalId": 1090,
+      "awayTeamId": "SEN",
+      "awayTeamExternalId": 13
+    },
+    "finalScore": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=nlghqbCqbe0"
+  },
+  {
+    "id": 44,
+    "dateAndTimeInUTC": "2026-06-23T03:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group J",
+    "externalId": 1489400,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "JOR",
+      "homeTeamExternalId": 1548,
+      "awayTeamId": "ALG",
+      "awayTeamExternalId": 1532
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    },
+    "highlightsURL": "https://www.youtube.com/watch?v=Ydxmm_-PUo0"
+  },
+  {
+    "id": 45,
+    "dateAndTimeInUTC": "2026-06-23T17:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group K",
+    "externalId": 1489404,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "POR",
+      "homeTeamExternalId": 27,
+      "awayTeamId": "UZB",
+      "awayTeamExternalId": 1568
+    },
+    "finalScore": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 46,
+    "dateAndTimeInUTC": "2026-06-23T20:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group L",
+    "externalId": 1489402,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "ENG",
+      "homeTeamExternalId": 10,
+      "awayTeamId": "GHA",
+      "awayTeamExternalId": 1504
+    },
+    "finalScore": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 47,
+    "dateAndTimeInUTC": "2026-06-23T23:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group L",
+    "externalId": 1489403,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "PAN",
+      "homeTeamExternalId": 11,
+      "awayTeamId": "CRO",
+      "awayTeamExternalId": 3
+    },
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 48,
+    "dateAndTimeInUTC": "2026-06-24T02:00:00+00:00",
+    "stage": "Group Stage - 2",
+    "group": "Group K",
+    "externalId": 1539008,
+    "status": "Match Finished",
+    "teams": {
+      "homeTeamId": "COL",
+      "homeTeamExternalId": 8,
+      "awayTeamId": "COD",
+      "awayTeamExternalId": 1508
+    },
+    "finalScore": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 49,
+    "dateAndTimeInUTC": "2026-06-24T19:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group B",
+    "externalId": 1489408,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "SUI",
+      "homeTeamExternalId": 15,
+      "awayTeamId": "CAN",
+      "awayTeamExternalId": 5529
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 50,
+    "dateAndTimeInUTC": "2026-06-24T19:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group B",
+    "externalId": 1539009,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "BIH",
+      "homeTeamExternalId": 1113,
+      "awayTeamId": "QAT",
+      "awayTeamExternalId": 1569
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 51,
+    "dateAndTimeInUTC": "2026-06-24T22:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group C",
+    "externalId": 1489405,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "MAR",
+      "homeTeamExternalId": 31,
+      "awayTeamId": "HAI",
+      "awayTeamExternalId": 2386
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 52,
+    "dateAndTimeInUTC": "2026-06-24T22:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group C",
+    "externalId": 1489406,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "SCO",
+      "homeTeamExternalId": 1108,
+      "awayTeamId": "BRA",
+      "awayTeamExternalId": 6
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 53,
+    "dateAndTimeInUTC": "2026-06-25T01:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group A",
+    "externalId": 1489407,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "RSA",
+      "homeTeamExternalId": 1531,
+      "awayTeamId": "KOR",
+      "awayTeamExternalId": 17
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 54,
+    "dateAndTimeInUTC": "2026-06-25T01:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group A",
+    "externalId": 1539010,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "CZE",
+      "homeTeamExternalId": 770,
+      "awayTeamId": "MEX",
+      "awayTeamExternalId": 16
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 55,
+    "dateAndTimeInUTC": "2026-06-25T20:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group E",
+    "externalId": 1489409,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "CUW",
+      "homeTeamExternalId": 5530,
+      "awayTeamId": "CIV",
+      "awayTeamExternalId": 1501
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 56,
+    "dateAndTimeInUTC": "2026-06-25T20:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group E",
+    "externalId": 1489410,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "ECU",
+      "homeTeamExternalId": 2382,
+      "awayTeamId": "GER",
+      "awayTeamExternalId": 25
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 57,
+    "dateAndTimeInUTC": "2026-06-25T23:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group F",
+    "externalId": 1489412,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "TUN",
+      "homeTeamExternalId": 28,
+      "awayTeamId": "NED",
+      "awayTeamExternalId": 1118
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 58,
+    "dateAndTimeInUTC": "2026-06-25T23:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group F",
+    "externalId": 1539011,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "JPN",
+      "homeTeamExternalId": 12,
+      "awayTeamId": "SWE",
+      "awayTeamExternalId": 5
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 59,
+    "dateAndTimeInUTC": "2026-06-26T02:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group D",
+    "externalId": 1489411,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "PAR",
+      "homeTeamExternalId": 2380,
+      "awayTeamId": "AUS",
+      "awayTeamExternalId": 20
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 60,
+    "dateAndTimeInUTC": "2026-06-26T02:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group D",
+    "externalId": 1539012,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "TUR",
+      "homeTeamExternalId": 777,
+      "awayTeamId": "USA",
+      "awayTeamExternalId": 2384
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 61,
+    "dateAndTimeInUTC": "2026-06-26T19:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group I",
+    "externalId": 1489416,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "NOR",
+      "homeTeamExternalId": 1090,
+      "awayTeamId": "FRA",
+      "awayTeamExternalId": 2
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 62,
+    "dateAndTimeInUTC": "2026-06-26T19:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group I",
+    "externalId": 1539074,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "SEN",
+      "homeTeamExternalId": 13,
+      "awayTeamId": "IRQ",
+      "awayTeamExternalId": 1567
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 63,
+    "dateAndTimeInUTC": "2026-06-27T00:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group H",
+    "externalId": 1489413,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "CPV",
+      "homeTeamExternalId": 1533,
+      "awayTeamId": "KSA",
+      "awayTeamExternalId": 23
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 64,
+    "dateAndTimeInUTC": "2026-06-27T00:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group H",
+    "externalId": 1489417,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "URU",
+      "homeTeamExternalId": 7,
+      "awayTeamId": "ESP",
+      "awayTeamExternalId": 9
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 65,
+    "dateAndTimeInUTC": "2026-06-27T03:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group G",
+    "externalId": 1489414,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "EGY",
+      "homeTeamExternalId": 32,
+      "awayTeamId": "IRN",
+      "awayTeamExternalId": 22
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 66,
+    "dateAndTimeInUTC": "2026-06-27T03:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group G",
+    "externalId": 1489415,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "NZL",
+      "homeTeamExternalId": 4673,
+      "awayTeamId": "BEL",
+      "awayTeamExternalId": 1
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 67,
+    "dateAndTimeInUTC": "2026-06-27T21:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group L",
+    "externalId": 1489420,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "CRO",
+      "homeTeamExternalId": 3,
+      "awayTeamId": "GHA",
+      "awayTeamExternalId": 1504
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 68,
+    "dateAndTimeInUTC": "2026-06-27T21:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group L",
+    "externalId": 1489422,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "PAN",
+      "homeTeamExternalId": 11,
+      "awayTeamId": "ENG",
+      "awayTeamExternalId": 10
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 69,
+    "dateAndTimeInUTC": "2026-06-27T23:30:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group K",
+    "externalId": 1489419,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "COL",
+      "homeTeamExternalId": 8,
+      "awayTeamId": "POR",
+      "awayTeamExternalId": 27
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 70,
+    "dateAndTimeInUTC": "2026-06-27T23:30:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group K",
+    "externalId": 1539013,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "COD",
+      "homeTeamExternalId": 1508,
+      "awayTeamId": "UZB",
+      "awayTeamExternalId": 1568
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 71,
+    "dateAndTimeInUTC": "2026-06-28T02:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group J",
+    "externalId": 1489418,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "ALG",
+      "homeTeamExternalId": 1532,
+      "awayTeamId": "AUT",
+      "awayTeamExternalId": 775
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "id": 72,
+    "dateAndTimeInUTC": "2026-06-28T02:00:00+00:00",
+    "stage": "Group Stage - 3",
+    "group": "Group J",
+    "externalId": 1489421,
+    "status": "Not Started",
+    "teams": {
+      "homeTeamId": "JOR",
+      "homeTeamExternalId": 1548,
+      "awayTeamId": "ARG",
+      "awayTeamExternalId": 26
+    },
+    "finalScore": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

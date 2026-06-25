@@ -1,0 +1,210 @@
+[
+  {
+    "id": "COL-24",
+    "name": "A. Montero",
+    "teamId": "COL",
+    "position": "Goalkeeper",
+    "number": 24,
+    "externalId": 2481
+  },
+  {
+    "id": "COL-1",
+    "name": "D. Ospina",
+    "teamId": "COL",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 313
+  },
+  {
+    "id": "COL-12",
+    "name": "C. Vargas",
+    "teamId": "COL",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 2482
+  },
+  {
+    "id": "COL-4",
+    "name": "S. Arias",
+    "teamId": "COL",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 30
+  },
+  {
+    "id": "COL-18",
+    "name": "W. Ditta",
+    "teamId": "COL",
+    "position": "Defender",
+    "number": 18,
+    "externalId": 13571
+  },
+  {
+    "id": "COL-3",
+    "name": "J. Lucumi",
+    "teamId": "COL",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 1929
+  },
+  {
+    "id": "COL-22",
+    "name": "D. Machado",
+    "teamId": "COL",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 2483
+  },
+  {
+    "id": "COL-13",
+    "name": "Y. Mina",
+    "teamId": "COL",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 2484
+  },
+  {
+    "id": "COL-17",
+    "name": "J. Mojica",
+    "teamId": "COL",
+    "position": "Defender",
+    "number": 17,
+    "externalId": 64268
+  },
+  {
+    "id": "COL-2",
+    "name": "D. Munoz",
+    "teamId": "COL",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 13736
+  },
+  {
+    "id": "COL-14",
+    "name": "G. Puerta",
+    "teamId": "COL",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 324034
+  },
+  {
+    "id": "COL-23",
+    "name": "D. Sanchez",
+    "teamId": "COL",
+    "position": "Defender",
+    "number": 23,
+    "externalId": 168
+  },
+  {
+    "id": "COL-5",
+    "name": "K. Castano",
+    "teamId": "COL",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 289592
+  },
+  {
+    "id": "COL-16",
+    "name": "J. Lerma",
+    "teamId": "COL",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 2490
+  },
+  {
+    "id": "COL-15",
+    "name": "J. Portilla",
+    "teamId": "COL",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 13151
+  },
+  {
+    "id": "COL-11",
+    "name": "J. Arias",
+    "teamId": "COL",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 13708
+  },
+  {
+    "id": "COL-8",
+    "name": "J. Carrascal",
+    "teamId": "COL",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 5994
+  },
+  {
+    "id": "COL-20",
+    "name": "J. Quintero",
+    "teamId": "COL",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 6005
+  },
+  {
+    "id": "COL-6",
+    "name": "R. Rios",
+    "teamId": "COL",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 195104
+  },
+  {
+    "id": "COL-10",
+    "name": "J. Rodriguez",
+    "teamId": "COL",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 517
+  },
+  {
+    "id": "COL-21",
+    "name": "J. Campaz",
+    "teamId": "COL",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 13376
+  },
+  {
+    "id": "COL-9",
+    "name": "J. Cordoba",
+    "teamId": "COL",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 24810
+  },
+  {
+    "id": "COL-19",
+    "name": "C. Hernandez",
+    "teamId": "COL",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 47582
+  },
+  {
+    "id": "COL-7",
+    "name": "L. Diaz",
+    "teamId": "COL",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 2489
+  },
+  {
+    "id": "COL-26",
+    "name": "A. Gomez",
+    "teamId": "COL",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 345748
+  },
+  {
+    "id": "COL-25",
+    "name": "L. Suarez",
+    "teamId": "COL",
+    "position": "Attacker",
+    "number": 25,
+    "externalId": 47237
+  }
+]

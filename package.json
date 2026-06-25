@@ -1,0 +1,43 @@
+{
+  "name": "rb-heroku-mia-slack-worldcup2026",
+  "version": "1.0.0",
+  "description": "Slack app showcasing Heroku Managed Inference Agents with World Cup 2026 features",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest",
+    "lint": "npm run lint:js && npm run lint:md",
+    "lint:js": "eslint src/",
+    "lint:md": "markdownlint \"**/*.md\" --ignore node_modules",
+    "format": "prettier --write \"src/**/*.js\" \"scripts/**/*.js\"",
+    "sync": "npm run sync:data && npm run sync:highlights",
+    "sync:data": "node --env-file=.env scripts/sync-data.js all",
+    "sync:teams": "node --env-file=.env scripts/sync-data.js teams",
+    "sync:players": "node --env-file=.env scripts/sync-data.js players",
+    "sync:fixtures": "node --env-file=.env scripts/sync-data.js fixtures",
+    "sync:fixture-events": "node --env-file=.env scripts/sync-data.js fixture-events",
+    "sync:highlights": "node --env-file=.env scripts/sync-highlights.js"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "keywords": [
+    "slack",
+    "heroku",
+    "world-cup",
+    "ai"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "jest": "^29.7.0",
+    "markdownlint-cli": "^0.48.0",
+    "nodemon": "^3.1.0",
+    "prettier": "^3.3.0"
+  },
+  "dependencies": {
+    "@slack/bolt": "^4.7.3"
+  }
+}

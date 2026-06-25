@@ -1,0 +1,428 @@
+{
+  "id": 12,
+  "dateAndTimeInUTC": "2026-06-15T02:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1539002,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "SWE",
+    "homeTeamExternalId": 5,
+    "awayTeamId": "TUN",
+    "awayTeamExternalId": 28
+  },
+  "finalScore": {
+    "home": 5,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 2,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 5,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 7,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 265820,
+      "playerName": "Y. Ayari",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 30,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 2864,
+      "playerName": "A. Isak",
+      "assistPlayerExternalId": 18979,
+      "assistPlayerName": "V. Gyokeres",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 43,
+      "extraMinute": null,
+      "teamId": "TUN",
+      "teamExternalId": 28,
+      "playerExternalId": 163068,
+      "playerName": "O. Rekik",
+      "assistPlayerExternalId": 180560,
+      "assistPlayerName": "H. Mejbri",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 54,
+      "extraMinute": null,
+      "teamId": "TUN",
+      "teamExternalId": 28,
+      "playerExternalId": 25300,
+      "playerName": "R. Khedira",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 59,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 18979,
+      "playerName": "V. Gyokeres",
+      "assistPlayerExternalId": 2864,
+      "assistPlayerName": "A. Isak",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 47969,
+      "playerName": "G. Gudmundsson",
+      "assistPlayerExternalId": 226765,
+      "assistPlayerName": "E. Stroud",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 48002,
+      "playerName": "B. Nygren",
+      "assistPlayerExternalId": 347316,
+      "assistPlayerName": "L. Bergvall",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "TUN",
+      "teamExternalId": 28,
+      "playerExternalId": 323974,
+      "playerName": "E. Saad",
+      "assistPlayerExternalId": 57518,
+      "assistPlayerName": "S. Tounekti",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "TUN",
+      "teamExternalId": 28,
+      "playerExternalId": 21587,
+      "playerName": "E. Skhiri",
+      "assistPlayerExternalId": 42012,
+      "assistPlayerName": "E. Achouri",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "TUN",
+      "teamExternalId": 28,
+      "playerExternalId": 18942,
+      "playerName": "Y. Valery",
+      "assistPlayerExternalId": 67195,
+      "assistPlayerName": "H. Mahmoud",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "TUN",
+      "teamExternalId": 28,
+      "playerExternalId": 25300,
+      "playerName": "R. Khedira",
+      "assistPlayerExternalId": 310196,
+      "assistPlayerName": "Ismael Gharbi",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 48047,
+      "playerName": "J. Karlstrom",
+      "assistPlayerExternalId": 30484,
+      "assistPlayerName": "M. Svanberg",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "TUN",
+      "teamExternalId": 28,
+      "playerExternalId": 199310,
+      "playerName": "A. Ben Slimane",
+      "assistPlayerExternalId": 2962,
+      "assistPlayerName": "F. Chaouat",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 30484,
+      "playerName": "M. Svanberg",
+      "assistPlayerExternalId": 2864,
+      "assistPlayerName": "A. Isak",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Var",
+      "minute": 86,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 30484,
+      "playerName": "M. Svanberg",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Goal confirmed",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 2864,
+      "playerName": "A. Isak",
+      "assistPlayerExternalId": 153430,
+      "assistPlayerName": "A. Elanga",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 1,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 47696,
+      "playerName": "A. Bernhardsson",
+      "assistPlayerExternalId": 198654,
+      "assistPlayerName": "D. Svensson",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 265820,
+      "playerName": "Y. Ayari",
+      "assistPlayerExternalId": 347316,
+      "assistPlayerName": "L. Bergvall",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "SWE",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 7
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 13
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 9
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 10
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "49%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 356
+        },
+        {
+          "type": "Passes accurate",
+          "value": 278
+        },
+        {
+          "type": "Passes %",
+          "value": "78%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.33"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-2.88"
+        }
+      ]
+    },
+    {
+      "teamId": "TUN",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 6
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 2
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 8
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 6
+        },
+        {
+          "type": "Ball Possession",
+          "value": "51%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 371
+        },
+        {
+          "type": "Passes accurate",
+          "value": 292
+        },
+        {
+          "type": "Passes %",
+          "value": "79%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.28"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-2.88"
+        }
+      ]
+    }
+  ],
+  "group": "Group F"
+}

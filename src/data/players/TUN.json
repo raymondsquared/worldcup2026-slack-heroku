@@ -1,0 +1,210 @@
+[
+  {
+    "id": "TUN-22",
+    "name": "S. Ben Hsan",
+    "teamId": "TUN",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 49423
+  },
+  {
+    "id": "TUN-1",
+    "name": "C. Abdelmouhib",
+    "teamId": "TUN",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 533394
+  },
+  {
+    "id": "TUN-16",
+    "name": "A. Dahmen",
+    "teamId": "TUN",
+    "position": "Goalkeeper",
+    "number": 16,
+    "externalId": 49424
+  },
+  {
+    "id": "TUN-2",
+    "name": "A. Abdi",
+    "teamId": "TUN",
+    "position": "Midfielder",
+    "number": 2,
+    "externalId": 49583
+  },
+  {
+    "id": "TUN-5",
+    "name": "A. Arous",
+    "teamId": "TUN",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 393977
+  },
+  {
+    "id": "TUN-21",
+    "name": "A. Ben Hmida",
+    "teamId": "TUN",
+    "position": "Defender",
+    "number": 21,
+    "externalId": 135059
+  },
+  {
+    "id": "TUN-6",
+    "name": "D. Bronn",
+    "teamId": "TUN",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 2945
+  },
+  {
+    "id": "TUN-24",
+    "name": "R. Chikhaoui",
+    "teamId": "TUN",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 533360
+  },
+  {
+    "id": "TUN-23",
+    "name": "M. Neffati",
+    "teamId": "TUN",
+    "position": "Defender",
+    "number": 23,
+    "externalId": 375608
+  },
+  {
+    "id": "TUN-4",
+    "name": "O. Rekik",
+    "teamId": "TUN",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 163068
+  },
+  {
+    "id": "TUN-3",
+    "name": "M. Talbi",
+    "teamId": "TUN",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 50030
+  },
+  {
+    "id": "TUN-20",
+    "name": "Y. Valery",
+    "teamId": "TUN",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 18942
+  },
+  {
+    "id": "TUN-12",
+    "name": "M. Ben Ouanes",
+    "teamId": "TUN",
+    "position": "Midfielder",
+    "number": 12,
+    "externalId": 49469
+  },
+  {
+    "id": "TUN-14",
+    "name": "K. Ayari",
+    "teamId": "TUN",
+    "position": "Attacker",
+    "number": 14,
+    "externalId": 533295
+  },
+  {
+    "id": "TUN-11",
+    "name": "Ismael Gharbi",
+    "teamId": "TUN",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 310196
+  },
+  {
+    "id": "TUN-13",
+    "name": "R. Khedira",
+    "teamId": "TUN",
+    "position": "Midfielder",
+    "number": 13,
+    "externalId": 25300
+  },
+  {
+    "id": "TUN-10",
+    "name": "H. Mejbri",
+    "teamId": "TUN",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 180560
+  },
+  {
+    "id": "TUN-17",
+    "name": "E. Skhiri",
+    "teamId": "TUN",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 21587
+  },
+  {
+    "id": "TUN-25",
+    "name": "A. Ben Slimane",
+    "teamId": "TUN",
+    "position": "Attacker",
+    "number": 25,
+    "externalId": 199310
+  },
+  {
+    "id": "TUN-15",
+    "name": "H. Mahmoud",
+    "teamId": "TUN",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 67195
+  },
+  {
+    "id": "TUN-26",
+    "name": "S. Tounekti",
+    "teamId": "TUN",
+    "position": "Attacker",
+    "number": 26,
+    "externalId": 57518
+  },
+  {
+    "id": "TUN-7",
+    "name": "E. Achouri",
+    "teamId": "TUN",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 42012
+  },
+  {
+    "id": "TUN-19",
+    "name": "F. Chaouat",
+    "teamId": "TUN",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 2962
+  },
+  {
+    "id": "TUN-18",
+    "name": "R. Elloumi",
+    "teamId": "TUN",
+    "position": "Attacker",
+    "number": 18,
+    "externalId": 566059
+  },
+  {
+    "id": "TUN-9",
+    "name": "H. Mastouri",
+    "teamId": "TUN",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 344862
+  },
+  {
+    "id": "TUN-8",
+    "name": "E. Saad",
+    "teamId": "TUN",
+    "position": "Attacker",
+    "number": 8,
+    "externalId": 323974
+  }
+]

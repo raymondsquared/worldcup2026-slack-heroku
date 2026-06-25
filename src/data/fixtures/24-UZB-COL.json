@@ -1,0 +1,402 @@
+{
+  "id": 24,
+  "dateAndTimeInUTC": "2026-06-18T02:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489386,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "UZB",
+    "homeTeamExternalId": 1568,
+    "awayTeamId": "COL",
+    "awayTeamExternalId": 8
+  },
+  "finalScore": {
+    "home": 1,
+    "away": 3
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 1,
+      "away": 3
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 7,
+      "extraMinute": null,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 64268,
+      "playerName": "J. Mojica",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 34,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 360114,
+      "playerName": "A. Khusanov",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 40,
+      "extraMinute": null,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 13736,
+      "playerName": "D. Munoz",
+      "assistPlayerExternalId": 2489,
+      "assistPlayerName": "L. Diaz",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 72127,
+      "playerName": "O. Orunov",
+      "assistPlayerExternalId": 53834,
+      "assistPlayerName": "D. Khamdamov",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 73514,
+      "playerName": "S. Nasrullayev",
+      "assistPlayerExternalId": 532759,
+      "assistPlayerName": "F. Sayfiev",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 263676,
+      "playerName": "A. Fayzullaev",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 2489,
+      "playerName": "L. Diaz",
+      "assistPlayerExternalId": 324034,
+      "assistPlayerName": "G. Puerta",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 517,
+      "playerName": "J. Rodriguez",
+      "assistPlayerExternalId": 13376,
+      "assistPlayerName": "J. Campaz",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 77,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 263676,
+      "playerName": "A. Fayzullaev",
+      "assistPlayerExternalId": 65584,
+      "assistPlayerName": "A. Amonov",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 77,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 34121,
+      "playerName": "R. Ashurmatov",
+      "assistPlayerExternalId": 358427,
+      "assistPlayerName": "J. Urozov",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 47237,
+      "playerName": "L. Suarez",
+      "assistPlayerExternalId": 47582,
+      "assistPlayerName": "C. Hernandez",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 324034,
+      "playerName": "G. Puerta",
+      "assistPlayerExternalId": 195104,
+      "assistPlayerName": "R. Rios",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 53535,
+      "playerName": "E. Shomurodov",
+      "assistPlayerExternalId": 72128,
+      "assistPlayerName": "I. Sergeev",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 13708,
+      "playerName": "J. Arias",
+      "assistPlayerExternalId": 289592,
+      "assistPlayerName": "K. Castano",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 2489,
+      "playerName": "L. Diaz",
+      "assistPlayerExternalId": 345748,
+      "assistPlayerName": "A. Gomez",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 13376,
+      "playerName": "J. Campaz",
+      "assistPlayerExternalId": 47582,
+      "assistPlayerName": "C. Hernandez",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "UZB",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 8
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 14
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 3
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "39%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 319
+        },
+        {
+          "type": "Passes accurate",
+          "value": 243
+        },
+        {
+          "type": "Passes %",
+          "value": "76%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.16"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.19"
+        }
+      ]
+    },
+    {
+      "teamId": "COL",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 7
+        },
+        {
+          "type": "Total Shots",
+          "value": 15
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 4
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 10
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 5
+        },
+        {
+          "type": "Fouls",
+          "value": 11
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "61%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 519
+        },
+        {
+          "type": "Passes accurate",
+          "value": 444
+        },
+        {
+          "type": "Passes %",
+          "value": "86%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.61"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.19"
+        }
+      ]
+    }
+  ],
+  "group": "Group K"
+}

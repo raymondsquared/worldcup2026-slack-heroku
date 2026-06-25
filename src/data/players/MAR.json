@@ -1,0 +1,210 @@
+[
+  {
+    "id": "MAR-1",
+    "name": "Y. Bounou",
+    "teamId": "MAR",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 2701
+  },
+  {
+    "id": "MAR-12",
+    "name": "M. Mohamedi",
+    "teamId": "MAR",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 2702
+  },
+  {
+    "id": "MAR-22",
+    "name": "A. Tagnaouti",
+    "teamId": "MAR",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 2703
+  },
+  {
+    "id": "MAR-5",
+    "name": "M. Saadane",
+    "teamId": "MAR",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 50042
+  },
+  {
+    "id": "MAR-14",
+    "name": "I. Diop",
+    "teamId": "MAR",
+    "position": "Defender",
+    "number": 14,
+    "externalId": 18814
+  },
+  {
+    "id": "MAR-13",
+    "name": "Z. El Ouahdi",
+    "teamId": "MAR",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 283252
+  },
+  {
+    "id": "MAR-2",
+    "name": "A. Hakimi",
+    "teamId": "MAR",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 9
+  },
+  {
+    "id": "MAR-25",
+    "name": "R. Halhal",
+    "teamId": "MAR",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 326183
+  },
+  {
+    "id": "MAR-3",
+    "name": "N. Mazraoui",
+    "teamId": "MAR",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 545
+  },
+  {
+    "id": "MAR-18",
+    "name": "C. Riad",
+    "teamId": "MAR",
+    "position": "Defender",
+    "number": 18,
+    "externalId": 278898
+  },
+  {
+    "id": "MAR-26",
+    "name": "A. Salah-Eddine",
+    "teamId": "MAR",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 162451
+  },
+  {
+    "id": "MAR-19",
+    "name": "Y. Belammari",
+    "teamId": "MAR",
+    "position": "Defender",
+    "number": 19,
+    "externalId": 146772
+  },
+  {
+    "id": "MAR-4",
+    "name": "S. Amrabat",
+    "teamId": "MAR",
+    "position": "Midfielder",
+    "number": 4,
+    "externalId": 74
+  },
+  {
+    "id": "MAR-6",
+    "name": "A. Bouaddi",
+    "teamId": "MAR",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 438688
+  },
+  {
+    "id": "MAR-24",
+    "name": "N. El Aynaoui",
+    "teamId": "MAR",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 277003
+  },
+  {
+    "id": "MAR-23",
+    "name": "B. El Khannouss",
+    "teamId": "MAR",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 340573
+  },
+  {
+    "id": "MAR-15",
+    "name": "S. El Mourabet",
+    "teamId": "MAR",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 415431
+  },
+  {
+    "id": "MAR-8",
+    "name": "A. Ounahi",
+    "teamId": "MAR",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 129678
+  },
+  {
+    "id": "MAR-11",
+    "name": "I. Saibari",
+    "teamId": "MAR",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 161897
+  },
+  {
+    "id": "MAR-7",
+    "name": "C. Talbi",
+    "teamId": "MAR",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 336659
+  },
+  {
+    "id": "MAR-16",
+    "name": "Gessime Yassine",
+    "teamId": "MAR",
+    "position": "Attacker",
+    "number": 16,
+    "externalId": 369544
+  },
+  {
+    "id": "MAR-10",
+    "name": "Brahim Diaz",
+    "teamId": "MAR",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 744
+  },
+  {
+    "id": "MAR-21",
+    "name": "A. Amaimouni",
+    "teamId": "MAR",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 535046
+  },
+  {
+    "id": "MAR-20",
+    "name": "A. El Kaabi",
+    "teamId": "MAR",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 2722
+  },
+  {
+    "id": "MAR-17",
+    "name": "A. Sbai",
+    "teamId": "MAR",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 191289
+  },
+  {
+    "id": "MAR-9",
+    "name": "S. Rahimi",
+    "teamId": "MAR",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 36579
+  }
+]

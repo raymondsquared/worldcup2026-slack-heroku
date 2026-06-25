@@ -1,0 +1,376 @@
+{
+  "id": 19,
+  "dateAndTimeInUTC": "2026-06-17T01:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489381,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "ARG",
+    "homeTeamExternalId": 26,
+    "awayTeamId": "ALG",
+    "awayTeamExternalId": 1532
+  },
+  "finalScore": {
+    "home": 3,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 1,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 3,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Var",
+      "minute": 9,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 276670,
+      "playerName": "F. Chaibi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Goal cancelled",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 17,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 154,
+      "playerName": "L. Messi",
+      "assistPlayerExternalId": 2472,
+      "assistPlayerName": "R. De Paul",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 2468,
+      "playerName": "G. Montiel",
+      "assistPlayerExternalId": 6503,
+      "assistPlayerName": "N. Molina",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 55,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 6067,
+      "playerName": "T. Almada",
+      "assistPlayerExternalId": 26315,
+      "assistPlayerName": "N. Gonzalez",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 55,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 217,
+      "playerName": "Lautaro Martinez",
+      "assistPlayerExternalId": 6009,
+      "assistPlayerName": "J. Alvarez",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 154,
+      "playerName": "L. Messi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 326067,
+      "playerName": "A. Hadj-Moussa",
+      "assistPlayerExternalId": 635,
+      "assistPlayerName": "R. Mahrez",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 4399,
+      "playerName": "H. Boudaoui",
+      "assistPlayerExternalId": 658,
+      "assistPlayerName": "H. Aouar",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 85041,
+      "playerName": "A. Gouiri",
+      "assistPlayerExternalId": 200139,
+      "assistPlayerName": "M. Amoura",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 154,
+      "playerName": "L. Messi",
+      "assistPlayerExternalId": 26315,
+      "assistPlayerName": "N. Gonzalez",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 30776,
+      "playerName": "C. Romero",
+      "assistPlayerExternalId": 624,
+      "assistPlayerName": "N. Otamendi",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 154,
+      "playerName": "L. Messi",
+      "assistPlayerExternalId": 350037,
+      "assistPlayerName": "N. Paz",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 380587,
+      "playerName": "I. Maza",
+      "assistPlayerExternalId": 329163,
+      "assistPlayerName": "A. Boulbina",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 82,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 409,
+      "playerName": "N. Bentaleb",
+      "assistPlayerExternalId": 129047,
+      "assistPlayerName": "R. Zerrouki",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "ARG",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 6
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 10
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 0
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 6
+        },
+        {
+          "type": "Fouls",
+          "value": 13
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "48%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 0
+        },
+        {
+          "type": "Total passes",
+          "value": 561
+        },
+        {
+          "type": "Passes accurate",
+          "value": 504
+        },
+        {
+          "type": "Passes %",
+          "value": "90%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.47"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.78"
+        }
+      ]
+    },
+    {
+      "teamId": "ALG",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 0
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 7
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 3
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 8
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "52%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 609
+        },
+        {
+          "type": "Passes accurate",
+          "value": 563
+        },
+        {
+          "type": "Passes %",
+          "value": "92%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.30"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.78"
+        }
+      ]
+    }
+  ],
+  "group": "Group J"
+}

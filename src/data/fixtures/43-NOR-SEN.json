@@ -1,0 +1,389 @@
+{
+  "id": 43,
+  "dateAndTimeInUTC": "2026-06-23T00:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489401,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "NOR",
+    "homeTeamExternalId": 1090,
+    "awayTeamId": "SEN",
+    "awayTeamExternalId": 13
+  },
+  "finalScore": {
+    "home": 3,
+    "away": 2
+  },
+  "score": {
+    "halftime": {
+      "home": 1,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 3,
+      "away": 2
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "subst",
+      "minute": 13,
+      "extraMinute": null,
+      "teamId": "NOR",
+      "teamExternalId": 1090,
+      "playerExternalId": 24845,
+      "playerName": "J. Ryerson",
+      "assistPlayerExternalId": 39362,
+      "assistPlayerName": "M. Pedersen",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 43,
+      "extraMinute": null,
+      "teamId": "NOR",
+      "teamExternalId": 1090,
+      "playerExternalId": 39362,
+      "playerName": "M. Pedersen",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "NOR",
+      "teamExternalId": 1090,
+      "playerExternalId": 39043,
+      "playerName": "F. Aursnes",
+      "assistPlayerExternalId": 39064,
+      "assistPlayerName": "P. Berg",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 48,
+      "extraMinute": null,
+      "teamId": "NOR",
+      "teamExternalId": 1090,
+      "playerExternalId": 1100,
+      "playerName": "E. Haaland",
+      "assistPlayerExternalId": 37127,
+      "assistPlayerName": "M. Ødegaard",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 53,
+      "extraMinute": null,
+      "teamId": "SEN",
+      "teamExternalId": 13,
+      "playerExternalId": 2218,
+      "playerName": "I. Sarr",
+      "assistPlayerExternalId": 304,
+      "assistPlayerName": "S. Mane",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 54,
+      "extraMinute": null,
+      "teamId": "SEN",
+      "teamExternalId": 13,
+      "playerExternalId": 409303,
+      "playerName": "E. Diouf",
+      "assistPlayerExternalId": 158121,
+      "assistPlayerName": "I. Jakobs",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 54,
+      "extraMinute": null,
+      "teamId": "SEN",
+      "teamExternalId": 13,
+      "playerExternalId": 20696,
+      "playerName": "P. Gueye",
+      "assistPlayerExternalId": 446249,
+      "assistPlayerName": "I. Mbaye",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 58,
+      "extraMinute": null,
+      "teamId": "NOR",
+      "teamExternalId": 1090,
+      "playerExternalId": 1100,
+      "playerName": "E. Haaland",
+      "assistPlayerExternalId": 39064,
+      "assistPlayerName": "P. Berg",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 63,
+      "extraMinute": null,
+      "teamId": "SEN",
+      "teamExternalId": 13,
+      "playerExternalId": 2986,
+      "playerName": "E. Mendy",
+      "assistPlayerExternalId": 119853,
+      "assistPlayerName": "M. Diaw",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 63,
+      "extraMinute": null,
+      "teamId": "SEN",
+      "teamExternalId": 13,
+      "playerExternalId": 374058,
+      "playerName": "L. Camara",
+      "assistPlayerExternalId": 41552,
+      "assistPlayerName": "P. Ciss",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "NOR",
+      "teamExternalId": 1090,
+      "playerExternalId": 314511,
+      "playerName": "A. Nusa",
+      "assistPlayerExternalId": 301528,
+      "assistPlayerName": "A. Schjelderup",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "SEN",
+      "teamExternalId": 13,
+      "playerExternalId": 318,
+      "playerName": "K. Koulibaly",
+      "assistPlayerExternalId": 237129,
+      "assistPlayerName": "P. Sarr",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "NOR",
+      "teamExternalId": 1090,
+      "playerExternalId": 8492,
+      "playerName": "A. Sørloth",
+      "assistPlayerExternalId": 278133,
+      "assistPlayerName": "Oscar Bobb",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "NOR",
+      "teamExternalId": 1090,
+      "playerExternalId": 39254,
+      "playerName": "T. Heggem",
+      "assistPlayerExternalId": 18967,
+      "assistPlayerName": "L. Østigard",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "SEN",
+      "teamExternalId": 13,
+      "playerExternalId": 2218,
+      "playerName": "I. Sarr",
+      "assistPlayerExternalId": 283058,
+      "assistPlayerName": "N. Jackson",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "NOR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 7
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 13
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 11
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 13
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "42%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 352
+        },
+        {
+          "type": "Passes accurate",
+          "value": 283
+        },
+        {
+          "type": "Passes %",
+          "value": "80%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "2.10"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-1.19"
+        }
+      ]
+    },
+    {
+      "teamId": "SEN",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 6
+        },
+        {
+          "type": "Total Shots",
+          "value": 16
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 6
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 10
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 6
+        },
+        {
+          "type": "Fouls",
+          "value": 5
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 4
+        },
+        {
+          "type": "Ball Possession",
+          "value": "58%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 487
+        },
+        {
+          "type": "Passes accurate",
+          "value": 429
+        },
+        {
+          "type": "Passes %",
+          "value": "88%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.70"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-1.19"
+        }
+      ]
+    }
+  ],
+  "group": "Group I"
+}

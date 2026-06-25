@@ -1,0 +1,210 @@
+[
+  {
+    "id": "BEL-1",
+    "name": "T. Courtois",
+    "teamId": "BEL",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 730
+  },
+  {
+    "id": "BEL-12",
+    "name": "S. Lammens",
+    "teamId": "BEL",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 162511
+  },
+  {
+    "id": "BEL-13",
+    "name": "M. Penders",
+    "teamId": "BEL",
+    "position": "Goalkeeper",
+    "number": 13,
+    "externalId": 340151
+  },
+  {
+    "id": "BEL-21",
+    "name": "T. Castagne",
+    "teamId": "BEL",
+    "position": "Defender",
+    "number": 21,
+    "externalId": 2920
+  },
+  {
+    "id": "BEL-5",
+    "name": "M. De Cuyper",
+    "teamId": "BEL",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 162007
+  },
+  {
+    "id": "BEL-16",
+    "name": "K. De Winter",
+    "teamId": "BEL",
+    "position": "Defender",
+    "number": 16,
+    "externalId": 162141
+  },
+  {
+    "id": "BEL-2",
+    "name": "Z. Debast",
+    "teamId": "BEL",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 304228
+  },
+  {
+    "id": "BEL-4",
+    "name": "B. Mechele",
+    "teamId": "BEL",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 69
+  },
+  {
+    "id": "BEL-15",
+    "name": "T. Meunier",
+    "teamId": "BEL",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 264
+  },
+  {
+    "id": "BEL-25",
+    "name": "N. Ngoy",
+    "teamId": "BEL",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 312964
+  },
+  {
+    "id": "BEL-18",
+    "name": "J. Seys",
+    "teamId": "BEL",
+    "position": "Defender",
+    "number": 18,
+    "externalId": 375974
+  },
+  {
+    "id": "BEL-3",
+    "name": "A. Theate",
+    "teamId": "BEL",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 204043
+  },
+  {
+    "id": "BEL-7",
+    "name": "K. De Bruyne",
+    "teamId": "BEL",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 629
+  },
+  {
+    "id": "BEL-24",
+    "name": "A. Onana",
+    "teamId": "BEL",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 162714
+  },
+  {
+    "id": "BEL-23",
+    "name": "N. Raskin",
+    "teamId": "BEL",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 2120
+  },
+  {
+    "id": "BEL-22",
+    "name": "A. Saelemaekers",
+    "teamId": "BEL",
+    "position": "Attacker",
+    "number": 22,
+    "externalId": 1417
+  },
+  {
+    "id": "BEL-8",
+    "name": "Y. Tielemans",
+    "teamId": "BEL",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 2926
+  },
+  {
+    "id": "BEL-19",
+    "name": "D. Moreira",
+    "teamId": "BEL",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 335056
+  },
+  {
+    "id": "BEL-20",
+    "name": "H. Vanaken",
+    "teamId": "BEL",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 78
+  },
+  {
+    "id": "BEL-6",
+    "name": "A. Witsel",
+    "teamId": "BEL",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 20
+  },
+  {
+    "id": "BEL-11",
+    "name": "J. Doku",
+    "teamId": "BEL",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 1422
+  },
+  {
+    "id": "BEL-26",
+    "name": "M. Fernandez-Pardo",
+    "teamId": "BEL",
+    "position": "Attacker",
+    "number": 26,
+    "externalId": 340077
+  },
+  {
+    "id": "BEL-9",
+    "name": "R. Lukaku",
+    "teamId": "BEL",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 907
+  },
+  {
+    "id": "BEL-14",
+    "name": "D. Lukebakio",
+    "teamId": "BEL",
+    "position": "Attacker",
+    "number": 14,
+    "externalId": 25458
+  },
+  {
+    "id": "BEL-17",
+    "name": "C. De Ketelaere",
+    "teamId": "BEL",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 147859
+  },
+  {
+    "id": "BEL-10",
+    "name": "L. Trossard",
+    "teamId": "BEL",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 1946
+  }
+]

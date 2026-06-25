@@ -1,0 +1,389 @@
+{
+  "id": 21,
+  "dateAndTimeInUTC": "2026-06-17T17:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1539003,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "POR",
+    "homeTeamExternalId": 27,
+    "awayTeamId": "COD",
+    "awayTeamExternalId": 1508
+  },
+  "finalScore": {
+    "home": 1,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 1,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 1,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 6,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 335051,
+      "playerName": "Joao Neves",
+      "assistPlayerExternalId": 1864,
+      "assistPlayerName": "Pedro Neto",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 13,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 636,
+      "playerName": "Bernardo Silva",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 32,
+      "extraMinute": null,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 375,
+      "playerName": "C. Mbemba",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 45,
+      "extraMinute": null,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 20649,
+      "playerName": "Y. Wissa",
+      "assistPlayerExternalId": 18816,
+      "assistPlayerName": "A. Masuaku",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 636,
+      "playerName": "Bernardo Silva",
+      "assistPlayerExternalId": 161585,
+      "assistPlayerName": "Francisco Conceicao",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 57,
+      "extraMinute": null,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 375598,
+      "playerName": "N. Mukau",
+      "assistPlayerExternalId": 365331,
+      "assistPlayerName": "N. Sadiki",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 1864,
+      "playerName": "Pedro Neto",
+      "assistPlayerExternalId": 22236,
+      "assistPlayerName": "Rafael Leao",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 263482,
+      "playerName": "Nuno Mendes",
+      "assistPlayerExternalId": 130,
+      "assistPlayerName": "Nelson Semedo",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 74,
+      "extraMinute": null,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 18816,
+      "playerName": "A. Masuaku",
+      "assistPlayerExternalId": 21098,
+      "assistPlayerName": "J. Kayembe",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 74,
+      "extraMinute": null,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 1424,
+      "playerName": "E. Kayembe",
+      "assistPlayerExternalId": 48555,
+      "assistPlayerName": "C. Pickel",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 128384,
+      "playerName": "Vitinha",
+      "assistPlayerExternalId": 41585,
+      "assistPlayerName": "Goncalo Ramos",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 85,
+      "extraMinute": null,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 18846,
+      "playerName": "A. Wan-Bissaka",
+      "assistPlayerExternalId": 24245,
+      "assistPlayerName": "G. Kalulu",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 85,
+      "extraMinute": null,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 3033,
+      "playerName": "C. Bakambu",
+      "assistPlayerExternalId": 20674,
+      "assistPlayerName": "S. Banza",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 88,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 130,
+      "playerName": "Nelson Semedo",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 2,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 161939,
+      "playerName": "Tomas Araujo",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "POR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 1
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 7
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 5
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 9
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "75%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 3
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 783
+        },
+        {
+          "type": "Passes accurate",
+          "value": 724
+        },
+        {
+          "type": "Passes %",
+          "value": "92%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.65"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.47"
+        }
+      ]
+    },
+    {
+      "teamId": "COD",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 8
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 2
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 6
+        },
+        {
+          "type": "Fouls",
+          "value": 10
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "25%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 0
+        },
+        {
+          "type": "Total passes",
+          "value": 249
+        },
+        {
+          "type": "Passes accurate",
+          "value": 195
+        },
+        {
+          "type": "Passes %",
+          "value": "78%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.87"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.47"
+        }
+      ]
+    }
+  ],
+  "group": "Group K"
+}

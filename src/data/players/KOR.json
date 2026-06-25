@@ -1,0 +1,210 @@
+[
+  {
+    "id": "KOR-21",
+    "name": "Jo Hyeon-Woo",
+    "teamId": "KOR",
+    "position": "Goalkeeper",
+    "number": 21,
+    "externalId": 2890
+  },
+  {
+    "id": "KOR-1",
+    "name": "Kim Seung-Gyu",
+    "teamId": "KOR",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 2892
+  },
+  {
+    "id": "KOR-12",
+    "name": "Song Bum-Keun",
+    "teamId": "KOR",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 34374
+  },
+  {
+    "id": "KOR-14",
+    "name": "Cho Wi-Je",
+    "teamId": "KOR",
+    "position": "Defender",
+    "number": 14,
+    "externalId": 547307
+  },
+  {
+    "id": "KOR-4",
+    "name": "Kim Min-Jae",
+    "teamId": "KOR",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 2897
+  },
+  {
+    "id": "KOR-15",
+    "name": "Kim Moon-Hwan",
+    "teamId": "KOR",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 2912
+  },
+  {
+    "id": "KOR-5",
+    "name": "Kim Tae-Hyeon",
+    "teamId": "KOR",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 34418
+  },
+  {
+    "id": "KOR-2",
+    "name": "Lee Han-Beom",
+    "teamId": "KOR",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 237218
+  },
+  {
+    "id": "KOR-16",
+    "name": "Park Jin-Seop",
+    "teamId": "KOR",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 99211
+  },
+  {
+    "id": "KOR-13",
+    "name": "Lee Tae-Seok",
+    "teamId": "KOR",
+    "position": "Midfielder",
+    "number": 13,
+    "externalId": 237220
+  },
+  {
+    "id": "KOR-22",
+    "name": "Seol Young-Woo",
+    "teamId": "KOR",
+    "position": "Midfielder",
+    "number": 22,
+    "externalId": 197985
+  },
+  {
+    "id": "KOR-23",
+    "name": "J. Castrop",
+    "teamId": "KOR",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 280358
+  },
+  {
+    "id": "KOR-3",
+    "name": "Lee Gi-Hyuk",
+    "teamId": "KOR",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 304951
+  },
+  {
+    "id": "KOR-17",
+    "name": "Bae Jun-Ho",
+    "teamId": "KOR",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 357286
+  },
+  {
+    "id": "KOR-25",
+    "name": "Eom Ji-Sung",
+    "teamId": "KOR",
+    "position": "Attacker",
+    "number": 25,
+    "externalId": 237050
+  },
+  {
+    "id": "KOR-6",
+    "name": "Hwang In-Beom",
+    "teamId": "KOR",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 2901
+  },
+  {
+    "id": "KOR-24",
+    "name": "Kim Jin-Gyu",
+    "teamId": "KOR",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 34168
+  },
+  {
+    "id": "KOR-26",
+    "name": "Lee Dong-Gyeong",
+    "teamId": "KOR",
+    "position": "Attacker",
+    "number": 26,
+    "externalId": 34431
+  },
+  {
+    "id": "KOR-10",
+    "name": "Lee Jae-Sung",
+    "teamId": "KOR",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 2906
+  },
+  {
+    "id": "KOR-19",
+    "name": "Lee Kang-In",
+    "teamId": "KOR",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 927
+  },
+  {
+    "id": "KOR-8",
+    "name": "Paik Seung-Ho",
+    "teamId": "KOR",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 2909
+  },
+  {
+    "id": "KOR-20",
+    "name": "Yang Hyun-Jun",
+    "teamId": "KOR",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 304958
+  },
+  {
+    "id": "KOR-11",
+    "name": "Hwang Hee-Chan",
+    "teamId": "KOR",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 24888
+  },
+  {
+    "id": "KOR-9",
+    "name": "Cho Gue-Sung",
+    "teamId": "KOR",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 34211
+  },
+  {
+    "id": "KOR-18",
+    "name": "Oh Hyeon-Gyu",
+    "teamId": "KOR",
+    "position": "Attacker",
+    "number": 18,
+    "externalId": 34710
+  },
+  {
+    "id": "KOR-7",
+    "name": "Son Heung-Min",
+    "teamId": "KOR",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 186
+  }
+]

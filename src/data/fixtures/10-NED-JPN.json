@@ -1,0 +1,415 @@
+{
+  "id": 10,
+  "dateAndTimeInUTC": "2026-06-14T20:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489376,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "NED",
+    "homeTeamExternalId": 1118,
+    "awayTeamId": "JPN",
+    "awayTeamExternalId": 12
+  },
+  "finalScore": {
+    "home": 2,
+    "away": 2
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 2,
+      "away": 2
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 51,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 290,
+      "playerName": "V. van Dijk",
+      "assistPlayerExternalId": 542,
+      "assistPlayerName": "R. Gravenberch",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 57,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 33321,
+      "playerName": "Keito Nakamura",
+      "assistPlayerExternalId": 32862,
+      "assistPlayerName": "T. Kubo",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 37724,
+      "playerName": "C. Summerville",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 37724,
+      "playerName": "C. Summerville",
+      "assistPlayerExternalId": 542,
+      "assistPlayerName": "R. Gravenberch",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 66,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 33224,
+      "playerName": "D. Maeda",
+      "assistPlayerExternalId": 1942,
+      "assistPlayerName": "J. Ito",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 70,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 249,
+      "playerName": "D. Malen",
+      "assistPlayerExternalId": 667,
+      "assistPlayerName": "M. Depay",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 70,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 36902,
+      "playerName": "T. Reijnders",
+      "assistPlayerExternalId": 38747,
+      "assistPlayerName": "Q. Timber",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 70,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 37724,
+      "playerName": "C. Summerville",
+      "assistPlayerExternalId": 36899,
+      "assistPlayerName": "T. Koopmeiners",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 32858,
+      "playerName": "T. Watanabe",
+      "assistPlayerExternalId": 2597,
+      "assistPlayerName": "T. Tomiyasu",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 2598,
+      "playerName": "R. Doan",
+      "assistPlayerExternalId": 32887,
+      "assistPlayerName": "Y. Sugawara",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 32862,
+      "playerName": "T. Kubo",
+      "assistPlayerExternalId": 33289,
+      "assistPlayerName": "Koki Ogawa",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 542,
+      "playerName": "R. Gravenberch",
+      "assistPlayerExternalId": 18861,
+      "assistPlayerName": "N. Ake",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 667,
+      "playerName": "M. Depay",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 72155,
+      "playerName": "A. Ueda",
+      "assistPlayerExternalId": 422572,
+      "assistPlayerName": "K. Shiogai",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 85,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 247,
+      "playerName": "C. Gakpo",
+      "assistPlayerExternalId": 38750,
+      "assistPlayerName": "B. Brobbey",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 2601,
+      "playerName": "D. Kamada",
+      "assistPlayerExternalId": 33289,
+      "assistPlayerName": "Koki Ogawa",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 1,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 152849,
+      "playerName": "M. van de Ven",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "NED",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 6
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 10
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 10
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 0
+        },
+        {
+          "type": "Fouls",
+          "value": 7
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "60%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 3
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 524
+        },
+        {
+          "type": "Passes accurate",
+          "value": 463
+        },
+        {
+          "type": "Passes %",
+          "value": "88%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.78"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.16"
+        }
+      ]
+    },
+    {
+      "teamId": "JPN",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 6
+        },
+        {
+          "type": "Total Shots",
+          "value": 10
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 6
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 7
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "40%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 4
+        },
+        {
+          "type": "Total passes",
+          "value": 341
+        },
+        {
+          "type": "Passes accurate",
+          "value": 286
+        },
+        {
+          "type": "Passes %",
+          "value": "84%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.59"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.16"
+        }
+      ]
+    }
+  ],
+  "group": "Group F"
+}

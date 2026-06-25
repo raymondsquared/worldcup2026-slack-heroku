@@ -1,0 +1,210 @@
+[
+  {
+    "id": "HAI-23",
+    "name": "J. Duverger",
+    "teamId": "HAI",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 123742
+  },
+  {
+    "id": "HAI-12",
+    "name": "A. Pierre",
+    "teamId": "HAI",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 174768
+  },
+  {
+    "id": "HAI-1",
+    "name": "J. Placide",
+    "teamId": "HAI",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 87789
+  },
+  {
+    "id": "HAI-2",
+    "name": "C. Arcus",
+    "teamId": "HAI",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 20850
+  },
+  {
+    "id": "HAI-3",
+    "name": "K. Thermoncy",
+    "teamId": "HAI",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 573613
+  },
+  {
+    "id": "HAI-4",
+    "name": "Ricardo Ade",
+    "teamId": "HAI",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 12303
+  },
+  {
+    "id": "HAI-5",
+    "name": "H. Delcroix",
+    "teamId": "HAI",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 1411
+  },
+  {
+    "id": "HAI-22",
+    "name": "J. Duverne",
+    "teamId": "HAI",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 20655
+  },
+  {
+    "id": "HAI-8",
+    "name": "M. Experience",
+    "teamId": "HAI",
+    "position": "Defender",
+    "number": 8,
+    "externalId": 190747
+  },
+  {
+    "id": "HAI-13",
+    "name": "D. Lacroix",
+    "teamId": "HAI",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 102505
+  },
+  {
+    "id": "HAI-24",
+    "name": "W. Paugain",
+    "teamId": "HAI",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 275367
+  },
+  {
+    "id": "HAI-10",
+    "name": "J. Bellegarde",
+    "teamId": "HAI",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 20665
+  },
+  {
+    "id": "HAI-17",
+    "name": "D. Jean-Jacques",
+    "teamId": "HAI",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 338367
+  },
+  {
+    "id": "HAI-14",
+    "name": "G. Metusala",
+    "teamId": "HAI",
+    "position": "Defender",
+    "number": 14,
+    "externalId": 318930
+  },
+  {
+    "id": "HAI-26",
+    "name": "W. Pierre",
+    "teamId": "HAI",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 371050
+  },
+  {
+    "id": "HAI-6",
+    "name": "C. F. Sainte",
+    "teamId": "HAI",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 540857
+  },
+  {
+    "id": "HAI-25",
+    "name": "D. Simon",
+    "teamId": "HAI",
+    "position": "Midfielder",
+    "number": 25,
+    "externalId": 194242
+  },
+  {
+    "id": "HAI-21",
+    "name": "J. Casimir",
+    "teamId": "HAI",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 174915
+  },
+  {
+    "id": "HAI-11",
+    "name": "L. Deedson",
+    "teamId": "HAI",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 128766
+  },
+  {
+    "id": "HAI-7",
+    "name": "D. Etienne",
+    "teamId": "HAI",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 50958
+  },
+  {
+    "id": "HAI-19",
+    "name": "Y. Fortune",
+    "teamId": "HAI",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 48535
+  },
+  {
+    "id": "HAI-18",
+    "name": "W. Isidor",
+    "teamId": "HAI",
+    "position": "Attacker",
+    "number": 18,
+    "externalId": 84087
+  },
+  {
+    "id": "HAI-16",
+    "name": "L. Joseph",
+    "teamId": "HAI",
+    "position": "Attacker",
+    "number": 16,
+    "externalId": 21613
+  },
+  {
+    "id": "HAI-9",
+    "name": "D. Nazon",
+    "teamId": "HAI",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 45020
+  },
+  {
+    "id": "HAI-20",
+    "name": "F. Pierrot",
+    "teamId": "HAI",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 8601
+  },
+  {
+    "id": "HAI-15",
+    "name": "R. Providence",
+    "teamId": "HAI",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 162733
+  }
+]

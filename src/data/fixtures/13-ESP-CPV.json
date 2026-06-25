@@ -1,0 +1,337 @@
+{
+  "id": 13,
+  "dateAndTimeInUTC": "2026-06-15T16:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489380,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "ESP",
+    "homeTeamExternalId": 9,
+    "awayTeamId": "CPV",
+    "awayTeamExternalId": 1533
+  },
+  "finalScore": {
+    "home": 0,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 0,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 16,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 308689,
+      "playerName": "S. Lopes Cabral",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 37436,
+      "playerName": "L. Duarte",
+      "assistPlayerExternalId": 37435,
+      "assistPlayerName": "Deroy Duarte",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 343287,
+      "playerName": "D. Livramento",
+      "assistPlayerExternalId": 22265,
+      "assistPlayerName": "Nuno da Costa",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 1494,
+      "playerName": "Jovane Cabral",
+      "assistPlayerExternalId": 113580,
+      "assistPlayerName": "Willy Semedo",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 296667,
+      "playerName": "Gavi",
+      "assistPlayerExternalId": 386828,
+      "assistPlayerName": "Lamine Yamal",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 328,
+      "playerName": "Fabian Ruiz",
+      "assistPlayerExternalId": 47311,
+      "assistPlayerName": "Mikel Merino",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 308689,
+      "playerName": "S. Lopes Cabral",
+      "assistPlayerExternalId": 142016,
+      "assistPlayerName": "Joao Paulo",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 50745,
+      "playerName": "Jamiro Monteiro",
+      "assistPlayerExternalId": 265556,
+      "assistPlayerName": "Telmo Arcanjo",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 931,
+      "playerName": "Ferran Torres",
+      "assistPlayerExternalId": 1323,
+      "assistPlayerName": "Dani Olmo",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 87,
+      "extraMinute": null,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 44,
+      "playerName": "Rodri",
+      "assistPlayerExternalId": 183799,
+      "assistPlayerName": "Nico Williams",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 133609,
+      "playerName": "Pedri",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "ESP",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 7
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 12
+        },
+        {
+          "type": "Total Shots",
+          "value": 27
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 8
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 16
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 11
+        },
+        {
+          "type": "Fouls",
+          "value": 10
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 11
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "74%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 800
+        },
+        {
+          "type": "Passes accurate",
+          "value": 734
+        },
+        {
+          "type": "Passes %",
+          "value": "92%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "2.10"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "1.45"
+        }
+      ]
+    },
+    {
+      "teamId": "CPV",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 1
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 6
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 2
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 1
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 1
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "26%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 7
+        },
+        {
+          "type": "Total passes",
+          "value": 278
+        },
+        {
+          "type": "Passes accurate",
+          "value": 205
+        },
+        {
+          "type": "Passes %",
+          "value": "74%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.20"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "1.45"
+        }
+      ]
+    }
+  ],
+  "group": "Group H"
+}

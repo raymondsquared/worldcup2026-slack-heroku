@@ -1,0 +1,415 @@
+{
+  "id": 20,
+  "dateAndTimeInUTC": "2026-06-17T04:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489382,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "AUT",
+    "homeTeamExternalId": 775,
+    "awayTeamId": "JOR",
+    "awayTeamExternalId": 1548
+  },
+  "finalScore": {
+    "home": 3,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 1,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 3,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 21,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 7562,
+      "playerName": "R. Schmid",
+      "assistPlayerExternalId": 1095,
+      "assistPlayerName": "X. Schlager",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 7722,
+      "playerName": "S. Kalajdzic",
+      "assistPlayerExternalId": 18830,
+      "assistPlayerName": "M. Arnautovic",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 50,
+      "extraMinute": null,
+      "teamId": "JOR",
+      "teamExternalId": 1548,
+      "playerExternalId": 164026,
+      "playerName": "Ali Olwan",
+      "assistPlayerExternalId": 140609,
+      "assistPlayerName": "Noor Al Rawabdeh",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 59,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 25915,
+      "playerName": "P. Mwene",
+      "assistPlayerExternalId": 327895,
+      "assistPlayerName": "P. Wanner",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 59,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 505,
+      "playerName": "D. Alaba",
+      "assistPlayerExternalId": 25287,
+      "assistPlayerName": "K. Danso",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 59,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 1095,
+      "playerName": "X. Schlager",
+      "assistPlayerExternalId": 138935,
+      "assistPlayerName": "C. Chukwuemeka",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Var",
+      "minute": 70,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 18830,
+      "playerName": "M. Arnautovic",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Goal cancelled",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "JOR",
+      "teamExternalId": 1548,
+      "playerExternalId": 102538,
+      "playerName": "M. Abualnadi",
+      "assistPlayerExternalId": 72140,
+      "assistPlayerName": "Saleem Obaid",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 53900,
+      "playerName": "Yazan Al Arab",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Own Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 77,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 1159,
+      "playerName": "M. Sabitzer",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "JOR",
+      "teamExternalId": 1548,
+      "playerExternalId": 310835,
+      "playerName": "Abdallah Naseeb",
+      "assistPlayerExternalId": 213978,
+      "assistPlayerName": "Saed Al Rosan",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "JOR",
+      "teamExternalId": 1548,
+      "playerExternalId": 53902,
+      "playerName": "Ehsan Haddad",
+      "assistPlayerExternalId": 123530,
+      "assistPlayerName": "Mahmoud Al Mardi",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 7562,
+      "playerName": "R. Schmid",
+      "assistPlayerExternalId": 126642,
+      "assistPlayerName": "P. Wimmer",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 88,
+      "extraMinute": null,
+      "teamId": "JOR",
+      "teamExternalId": 1548,
+      "playerExternalId": 15286,
+      "playerName": "Mousa Tamari",
+      "assistPlayerExternalId": 651096,
+      "assistPlayerName": "M. Al Daoud",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "JOR",
+      "teamExternalId": 1548,
+      "playerExternalId": 568556,
+      "playerName": "O. Al Fakhouri",
+      "assistPlayerExternalId": 575283,
+      "assistPlayerName": "A. Azaizeh",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Var",
+      "minute": 90,
+      "extraMinute": 10,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 18830,
+      "playerName": "M. Arnautovic",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Penalty confirmed",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 18830,
+      "playerName": "M. Arnautovic",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Penalty",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "AUT",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 6
+        },
+        {
+          "type": "Total Shots",
+          "value": 11
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 6
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 5
+        },
+        {
+          "type": "Fouls",
+          "value": 12
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "63%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 580
+        },
+        {
+          "type": "Passes accurate",
+          "value": 487
+        },
+        {
+          "type": "Passes %",
+          "value": "84%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.69"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-1.71"
+        }
+      ]
+    },
+    {
+      "teamId": "JOR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 11
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 7
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 7
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 3
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "37%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 332
+        },
+        {
+          "type": "Passes accurate",
+          "value": 241
+        },
+        {
+          "type": "Passes %",
+          "value": "73%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.15"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-1.71"
+        }
+      ]
+    }
+  ],
+  "group": "Group J"
+}

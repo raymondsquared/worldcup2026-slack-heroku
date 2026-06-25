@@ -1,0 +1,415 @@
+{
+  "id": 31,
+  "dateAndTimeInUTC": "2026-06-20T00:30:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489389,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "BRA",
+    "homeTeamExternalId": 6,
+    "awayTeamId": "HAI",
+    "awayTeamExternalId": 2386
+  },
+  "finalScore": {
+    "home": 3,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 3,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 3,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 4,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 20850,
+      "playerName": "C. Arcus",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 23,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 1165,
+      "playerName": "Matheus Cunha",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 36,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 1165,
+      "playerName": "Matheus Cunha",
+      "assistPlayerExternalId": 762,
+      "assistPlayerName": "Vinicius Junior",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 40,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 1496,
+      "playerName": "Raphinha",
+      "assistPlayerExternalId": 407806,
+      "assistPlayerName": "Rayan",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 45,
+      "extraMinute": 4,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 8601,
+      "playerName": "F. Pierrot",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 45,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 762,
+      "playerName": "Vinicius Junior",
+      "assistPlayerExternalId": 1646,
+      "assistPlayerName": "Lucas Paqueta",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 20850,
+      "playerName": "C. Arcus",
+      "assistPlayerExternalId": 194242,
+      "assistPlayerName": "D. Simon",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 8601,
+      "playerName": "F. Pierrot",
+      "assistPlayerExternalId": 84087,
+      "assistPlayerName": "W. Isidor",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 62,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 174915,
+      "playerName": "J. Casimir",
+      "assistPlayerExternalId": 128766,
+      "assistPlayerName": "L. Deedson",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 1646,
+      "playerName": "Lucas Paqueta",
+      "assistPlayerExternalId": 127769,
+      "assistPlayerName": "Gabriel Martinelli",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 1165,
+      "playerName": "Matheus Cunha",
+      "assistPlayerExternalId": 377122,
+      "assistPlayerName": "Endrick",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 24866,
+      "playerName": "Douglas Santos",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 162733,
+      "playerName": "R. Providence",
+      "assistPlayerExternalId": 21613,
+      "assistPlayerName": "L. Joseph",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 338367,
+      "playerName": "D. Jean-Jacques",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 10135,
+      "playerName": "Bruno Guimaraes",
+      "assistPlayerExternalId": 10097,
+      "assistPlayerName": "Ederson Silva",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 762,
+      "playerName": "Vinicius Junior",
+      "assistPlayerExternalId": 275170,
+      "assistPlayerName": "Danilo Santos",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 20665,
+      "playerName": "J. Bellegarde",
+      "assistPlayerExternalId": 50958,
+      "assistPlayerName": "D. Etienne",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "BRA",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 5
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 2
+        },
+        {
+          "type": "Total Shots",
+          "value": 8
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 8
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 0
+        },
+        {
+          "type": "Fouls",
+          "value": 13
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 8
+        },
+        {
+          "type": "Ball Possession",
+          "value": "57%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 525
+        },
+        {
+          "type": "Passes accurate",
+          "value": 462
+        },
+        {
+          "type": "Passes %",
+          "value": "88%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.75"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.67"
+        }
+      ]
+    },
+    {
+      "teamId": "HAI",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 7
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 14
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 4
+        },
+        {
+          "type": "Ball Possession",
+          "value": "43%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 3
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 399
+        },
+        {
+          "type": "Passes accurate",
+          "value": 332
+        },
+        {
+          "type": "Passes %",
+          "value": "83%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.23"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.67"
+        }
+      ]
+    }
+  ],
+  "group": "Group C"
+}

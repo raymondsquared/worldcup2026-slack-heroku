@@ -1,0 +1,434 @@
+[
+  {
+    "id": "ALG",
+    "name": "Algeria",
+    "group": "Group J",
+    "rank": 3,
+    "points": 3,
+    "goalsDiff": -2,
+    "externalId": 1532
+  },
+  {
+    "id": "ARG",
+    "name": "Argentina",
+    "group": "Group J",
+    "rank": 1,
+    "points": 6,
+    "goalsDiff": 5,
+    "externalId": 26
+  },
+  {
+    "id": "AUS",
+    "name": "Australia",
+    "group": "Group D",
+    "rank": 2,
+    "points": 3,
+    "goalsDiff": 0,
+    "externalId": 20
+  },
+  {
+    "id": "AUT",
+    "name": "Austria",
+    "group": "Group J",
+    "rank": 2,
+    "points": 3,
+    "goalsDiff": 0,
+    "externalId": 775
+  },
+  {
+    "id": "BEL",
+    "name": "Belgium",
+    "group": "Group G",
+    "rank": 3,
+    "points": 2,
+    "goalsDiff": 0,
+    "externalId": 1
+  },
+  {
+    "id": "BIH",
+    "name": "Bosnia & Herzegovina",
+    "group": "Group B",
+    "rank": 3,
+    "points": 1,
+    "goalsDiff": -3,
+    "externalId": 1113
+  },
+  {
+    "id": "BRA",
+    "name": "Brazil",
+    "group": "Group C",
+    "rank": 1,
+    "points": 4,
+    "goalsDiff": 3,
+    "externalId": 6
+  },
+  {
+    "id": "CAN",
+    "name": "Canada",
+    "group": "Group B",
+    "rank": 1,
+    "points": 4,
+    "goalsDiff": 6,
+    "externalId": 5529
+  },
+  {
+    "id": "CPV",
+    "name": "Cape Verde Islands",
+    "group": "Group H",
+    "rank": 3,
+    "points": 2,
+    "goalsDiff": 0,
+    "externalId": 1533
+  },
+  {
+    "id": "COL",
+    "name": "Colombia",
+    "group": "Group K",
+    "rank": 1,
+    "points": 6,
+    "goalsDiff": 3,
+    "externalId": 8
+  },
+  {
+    "id": "COD",
+    "name": "Congo DR",
+    "group": "Group K",
+    "rank": 3,
+    "points": 1,
+    "goalsDiff": -1,
+    "externalId": 1508
+  },
+  {
+    "id": "CRO",
+    "name": "Croatia",
+    "group": "Group L",
+    "rank": 3,
+    "points": 3,
+    "goalsDiff": -1,
+    "externalId": 3
+  },
+  {
+    "id": "CUW",
+    "name": "Curacao",
+    "group": "Group E",
+    "rank": 4,
+    "points": 1,
+    "goalsDiff": -6,
+    "externalId": 5530
+  },
+  {
+    "id": "CZE",
+    "name": "Czechia",
+    "group": "Group A",
+    "rank": 3,
+    "points": 1,
+    "goalsDiff": -1,
+    "externalId": 770
+  },
+  {
+    "id": "ECU",
+    "name": "Ecuador",
+    "group": "Group E",
+    "rank": 3,
+    "points": 1,
+    "goalsDiff": -1,
+    "externalId": 2382
+  },
+  {
+    "id": "EGY",
+    "name": "Egypt",
+    "group": "Group G",
+    "rank": 1,
+    "points": 4,
+    "goalsDiff": 2,
+    "externalId": 32
+  },
+  {
+    "id": "ENG",
+    "name": "England",
+    "group": "Group L",
+    "rank": 1,
+    "points": 4,
+    "goalsDiff": 2,
+    "externalId": 10
+  },
+  {
+    "id": "FRA",
+    "name": "France",
+    "group": "Group I",
+    "rank": 1,
+    "points": 6,
+    "goalsDiff": 5,
+    "externalId": 2
+  },
+  {
+    "id": "GER",
+    "name": "Germany",
+    "group": "Group E",
+    "rank": 1,
+    "points": 6,
+    "goalsDiff": 7,
+    "externalId": 25
+  },
+  {
+    "id": "GHA",
+    "name": "Ghana",
+    "group": "Group L",
+    "rank": 2,
+    "points": 4,
+    "goalsDiff": 1,
+    "externalId": 1504
+  },
+  {
+    "id": "HAI",
+    "name": "Haiti",
+    "group": "Group C",
+    "rank": 4,
+    "points": 0,
+    "goalsDiff": -4,
+    "externalId": 2386
+  },
+  {
+    "id": "IRN",
+    "name": "Iran",
+    "group": "Group G",
+    "rank": 2,
+    "points": 2,
+    "goalsDiff": 0,
+    "externalId": 22
+  },
+  {
+    "id": "IRQ",
+    "name": "Iraq",
+    "group": "Group I",
+    "rank": 4,
+    "points": 0,
+    "goalsDiff": -6,
+    "externalId": 1567
+  },
+  {
+    "id": "CIV",
+    "name": "Ivory Coast",
+    "group": "Group E",
+    "rank": 2,
+    "points": 3,
+    "goalsDiff": 0,
+    "externalId": 1501
+  },
+  {
+    "id": "JPN",
+    "name": "Japan",
+    "group": "Group F",
+    "rank": 2,
+    "points": 4,
+    "goalsDiff": 4,
+    "externalId": 12
+  },
+  {
+    "id": "JOR",
+    "name": "Jordan",
+    "group": "Group J",
+    "rank": 4,
+    "points": 0,
+    "goalsDiff": -3,
+    "externalId": 1548
+  },
+  {
+    "id": "MEX",
+    "name": "Mexico",
+    "group": "Group A",
+    "rank": 1,
+    "points": 6,
+    "goalsDiff": 3,
+    "externalId": 16
+  },
+  {
+    "id": "MAR",
+    "name": "Morocco",
+    "group": "Group C",
+    "rank": 2,
+    "points": 4,
+    "goalsDiff": 1,
+    "externalId": 31
+  },
+  {
+    "id": "NED",
+    "name": "Netherlands",
+    "group": "Group F",
+    "rank": 1,
+    "points": 4,
+    "goalsDiff": 4,
+    "externalId": 1118
+  },
+  {
+    "id": "NZL",
+    "name": "New Zealand",
+    "group": "Group G",
+    "rank": 4,
+    "points": 1,
+    "goalsDiff": -2,
+    "externalId": 4673
+  },
+  {
+    "id": "NOR",
+    "name": "Norway",
+    "group": "Group I",
+    "rank": 2,
+    "points": 6,
+    "goalsDiff": 4,
+    "externalId": 1090
+  },
+  {
+    "id": "PAN",
+    "name": "Panama",
+    "group": "Group L",
+    "rank": 4,
+    "points": 0,
+    "goalsDiff": -2,
+    "externalId": 11
+  },
+  {
+    "id": "PAR",
+    "name": "Paraguay",
+    "group": "Group D",
+    "rank": 3,
+    "points": 3,
+    "goalsDiff": -2,
+    "externalId": 2380
+  },
+  {
+    "id": "POR",
+    "name": "Portugal",
+    "group": "Group K",
+    "rank": 2,
+    "points": 4,
+    "goalsDiff": 5,
+    "externalId": 27
+  },
+  {
+    "id": "QAT",
+    "name": "Qatar",
+    "group": "Group B",
+    "rank": 4,
+    "points": 1,
+    "goalsDiff": -6,
+    "externalId": 1569
+  },
+  {
+    "id": "KSA",
+    "name": "Saudi Arabia",
+    "group": "Group H",
+    "rank": 4,
+    "points": 1,
+    "goalsDiff": -4,
+    "externalId": 23
+  },
+  {
+    "id": "SCO",
+    "name": "Scotland",
+    "group": "Group C",
+    "rank": 3,
+    "points": 3,
+    "goalsDiff": 0,
+    "externalId": 1108
+  },
+  {
+    "id": "SEN",
+    "name": "Senegal",
+    "group": "Group I",
+    "rank": 3,
+    "points": 0,
+    "goalsDiff": -3,
+    "externalId": 13
+  },
+  {
+    "id": "RSA",
+    "name": "South Africa",
+    "group": "Group A",
+    "rank": 4,
+    "points": 1,
+    "goalsDiff": -2,
+    "externalId": 1531
+  },
+  {
+    "id": "KOR",
+    "name": "South Korea",
+    "group": "Group A",
+    "rank": 2,
+    "points": 3,
+    "goalsDiff": 0,
+    "externalId": 17
+  },
+  {
+    "id": "ESP",
+    "name": "Spain",
+    "group": "Group H",
+    "rank": 1,
+    "points": 4,
+    "goalsDiff": 4,
+    "externalId": 9
+  },
+  {
+    "id": "SWE",
+    "name": "Sweden",
+    "group": "Group F",
+    "rank": 3,
+    "points": 3,
+    "goalsDiff": 0,
+    "externalId": 5
+  },
+  {
+    "id": "SUI",
+    "name": "Switzerland",
+    "group": "Group B",
+    "rank": 2,
+    "points": 4,
+    "goalsDiff": 3,
+    "externalId": 15
+  },
+  {
+    "id": "TUN",
+    "name": "Tunisia",
+    "group": "Group F",
+    "rank": 4,
+    "points": 0,
+    "goalsDiff": -8,
+    "externalId": 28
+  },
+  {
+    "id": "TUR",
+    "name": "Turkiye",
+    "group": "Group D",
+    "rank": 4,
+    "points": 0,
+    "goalsDiff": -3,
+    "externalId": 777
+  },
+  {
+    "id": "URU",
+    "name": "Uruguay",
+    "group": "Group H",
+    "rank": 2,
+    "points": 2,
+    "goalsDiff": 0,
+    "externalId": 7
+  },
+  {
+    "id": "USA",
+    "name": "USA",
+    "group": "Group D",
+    "rank": 1,
+    "points": 6,
+    "goalsDiff": 5,
+    "externalId": 2384
+  },
+  {
+    "id": "UZB",
+    "name": "Uzbekistan",
+    "group": "Group K",
+    "rank": 4,
+    "points": 0,
+    "goalsDiff": -7,
+    "externalId": 1568
+  }
+]

@@ -1,0 +1,363 @@
+{
+  "id": 28,
+  "dateAndTimeInUTC": "2026-06-19T01:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489388,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "MEX",
+    "homeTeamExternalId": 16,
+    "awayTeamId": "KOR",
+    "awayTeamExternalId": 17
+  },
+  "finalScore": {
+    "home": 1,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 1,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 4,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 927,
+      "playerName": "Lee Kang-In",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 50,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 35970,
+      "playerName": "L. Romo",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 57,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 2906,
+      "playerName": "Lee Jae-Sung",
+      "assistPlayerExternalId": 24888,
+      "assistPlayerName": "Hwang Hee-Chan",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 57,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 186,
+      "playerName": "Son Heung-Min",
+      "assistPlayerExternalId": 34710,
+      "assistPlayerName": "Oh Hyeon-Gyu",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 58,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 2909,
+      "playerName": "Paik Seung-Ho",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 35970,
+      "playerName": "L. Romo",
+      "assistPlayerExternalId": 313383,
+      "assistPlayerName": "O. Vargas",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 212233,
+      "playerName": "B. Gutierrez",
+      "assistPlayerExternalId": 35576,
+      "assistPlayerName": "O. Pineda",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 2912,
+      "playerName": "Kim Moon-Hwan",
+      "assistPlayerExternalId": 237050,
+      "assistPlayerName": "Eom Ji-Sung",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 197985,
+      "playerName": "Seol Young-Woo",
+      "assistPlayerExternalId": 304958,
+      "assistPlayerName": "Yang Hyun-Jun",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 77,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 2909,
+      "playerName": "Paik Seung-Ho",
+      "assistPlayerExternalId": 34211,
+      "assistPlayerName": "Cho Gue-Sung",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 2879,
+      "playerName": "R. Alvarado",
+      "assistPlayerExternalId": 127227,
+      "assistPlayerName": "I. Reyes",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 2887,
+      "playerName": "R. Jimenez",
+      "assistPlayerExternalId": 94562,
+      "assistPlayerName": "S. Gimenez",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 35532,
+      "playerName": "J. Quinones",
+      "assistPlayerExternalId": 36111,
+      "assistPlayerName": "C. Huerta",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "MEX",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 8
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 5
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 9
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 0
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "42%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 427
+        },
+        {
+          "type": "Passes accurate",
+          "value": 349
+        },
+        {
+          "type": "Passes %",
+          "value": "82%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.53"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.10"
+        }
+      ]
+    },
+    {
+      "teamId": "KOR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 9
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 6
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 7
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 6
+        },
+        {
+          "type": "Ball Possession",
+          "value": "58%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 578
+        },
+        {
+          "type": "Passes accurate",
+          "value": 488
+        },
+        {
+          "type": "Passes %",
+          "value": "84%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.91"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.10"
+        }
+      ]
+    }
+  ],
+  "group": "Group A"
+}

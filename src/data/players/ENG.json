@@ -1,0 +1,210 @@
+[
+  {
+    "id": "ENG-13",
+    "name": "D. Henderson",
+    "teamId": "ENG",
+    "position": "Goalkeeper",
+    "number": 13,
+    "externalId": 19088
+  },
+  {
+    "id": "ENG-1",
+    "name": "J. Pickford",
+    "teamId": "ENG",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 2932
+  },
+  {
+    "id": "ENG-23",
+    "name": "J. Trafford",
+    "teamId": "ENG",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 162489
+  },
+  {
+    "id": "ENG-15",
+    "name": "D. Burn",
+    "teamId": "ENG",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 18961
+  },
+  {
+    "id": "ENG-6",
+    "name": "M. Guehi",
+    "teamId": "ENG",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 67971
+  },
+  {
+    "id": "ENG-24",
+    "name": "R. James",
+    "teamId": "ENG",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 19545
+  },
+  {
+    "id": "ENG-2",
+    "name": "E. Konsa",
+    "teamId": "ENG",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 19354
+  },
+  {
+    "id": "ENG-12",
+    "name": "T. Chalobah",
+    "teamId": "ENG",
+    "position": "Defender",
+    "number": 12,
+    "externalId": 19720
+  },
+  {
+    "id": "ENG-3",
+    "name": "N. Oreilly",
+    "teamId": "ENG",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 307123
+  },
+  {
+    "id": "ENG-26",
+    "name": "J. Quansah",
+    "teamId": "ENG",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 158698
+  },
+  {
+    "id": "ENG-25",
+    "name": "D. Spence",
+    "teamId": "ENG",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 19235
+  },
+  {
+    "id": "ENG-5",
+    "name": "J. Stones",
+    "teamId": "ENG",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 626
+  },
+  {
+    "id": "ENG-8",
+    "name": "E. Anderson",
+    "teamId": "ENG",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 138908
+  },
+  {
+    "id": "ENG-10",
+    "name": "J. Bellingham",
+    "teamId": "ENG",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 129718
+  },
+  {
+    "id": "ENG-21",
+    "name": "E. Eze",
+    "teamId": "ENG",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 19586
+  },
+  {
+    "id": "ENG-14",
+    "name": "J. Henderson",
+    "teamId": "ENG",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 292
+  },
+  {
+    "id": "ENG-16",
+    "name": "K. Mainoo",
+    "teamId": "ENG",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 284322
+  },
+  {
+    "id": "ENG-4",
+    "name": "D. Rice",
+    "teamId": "ENG",
+    "position": "Midfielder",
+    "number": 4,
+    "externalId": 2937
+  },
+  {
+    "id": "ENG-17",
+    "name": "M. Rogers",
+    "teamId": "ENG",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 19170
+  },
+  {
+    "id": "ENG-18",
+    "name": "A. Gordon",
+    "teamId": "ENG",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 138787
+  },
+  {
+    "id": "ENG-9",
+    "name": "H. Kane",
+    "teamId": "ENG",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 184
+  },
+  {
+    "id": "ENG-20",
+    "name": "N. Madueke",
+    "teamId": "ENG",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 136723
+  },
+  {
+    "id": "ENG-11",
+    "name": "M. Rashford",
+    "teamId": "ENG",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 909
+  },
+  {
+    "id": "ENG-7",
+    "name": "B. Saka",
+    "teamId": "ENG",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 1460
+  },
+  {
+    "id": "ENG-22",
+    "name": "I. Toney",
+    "teamId": "ENG",
+    "position": "Attacker",
+    "number": 22,
+    "externalId": 19974
+  },
+  {
+    "id": "ENG-19",
+    "name": "O. Watkins",
+    "teamId": "ENG",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 19366
+  }
+]

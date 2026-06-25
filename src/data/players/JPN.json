@@ -1,0 +1,210 @@
+[
+  {
+    "id": "JPN-23",
+    "name": "T. Hayakawa",
+    "teamId": "JPN",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 304782
+  },
+  {
+    "id": "JPN-12",
+    "name": "K. Osako",
+    "teamId": "JPN",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 33034
+  },
+  {
+    "id": "JPN-1",
+    "name": "Z. Suzuki",
+    "teamId": "JPN",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 199578
+  },
+  {
+    "id": "JPN-4",
+    "name": "K. Itakura",
+    "teamId": "JPN",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 38114
+  },
+  {
+    "id": "JPN-21",
+    "name": "H. Ito",
+    "teamId": "JPN",
+    "position": "Defender",
+    "number": 21,
+    "externalId": 32893
+  },
+  {
+    "id": "JPN-5",
+    "name": "Y. Nagatomo",
+    "teamId": "JPN",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 440
+  },
+  {
+    "id": "JPN-20",
+    "name": "A. Seko",
+    "teamId": "JPN",
+    "position": "Defender",
+    "number": 20,
+    "externalId": 33165
+  },
+  {
+    "id": "JPN-2",
+    "name": "Y. Sugawara",
+    "teamId": "JPN",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 32887
+  },
+  {
+    "id": "JPN-25",
+    "name": "J. Suzuki",
+    "teamId": "JPN",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 351014
+  },
+  {
+    "id": "JPN-3",
+    "name": "S. Taniguchi",
+    "teamId": "JPN",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 32954
+  },
+  {
+    "id": "JPN-22",
+    "name": "T. Tomiyasu",
+    "teamId": "JPN",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 2597
+  },
+  {
+    "id": "JPN-16",
+    "name": "T. Watanabe",
+    "teamId": "JPN",
+    "position": "Defender",
+    "number": 16,
+    "externalId": 32858
+  },
+  {
+    "id": "JPN-10",
+    "name": "R. Doan",
+    "teamId": "JPN",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 2598
+  },
+  {
+    "id": "JPN-15",
+    "name": "D. Kamada",
+    "teamId": "JPN",
+    "position": "Attacker",
+    "number": 15,
+    "externalId": 2601
+  },
+  {
+    "id": "JPN-24",
+    "name": "K. Sano",
+    "teamId": "JPN",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 33889
+  },
+  {
+    "id": "JPN-7",
+    "name": "A. Tanaka",
+    "teamId": "JPN",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 32966
+  },
+  {
+    "id": "JPN-14",
+    "name": "J. Ito",
+    "teamId": "JPN",
+    "position": "Attacker",
+    "number": 14,
+    "externalId": 1942
+  },
+  {
+    "id": "JPN-8",
+    "name": "T. Kubo",
+    "teamId": "JPN",
+    "position": "Attacker",
+    "number": 8,
+    "externalId": 32862
+  },
+  {
+    "id": "JPN-11",
+    "name": "D. Maeda",
+    "teamId": "JPN",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 33224
+  },
+  {
+    "id": "JPN-13",
+    "name": "Keito Nakamura",
+    "teamId": "JPN",
+    "position": "Midfielder",
+    "number": 13,
+    "externalId": 33321
+  },
+  {
+    "id": "JPN-17",
+    "name": "Y. Suzuki",
+    "teamId": "JPN",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 199143
+  },
+  {
+    "id": "JPN-9",
+    "name": "K. Goto",
+    "teamId": "JPN",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 375930
+  },
+  {
+    "id": "JPN-19",
+    "name": "Koki Ogawa",
+    "teamId": "JPN",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 33289
+  },
+  {
+    "id": "JPN-26",
+    "name": "K. Shiogai",
+    "teamId": "JPN",
+    "position": "Attacker",
+    "number": 26,
+    "externalId": 422572
+  },
+  {
+    "id": "JPN-18",
+    "name": "A. Ueda",
+    "teamId": "JPN",
+    "position": "Attacker",
+    "number": 18,
+    "externalId": 72155
+  },
+  {
+    "id": "JPN-6",
+    "name": "S. Machino",
+    "teamId": "JPN",
+    "position": "Attacker",
+    "number": 6,
+    "externalId": 106851
+  }
+]

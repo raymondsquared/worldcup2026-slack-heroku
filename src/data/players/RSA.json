@@ -1,0 +1,210 @@
+[
+  {
+    "id": "RSA-16",
+    "name": "S. Chaine",
+    "teamId": "RSA",
+    "position": "Goalkeeper",
+    "number": 16,
+    "externalId": 46417
+  },
+  {
+    "id": "RSA-22",
+    "name": "R. Goss",
+    "teamId": "RSA",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 46245
+  },
+  {
+    "id": "RSA-1",
+    "name": "R. Williams",
+    "teamId": "RSA",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 3275
+  },
+  {
+    "id": "RSA-26",
+    "name": "B. Cross",
+    "teamId": "RSA",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 163041
+  },
+  {
+    "id": "RSA-18",
+    "name": "S. Kabini",
+    "teamId": "RSA",
+    "position": "Defender",
+    "number": 18,
+    "externalId": 430078
+  },
+  {
+    "id": "RSA-24",
+    "name": "O. Makhanya",
+    "teamId": "RSA",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 392387
+  },
+  {
+    "id": "RSA-14",
+    "name": "M. Mbokazi",
+    "teamId": "RSA",
+    "position": "Defender",
+    "number": 14,
+    "externalId": 510799
+  },
+  {
+    "id": "RSA-6",
+    "name": "A. Modiba",
+    "teamId": "RSA",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 46334
+  },
+  {
+    "id": "RSA-20",
+    "name": "K. Mudau",
+    "teamId": "RSA",
+    "position": "Defender",
+    "number": 20,
+    "externalId": 46601
+  },
+  {
+    "id": "RSA-3",
+    "name": "K. Ndamane",
+    "teamId": "RSA",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 474630
+  },
+  {
+    "id": "RSA-21",
+    "name": "I. Okon",
+    "teamId": "RSA",
+    "position": "Defender",
+    "number": 21,
+    "externalId": 406752
+  },
+  {
+    "id": "RSA-19",
+    "name": "N. Sibisi",
+    "teamId": "RSA",
+    "position": "Defender",
+    "number": 19,
+    "externalId": 46458
+  },
+  {
+    "id": "RSA-2",
+    "name": "T. Matuludi",
+    "teamId": "RSA",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 330174
+  },
+  {
+    "id": "RSA-23",
+    "name": "J. Adams",
+    "teamId": "RSA",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 268710
+  },
+  {
+    "id": "RSA-5",
+    "name": "T. Mbatha",
+    "teamId": "RSA",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 194430
+  },
+  {
+    "id": "RSA-4",
+    "name": "T. Mokoena",
+    "teamId": "RSA",
+    "position": "Midfielder",
+    "number": 4,
+    "externalId": 3287
+  },
+  {
+    "id": "RSA-13",
+    "name": "S. Sithole",
+    "teamId": "RSA",
+    "position": "Midfielder",
+    "number": 13,
+    "externalId": 158433
+  },
+  {
+    "id": "RSA-11",
+    "name": "T. Zwane",
+    "teamId": "RSA",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 3289
+  },
+  {
+    "id": "RSA-7",
+    "name": "O. Appollis",
+    "teamId": "RSA",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 179893
+  },
+  {
+    "id": "RSA-9",
+    "name": "L. Foster",
+    "teamId": "RSA",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 98936
+  },
+  {
+    "id": "RSA-99",
+    "name": "E. Makgopa",
+    "teamId": "RSA",
+    "position": "Attacker",
+    "number": 99,
+    "externalId": 201354
+  },
+  {
+    "id": "RSA-12",
+    "name": "T. Maseko",
+    "teamId": "RSA",
+    "position": "Attacker",
+    "number": 12,
+    "externalId": 354831
+  },
+  {
+    "id": "RSA-10",
+    "name": "R. Mofokeng",
+    "teamId": "RSA",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 414149
+  },
+  {
+    "id": "RSA-8",
+    "name": "T. Moremi",
+    "teamId": "RSA",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 295977
+  },
+  {
+    "id": "RSA-15",
+    "name": "I. Rayners",
+    "teamId": "RSA",
+    "position": "Attacker",
+    "number": 15,
+    "externalId": 127429
+  },
+  {
+    "id": "RSA-25",
+    "name": "K. Sebelebele",
+    "teamId": "RSA",
+    "position": "Midfielder",
+    "number": 25,
+    "externalId": 359561
+  }
+]

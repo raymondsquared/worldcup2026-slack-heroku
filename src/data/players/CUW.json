@@ -1,0 +1,210 @@
+[
+  {
+    "id": "CUW-25",
+    "name": "T. Bodak",
+    "teamId": "CUW",
+    "position": "Goalkeeper",
+    "number": 25,
+    "externalId": 214129
+  },
+  {
+    "id": "CUW-26",
+    "name": "T. Doornbusch",
+    "teamId": "CUW",
+    "position": "Goalkeeper",
+    "number": 26,
+    "externalId": 36967
+  },
+  {
+    "id": "CUW-1",
+    "name": "E. Room",
+    "teamId": "CUW",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 221
+  },
+  {
+    "id": "CUW-23",
+    "name": "R. Bazoer",
+    "teamId": "CUW",
+    "position": "Defender",
+    "number": 23,
+    "externalId": 37175
+  },
+  {
+    "id": "CUW-20",
+    "name": "J. Brenet",
+    "teamId": "CUW",
+    "position": "Defender",
+    "number": 20,
+    "externalId": 706
+  },
+  {
+    "id": "CUW-5",
+    "name": "S. Floranus",
+    "teamId": "CUW",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 36970
+  },
+  {
+    "id": "CUW-24",
+    "name": "Deveron Fonville",
+    "teamId": "CUW",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 353808
+  },
+  {
+    "id": "CUW-3",
+    "name": "J. Gaari",
+    "teamId": "CUW",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 36857
+  },
+  {
+    "id": "CUW-2",
+    "name": "S. Sambo",
+    "teamId": "CUW",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 194645
+  },
+  {
+    "id": "CUW-4",
+    "name": "R. van Eijma",
+    "teamId": "CUW",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 37066
+  },
+  {
+    "id": "CUW-18",
+    "name": "A. Obispo",
+    "teamId": "CUW",
+    "position": "Defender",
+    "number": 18,
+    "externalId": 228
+  },
+  {
+    "id": "CUW-10",
+    "name": "L. Bacuna",
+    "teamId": "CUW",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 18997
+  },
+  {
+    "id": "CUW-15",
+    "name": "A. Martha",
+    "teamId": "CUW",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 162199
+  },
+  {
+    "id": "CUW-13",
+    "name": "T. Noslin",
+    "teamId": "CUW",
+    "position": "Midfielder",
+    "number": 13,
+    "externalId": 406846
+  },
+  {
+    "id": "CUW-8",
+    "name": "L. Comenencia",
+    "teamId": "CUW",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 309763
+  },
+  {
+    "id": "CUW-22",
+    "name": "K. Felida",
+    "teamId": "CUW",
+    "position": "Midfielder",
+    "number": 22,
+    "externalId": 37461
+  },
+  {
+    "id": "CUW-21",
+    "name": "T. Chong",
+    "teamId": "CUW",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 906
+  },
+  {
+    "id": "CUW-6",
+    "name": "G. Roemeratoe",
+    "teamId": "CUW",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 36842
+  },
+  {
+    "id": "CUW-7",
+    "name": "J. Bacuna",
+    "teamId": "CUW",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 19047
+  },
+  {
+    "id": "CUW-11",
+    "name": "J. Antonisse",
+    "teamId": "CUW",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 163220
+  },
+  {
+    "id": "CUW-17",
+    "name": "B. Kuwas",
+    "teamId": "CUW",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 37272
+  },
+  {
+    "id": "CUW-14",
+    "name": "K. Gorre",
+    "teamId": "CUW",
+    "position": "Attacker",
+    "number": 14,
+    "externalId": 41627
+  },
+  {
+    "id": "CUW-12",
+    "name": "S. Hansen",
+    "teamId": "CUW",
+    "position": "Attacker",
+    "number": 12,
+    "externalId": 161884
+  },
+  {
+    "id": "CUW-19",
+    "name": "G. Kastaneer",
+    "teamId": "CUW",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 38708
+  },
+  {
+    "id": "CUW-9",
+    "name": "J. Locadia",
+    "teamId": "CUW",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 18981
+  },
+  {
+    "id": "CUW-16",
+    "name": "J. Margaritha",
+    "teamId": "CUW",
+    "position": "Attacker",
+    "number": 16,
+    "externalId": 195067
+  }
+]

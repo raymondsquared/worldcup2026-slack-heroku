@@ -1,0 +1,402 @@
+{
+  "id": 5,
+  "dateAndTimeInUTC": "2026-06-13T19:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489373,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "QAT",
+    "homeTeamExternalId": 1569,
+    "awayTeamId": "SUI",
+    "awayTeamExternalId": 15
+  },
+  "finalScore": {
+    "home": 1,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 1,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 16,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 42207,
+      "playerName": "Mahmud Abunada",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Time wasting"
+    },
+    {
+      "type": "Var",
+      "minute": 16,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 2807,
+      "playerName": "R. Freuler",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Penalty confirmed",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 17,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 421,
+      "playerName": "B. Embolo",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Penalty",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 23,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 200981,
+      "playerName": "Jassem Gaber",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 42,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 2810,
+      "playerName": "D. Zakaria",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 377930,
+      "playerName": "A. Al Oui",
+      "assistPlayerExternalId": 2539,
+      "assistPlayerName": "Ahmed Fathi",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 200981,
+      "playerName": "Jassem Gaber",
+      "assistPlayerExternalId": 2537,
+      "assistPlayerName": "Karim Boudiaf",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 542541,
+      "playerName": "Y. Abdurisag",
+      "assistPlayerExternalId": 2542,
+      "assistPlayerName": "Ahmed Alaa",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 951,
+      "playerName": "M. Aebischer",
+      "assistPlayerExternalId": 163032,
+      "assistPlayerName": "F. Rieder",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 48648,
+      "playerName": "D. Ndoye",
+      "assistPlayerExternalId": 406244,
+      "assistPlayerName": "J. Manzambi",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 2535,
+      "playerName": "Assim Madibo",
+      "assistPlayerExternalId": 283174,
+      "assistPlayerName": "Mohamed Al Manai",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 48471,
+      "playerName": "R. Vargas",
+      "assistPlayerExternalId": 123469,
+      "assistPlayerName": "Z. Amdouni",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 88,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 42075,
+      "playerName": "Edmilson Junior",
+      "assistPlayerExternalId": 2545,
+      "assistPlayerName": "Hassan Al Haydos",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 1631,
+      "playerName": "R. Rodriguez",
+      "assistPlayerExternalId": 48489,
+      "assistPlayerName": "M. Muheim",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 2807,
+      "playerName": "R. Freuler",
+      "assistPlayerExternalId": 264705,
+      "assistPlayerName": "A. Jashari",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "QAT",
+      "teamExternalId": 1569,
+      "playerExternalId": 48489,
+      "playerName": "M. Muheim",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Own Goal",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "QAT",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 6
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 0
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 12
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 3
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "32%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 5
+        },
+        {
+          "type": "Total passes",
+          "value": 278
+        },
+        {
+          "type": "Passes accurate",
+          "value": 200
+        },
+        {
+          "type": "Passes %",
+          "value": "72%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.60"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.54"
+        }
+      ]
+    },
+    {
+      "teamId": "SUI",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 7
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 10
+        },
+        {
+          "type": "Total Shots",
+          "value": 26
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 9
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 18
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 8
+        },
+        {
+          "type": "Fouls",
+          "value": 11
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 10
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "68%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 576
+        },
+        {
+          "type": "Passes accurate",
+          "value": 527
+        },
+        {
+          "type": "Passes %",
+          "value": "91%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "3.20"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.54"
+        }
+      ]
+    }
+  ],
+  "group": "Group B"
+}

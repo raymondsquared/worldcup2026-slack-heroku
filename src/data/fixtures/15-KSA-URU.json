@@ -1,0 +1,363 @@
+{
+  "id": 15,
+  "dateAndTimeInUTC": "2026-06-15T22:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489379,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "KSA",
+    "homeTeamExternalId": 23,
+    "awayTeamId": "URU",
+    "awayTeamExternalId": 7
+  },
+  "finalScore": {
+    "home": 1,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 1,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 1,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 41,
+      "extraMinute": null,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 44475,
+      "playerName": "Abdulelah Al Amri",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 44,
+      "extraMinute": null,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 44475,
+      "playerName": "Abdulelah Al Amri",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 51617,
+      "playerName": "D. Nunez",
+      "assistPlayerExternalId": 51603,
+      "assistPlayerName": "A. Canobbio",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 51572,
+      "playerName": "M. Vina",
+      "assistPlayerExternalId": 162891,
+      "assistPlayerName": "J. Sanabria",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 63,
+      "extraMinute": null,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 306380,
+      "playerName": "Musab Al Juwayr",
+      "assistPlayerExternalId": 44339,
+      "assistPlayerName": "Nasser Al Dawsari",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 51494,
+      "playerName": "M. Ugarte",
+      "assistPlayerExternalId": 5995,
+      "assistPlayerName": "N. de la Cruz",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 51776,
+      "playerName": "M. Araujo",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 403087,
+      "playerName": "Mohammed Abu Al Shamat",
+      "assistPlayerExternalId": 134995,
+      "assistPlayerName": "Nawaf Boushal",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 51776,
+      "playerName": "M. Araujo",
+      "assistPlayerExternalId": 51618,
+      "assistPlayerName": "B. Rodriguez",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 44594,
+      "playerName": "Saud Abdulhamid",
+      "assistPlayerExternalId": 44507,
+      "assistPlayerName": "Ali Lajami",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 202381,
+      "playerName": "Moteb Al Harbi",
+      "assistPlayerExternalId": 44382,
+      "assistPlayerName": "Abdullah Al Hamdan",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 44324,
+      "playerName": "Feras Al Brikan",
+      "assistPlayerExternalId": 593759,
+      "assistPlayerName": "Ala Al Haji",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 51530,
+      "playerName": "F. Vinas",
+      "assistPlayerExternalId": 16482,
+      "assistPlayerName": "R. Aguirre",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "KSA",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 7
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 11
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "33%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 9
+        },
+        {
+          "type": "Total passes",
+          "value": 322
+        },
+        {
+          "type": "Passes accurate",
+          "value": 236
+        },
+        {
+          "type": "Passes %",
+          "value": "73%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.66"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.35"
+        }
+      ]
+    },
+    {
+      "teamId": "URU",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 10
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 10
+        },
+        {
+          "type": "Total Shots",
+          "value": 27
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 7
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 16
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 11
+        },
+        {
+          "type": "Fouls",
+          "value": 6
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 14
+        },
+        {
+          "type": "Offsides",
+          "value": 6
+        },
+        {
+          "type": "Ball Possession",
+          "value": "67%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 612
+        },
+        {
+          "type": "Passes accurate",
+          "value": 540
+        },
+        {
+          "type": "Passes %",
+          "value": "88%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.72"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.35"
+        }
+      ]
+    }
+  ],
+  "group": "Group H"
+}

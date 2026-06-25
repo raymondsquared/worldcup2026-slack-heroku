@@ -1,0 +1,44 @@
+{
+  "query": "world cup 2026 usa vs mexico score",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "title": "USA vs Mexico - FIFA World Cup 2026 Group Stage",
+      "url": "https://www.fifa.com/tournaments/mens/worldcup/2026/matches/usa-mex",
+      "content": "The United States defeated Mexico 2-1 in their Group B opener at MetLife Stadium. Goals from Christian Pulisic (23') and Weston McKennie (67') sealed the win, with Hirving Lozano (45') pulling one back for El Tri.",
+      "score": 0.98,
+      "raw_content": null
+    },
+    {
+      "title": "World Cup 2026: USMNT beats Mexico in historic rivalry match",
+      "url": "https://www.espn.com/soccer/story/world-cup-2026-usmnt-mexico",
+      "content": "In front of 82,000 fans in New Jersey, the US Men's National Team secured a crucial three points against their CONCACAF rivals. Pulisic opened the scoring with a curling free kick before McKennie headed home from a corner.",
+      "score": 0.95,
+      "raw_content": null
+    },
+    {
+      "title": "Match Report: United States 2-1 Mexico | World Cup 2026",
+      "url": "https://www.bbc.com/sport/football/world-cup-2026-usa-mexico",
+      "content": "The hosts got their World Cup campaign off to a winning start with a hard-fought victory over Mexico. Lozano's equalizer threatened to derail the party but McKennie's second-half header restored the lead.",
+      "score": 0.91,
+      "raw_content": null
+    },
+    {
+      "title": "World Cup 2026 Group B standings after matchday 1",
+      "url": "https://www.skysports.com/football/world-cup-2026-group-b",
+      "content": "Group B standings: USA 3pts, Canada 3pts, Mexico 0pts, Ecuador 0pts. The United States and Canada both won their opening matches to take early control of the group.",
+      "score": 0.85,
+      "raw_content": null
+    },
+    {
+      "title": "Pulisic shines as USA open World Cup with victory",
+      "url": "https://www.theguardian.com/football/2026/jun/12/usa-mexico-world-cup-2026",
+      "content": "Christian Pulisic delivered a man-of-the-match performance as the United States opened their home World Cup with a 2-1 win over Mexico. The AC Milan winger's free kick in the 23rd minute set the tone for a dominant first-half display.",
+      "score": 0.82,
+      "raw_content": null
+    }
+  ],
+  "response_time": 1.23
+}

@@ -1,0 +1,363 @@
+{
+  "id": 23,
+  "dateAndTimeInUTC": "2026-06-17T23:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489385,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "GHA",
+    "homeTeamExternalId": 1504,
+    "awayTeamId": "PAN",
+    "awayTeamExternalId": 11
+  },
+  "finalScore": {
+    "home": 1,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 1,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 16,
+      "extraMinute": null,
+      "teamId": "GHA",
+      "teamExternalId": 1504,
+      "playerExternalId": 475575,
+      "playerName": "Caleb Marfo Yirenkyi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "GHA",
+      "teamExternalId": 1504,
+      "playerExternalId": 3412,
+      "playerName": "L. Zigi",
+      "assistPlayerExternalId": 559233,
+      "assistPlayerName": "B. Asare",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 58,
+      "extraMinute": null,
+      "teamId": "GHA",
+      "teamExternalId": 1504,
+      "playerExternalId": 199837,
+      "playerName": "K. Sulemana",
+      "assistPlayerExternalId": 82090,
+      "assistPlayerName": "B. Thomas-Asante",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 58,
+      "extraMinute": null,
+      "teamId": "GHA",
+      "teamExternalId": 1504,
+      "playerExternalId": 350856,
+      "playerName": "E. Nuamah",
+      "assistPlayerExternalId": 303467,
+      "assistPlayerName": "A. Fatawu",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 63,
+      "extraMinute": null,
+      "teamId": "PAN",
+      "teamExternalId": 11,
+      "playerExternalId": 51648,
+      "playerName": "C. Waterman",
+      "assistPlayerExternalId": 2983,
+      "assistPlayerName": "J. Fajardo",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 63,
+      "extraMinute": null,
+      "teamId": "PAN",
+      "teamExternalId": 11,
+      "playerExternalId": 554208,
+      "playerName": "C. Martinez",
+      "assistPlayerExternalId": 292396,
+      "assistPlayerName": "A. Londono",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "PAN",
+      "teamExternalId": 11,
+      "playerExternalId": 2975,
+      "playerName": "C. Blackman",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 74,
+      "extraMinute": null,
+      "teamId": "PAN",
+      "teamExternalId": 11,
+      "playerExternalId": 2979,
+      "playerName": "J. Rodriguez",
+      "assistPlayerExternalId": 96615,
+      "assistPlayerName": "I. Diaz",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 78,
+      "extraMinute": null,
+      "teamId": "GHA",
+      "teamExternalId": 1504,
+      "playerExternalId": 21010,
+      "playerName": "E. Owusu",
+      "assistPlayerExternalId": 3608,
+      "assistPlayerName": "K. Sibo",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 87,
+      "extraMinute": null,
+      "teamId": "GHA",
+      "teamExternalId": 1504,
+      "playerExternalId": 3428,
+      "playerName": "J. Ayew",
+      "assistPlayerExternalId": 410016,
+      "assistPlayerName": "P. Adu",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 9,
+      "teamId": "PAN",
+      "teamExternalId": 11,
+      "playerExternalId": 71230,
+      "playerName": "C. Harvey",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "PAN",
+      "teamExternalId": 11,
+      "playerExternalId": 2975,
+      "playerName": "C. Blackman",
+      "assistPlayerExternalId": 2977,
+      "assistPlayerName": "A. Godoy",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "GHA",
+      "teamExternalId": 1504,
+      "playerExternalId": 475575,
+      "playerName": "Caleb Marfo Yirenkyi",
+      "assistPlayerExternalId": 82090,
+      "assistPlayerName": "B. Thomas-Asante",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "GHA",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 8
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 7
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 1
+        },
+        {
+          "type": "Fouls",
+          "value": 9
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 4
+        },
+        {
+          "type": "Ball Possession",
+          "value": "38%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 4
+        },
+        {
+          "type": "Total passes",
+          "value": 351
+        },
+        {
+          "type": "Passes accurate",
+          "value": 292
+        },
+        {
+          "type": "Passes %",
+          "value": "83%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.31"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.04"
+        }
+      ]
+    },
+    {
+      "teamId": "PAN",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 11
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 6
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 5
+        },
+        {
+          "type": "Fouls",
+          "value": 11
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "62%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 583
+        },
+        {
+          "type": "Passes accurate",
+          "value": 503
+        },
+        {
+          "type": "Passes %",
+          "value": "86%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.73"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.04"
+        }
+      ]
+    }
+  ],
+  "group": "Group L"
+}

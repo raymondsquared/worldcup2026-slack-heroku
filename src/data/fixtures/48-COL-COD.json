@@ -1,0 +1,350 @@
+{
+  "id": 48,
+  "dateAndTimeInUTC": "2026-06-24T02:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1539008,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "COL",
+    "homeTeamExternalId": 8,
+    "awayTeamId": "COD",
+    "awayTeamExternalId": 1508
+  },
+  "finalScore": {
+    "home": 1,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 1,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 375598,
+      "playerName": "N. Mukau",
+      "assistPlayerExternalId": 365331,
+      "assistPlayerName": "N. Sadiki",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 56,
+      "extraMinute": null,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 1929,
+      "playerName": "J. Lucumi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Roughing"
+    },
+    {
+      "type": "subst",
+      "minute": 57,
+      "extraMinute": null,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 3033,
+      "playerName": "C. Bakambu",
+      "assistPlayerExternalId": 20674,
+      "assistPlayerName": "S. Banza",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 58,
+      "extraMinute": null,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 47237,
+      "playerName": "L. Suarez",
+      "assistPlayerExternalId": 24810,
+      "assistPlayerName": "J. Cordoba",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 58,
+      "extraMinute": null,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 517,
+      "playerName": "J. Rodriguez",
+      "assistPlayerExternalId": 6005,
+      "assistPlayerName": "J. Quintero",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 18816,
+      "playerName": "A. Masuaku",
+      "assistPlayerExternalId": 21098,
+      "assistPlayerName": "J. Kayembe",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 1424,
+      "playerName": "E. Kayembe",
+      "assistPlayerExternalId": 48555,
+      "assistPlayerName": "C. Pickel",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 13736,
+      "playerName": "D. Munoz",
+      "assistPlayerExternalId": 6005,
+      "assistPlayerName": "J. Quintero",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 77,
+      "extraMinute": null,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 13708,
+      "playerName": "J. Arias",
+      "assistPlayerExternalId": 195104,
+      "assistPlayerName": "R. Rios",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 82,
+      "extraMinute": null,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 21101,
+      "playerName": "S. Moutoussamy",
+      "assistPlayerExternalId": 129670,
+      "assistPlayerName": "N. Mbuku",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "COD",
+      "teamExternalId": 1508,
+      "playerExternalId": 48555,
+      "playerName": "C. Pickel",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Unsportsmanlike conduct"
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 4,
+      "teamId": "COL",
+      "teamExternalId": 8,
+      "playerExternalId": 2490,
+      "playerName": "J. Lerma",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Roughing"
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "COL",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 9
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 20
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 6
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 11
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 9
+        },
+        {
+          "type": "Fouls",
+          "value": 12
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 7
+        },
+        {
+          "type": "Ball Possession",
+          "value": "64%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 540
+        },
+        {
+          "type": "Passes accurate",
+          "value": 473
+        },
+        {
+          "type": "Passes %",
+          "value": "88%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.03"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.39"
+        }
+      ]
+    },
+    {
+      "teamId": "COD",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 1
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 8
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 16
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "36%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 8
+        },
+        {
+          "type": "Total passes",
+          "value": 298
+        },
+        {
+          "type": "Passes accurate",
+          "value": 224
+        },
+        {
+          "type": "Passes %",
+          "value": "75%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.39"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.39"
+        }
+      ]
+    }
+  ],
+  "group": "Group K"
+}

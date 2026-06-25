@@ -1,0 +1,210 @@
+[
+  {
+    "id": "ESP-13",
+    "name": "Joan Garcia",
+    "teamId": "ESP",
+    "position": "Goalkeeper",
+    "number": 13,
+    "externalId": 182718
+  },
+  {
+    "id": "ESP-1",
+    "name": "David Raya",
+    "teamId": "ESP",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 19465
+  },
+  {
+    "id": "ESP-23",
+    "name": "Unai Simon",
+    "teamId": "ESP",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 47270
+  },
+  {
+    "id": "ESP-22",
+    "name": "Pau Cubarsi Paredes",
+    "teamId": "ESP",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 396623
+  },
+  {
+    "id": "ESP-24",
+    "name": "Marc Cucurella",
+    "teamId": "ESP",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 47380
+  },
+  {
+    "id": "ESP-4",
+    "name": "Eric Garcia",
+    "teamId": "ESP",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 619
+  },
+  {
+    "id": "ESP-3",
+    "name": "Alex Grimaldo",
+    "teamId": "ESP",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 563
+  },
+  {
+    "id": "ESP-14",
+    "name": "Aymeric Laporte",
+    "teamId": "ESP",
+    "position": "Defender",
+    "number": 14,
+    "externalId": 622
+  },
+  {
+    "id": "ESP-5",
+    "name": "Marcos Llorente",
+    "teamId": "ESP",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 753
+  },
+  {
+    "id": "ESP-12",
+    "name": "Pedro Porro",
+    "teamId": "ESP",
+    "position": "Defender",
+    "number": 12,
+    "externalId": 47519
+  },
+  {
+    "id": "ESP-2",
+    "name": "Marc Pubill",
+    "teamId": "ESP",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 295793
+  },
+  {
+    "id": "ESP-9",
+    "name": "Gavi",
+    "teamId": "ESP",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 296667
+  },
+  {
+    "id": "ESP-6",
+    "name": "Mikel Merino",
+    "teamId": "ESP",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 47311
+  },
+  {
+    "id": "ESP-20",
+    "name": "Pedri",
+    "teamId": "ESP",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 133609
+  },
+  {
+    "id": "ESP-16",
+    "name": "Rodri",
+    "teamId": "ESP",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 44
+  },
+  {
+    "id": "ESP-8",
+    "name": "Fabian Ruiz",
+    "teamId": "ESP",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 328
+  },
+  {
+    "id": "ESP-18",
+    "name": "Martin Zubimendi",
+    "teamId": "ESP",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 47315
+  },
+  {
+    "id": "ESP-15",
+    "name": "Alex Baena",
+    "teamId": "ESP",
+    "position": "Attacker",
+    "number": 15,
+    "externalId": 182219
+  },
+  {
+    "id": "ESP-10",
+    "name": "Dani Olmo",
+    "teamId": "ESP",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 1323
+  },
+  {
+    "id": "ESP-26",
+    "name": "Borja Iglesias",
+    "teamId": "ESP",
+    "position": "Attacker",
+    "number": 26,
+    "externalId": 47348
+  },
+  {
+    "id": "ESP-19",
+    "name": "Lamine Yamal",
+    "teamId": "ESP",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 386828
+  },
+  {
+    "id": "ESP-25",
+    "name": "Victor Munoz",
+    "teamId": "ESP",
+    "position": "Attacker",
+    "number": 25,
+    "externalId": 338751
+  },
+  {
+    "id": "ESP-21",
+    "name": "Mikel Oyarzabal",
+    "teamId": "ESP",
+    "position": "Attacker",
+    "number": 21,
+    "externalId": 47323
+  },
+  {
+    "id": "ESP-11",
+    "name": "Yeremy Pino",
+    "teamId": "ESP",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 184226
+  },
+  {
+    "id": "ESP-7",
+    "name": "Ferran Torres",
+    "teamId": "ESP",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 931
+  },
+  {
+    "id": "ESP-17",
+    "name": "Nico Williams",
+    "teamId": "ESP",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 183799
+  }
+]

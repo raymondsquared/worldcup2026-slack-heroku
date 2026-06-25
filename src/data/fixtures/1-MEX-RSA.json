@@ -1,0 +1,428 @@
+{
+  "id": 1,
+  "dateAndTimeInUTC": "2026-06-11T19:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489369,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "MEX",
+    "homeTeamExternalId": 16,
+    "awayTeamId": "RSA",
+    "awayTeamExternalId": 1531
+  },
+  "finalScore": {
+    "home": 2,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 1,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 2,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 9,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 35532,
+      "playerName": "J. Quinones",
+      "assistPlayerExternalId": 266345,
+      "assistPlayerName": "E. Lira",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 17,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 3287,
+      "playerName": "T. Mokoena",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 23,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 212233,
+      "playerName": "B. Gutierrez",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 49,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 158433,
+      "playerName": "S. Sithole",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Red Card",
+      "comments": "Professional foul last man"
+    },
+    {
+      "type": "subst",
+      "minute": 56,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 98936,
+      "playerName": "L. Foster",
+      "assistPlayerExternalId": 194430,
+      "assistPlayerName": "T. Mbatha",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 268710,
+      "playerName": "J. Adams",
+      "assistPlayerExternalId": 3289,
+      "assistPlayerName": "T. Zwane",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 66,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 212233,
+      "playerName": "B. Gutierrez",
+      "assistPlayerExternalId": 35690,
+      "assistPlayerName": "L. Chavez",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 66,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 750,
+      "playerName": "Alvaro Fidalgo",
+      "assistPlayerExternalId": 482605,
+      "assistPlayerName": "G. Mora",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 67,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 2887,
+      "playerName": "R. Jimenez",
+      "assistPlayerExternalId": 2879,
+      "assistPlayerName": "R. Alvarado",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 74,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 46458,
+      "playerName": "N. Sibisi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 266345,
+      "playerName": "E. Lira",
+      "assistPlayerExternalId": 2869,
+      "assistPlayerName": "E. Alvarez",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 2887,
+      "playerName": "R. Jimenez",
+      "assistPlayerExternalId": 291713,
+      "assistPlayerName": "A. Gonzalez",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 127429,
+      "playerName": "I. Rayners",
+      "assistPlayerExternalId": 201354,
+      "assistPlayerName": "E. Makgopa",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 77,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 46334,
+      "playerName": "A. Modiba",
+      "assistPlayerExternalId": 179893,
+      "assistPlayerName": "O. Appollis",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 35532,
+      "playerName": "J. Quinones",
+      "assistPlayerExternalId": 2889,
+      "assistPlayerName": "A. Vega",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Var",
+      "minute": 82,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 3289,
+      "playerName": "T. Zwane",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Card upgrade",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "RSA",
+      "teamExternalId": 1531,
+      "playerExternalId": 3289,
+      "playerName": "T. Zwane",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Red Card",
+      "comments": "Violent conduct"
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 2,
+      "teamId": "MEX",
+      "teamExternalId": 16,
+      "playerExternalId": 2873,
+      "playerName": "C. Montes",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Red Card",
+      "comments": "Professional foul last man"
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "MEX",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 7
+        },
+        {
+          "type": "Total Shots",
+          "value": 16
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 5
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 9
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 7
+        },
+        {
+          "type": "Fouls",
+          "value": 12
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 3
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "61%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": 1
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 520
+        },
+        {
+          "type": "Passes accurate",
+          "value": 467
+        },
+        {
+          "type": "Passes %",
+          "value": "90%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.46"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.72"
+        }
+      ]
+    },
+    {
+      "teamId": "RSA",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 1
+        },
+        {
+          "type": "Total Shots",
+          "value": 3
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 0
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 1
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 11
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 1
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "39%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": 2
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 334
+        },
+        {
+          "type": "Passes accurate",
+          "value": 272
+        },
+        {
+          "type": "Passes %",
+          "value": "81%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.07"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.72"
+        }
+      ]
+    }
+  ],
+  "group": "Group A"
+}

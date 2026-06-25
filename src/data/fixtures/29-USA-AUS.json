@@ -1,0 +1,454 @@
+{
+  "id": 29,
+  "dateAndTimeInUTC": "2026-06-19T19:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489391,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "USA",
+    "homeTeamExternalId": 2384,
+    "awayTeamId": "AUS",
+    "awayTeamExternalId": 20
+  },
+  "finalScore": {
+    "home": 2,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 2,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 2,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 11,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 20457,
+      "playerName": "C. Burgess",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Own Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 16,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 337587,
+      "playerName": "J. Bos",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 32,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 348568,
+      "playerName": "A. Circati",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 43,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 355994,
+      "playerName": "A. Freeman",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Var",
+      "minute": 45,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 355994,
+      "playerName": "A. Freeman",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Goal confirmed",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 20457,
+      "playerName": "C. Burgess",
+      "assistPlayerExternalId": 33847,
+      "assistPlayerName": "J. Geria",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 312459,
+      "playerName": "N. Velupillay",
+      "assistPlayerExternalId": 6904,
+      "assistPlayerName": "C. Metcalfe",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 198352,
+      "playerName": "M. Toure",
+      "assistPlayerExternalId": 338014,
+      "assistPlayerName": "N. Irankunda",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 56,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 19549,
+      "playerName": "A. Robinson",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 2751,
+      "playerName": "M. Leckie",
+      "assistPlayerExternalId": 342035,
+      "assistPlayerName": "C. Volpato",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 74,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 73868,
+      "playerName": "R. Pepi",
+      "assistPlayerExternalId": 201713,
+      "assistPlayerName": "S. Berhalter",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 78,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 441269,
+      "playerName": "Paul Okon-Engstler",
+      "assistPlayerExternalId": 2749,
+      "assistPlayerName": "J. Irvine",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 19549,
+      "playerName": "A. Robinson",
+      "assistPlayerExternalId": 50737,
+      "assistPlayerName": "A. Trusty",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 38735,
+      "playerName": "S. Dest",
+      "assistPlayerExternalId": 50852,
+      "assistPlayerName": "J. Scally",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 88,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 20079,
+      "playerName": "H. Souttar",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "type": "Card",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 138835,
+      "playerName": "F. Balogun",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "type": "Card",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 6808,
+      "playerName": "J. Italiano",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 126949,
+      "playerName": "C. Richards",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 6,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 415,
+      "playerName": "W. McKennie",
+      "assistPlayerExternalId": 161921,
+      "assistPlayerName": "G. Reyna",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 6,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 138835,
+      "playerName": "F. Balogun",
+      "assistPlayerExternalId": 427,
+      "assistPlayerName": "H. Wright",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "USA",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 2
+        },
+        {
+          "type": "Total Shots",
+          "value": 10
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 6
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 8
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 12
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 7
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "62%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 3
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 523
+        },
+        {
+          "type": "Passes accurate",
+          "value": 444
+        },
+        {
+          "type": "Passes %",
+          "value": "85%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.08"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.69"
+        }
+      ]
+    },
+    {
+      "teamId": "AUS",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 5
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 0
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 3
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 16
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "38%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 4
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 310
+        },
+        {
+          "type": "Passes accurate",
+          "value": 219
+        },
+        {
+          "type": "Passes %",
+          "value": "71%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.35"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.69"
+        }
+      ]
+    }
+  ],
+  "group": "Group D"
+}

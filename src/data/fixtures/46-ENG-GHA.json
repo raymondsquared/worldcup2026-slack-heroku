@@ -1,0 +1,337 @@
+{
+  "id": 46,
+  "dateAndTimeInUTC": "2026-06-23T20:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489402,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "ENG",
+    "homeTeamExternalId": 10,
+    "awayTeamId": "GHA",
+    "awayTeamExternalId": 1504
+  },
+  "finalScore": {
+    "home": 0,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 0,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 41,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 2937,
+      "playerName": "D. Rice",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "GHA",
+      "teamExternalId": 1504,
+      "playerExternalId": 47294,
+      "playerName": "I. Williams",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 138787,
+      "playerName": "A. Gordon",
+      "assistPlayerExternalId": 1460,
+      "assistPlayerName": "B. Saka",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 66,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 19235,
+      "playerName": "D. Spence",
+      "assistPlayerExternalId": 307123,
+      "assistPlayerName": "N. Oreilly",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 66,
+      "extraMinute": null,
+      "teamId": "GHA",
+      "teamExternalId": 1504,
+      "playerExternalId": 47294,
+      "playerName": "I. Williams",
+      "assistPlayerExternalId": 303467,
+      "assistPlayerName": "A. Fatawu",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 67,
+      "extraMinute": null,
+      "teamId": "GHA",
+      "teamExternalId": 1504,
+      "playerExternalId": 3428,
+      "playerName": "J. Ayew",
+      "assistPlayerExternalId": 410016,
+      "assistPlayerName": "P. Adu",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 73,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 129718,
+      "playerName": "J. Bellingham",
+      "assistPlayerExternalId": 19170,
+      "assistPlayerName": "M. Rogers",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 74,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 138908,
+      "playerName": "E. Anderson",
+      "assistPlayerExternalId": 19586,
+      "assistPlayerName": "E. Eze",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "ENG",
+      "teamExternalId": 10,
+      "playerExternalId": 136723,
+      "playerName": "N. Madueke",
+      "assistPlayerExternalId": 909,
+      "assistPlayerName": "M. Rashford",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 87,
+      "extraMinute": null,
+      "teamId": "GHA",
+      "teamExternalId": 1504,
+      "playerExternalId": 191240,
+      "playerName": "M. Senaya",
+      "assistPlayerExternalId": 404172,
+      "assistPlayerName": "K. Peprah Oppong",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "GHA",
+      "teamExternalId": 1504,
+      "playerExternalId": 410016,
+      "playerName": "P. Adu",
+      "assistPlayerExternalId": 21996,
+      "assistPlayerName": "A. Baba",
+      "detail": "Substitution 4",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "ENG",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 10
+        },
+        {
+          "type": "Total Shots",
+          "value": 19
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 6
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 14
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 5
+        },
+        {
+          "type": "Fouls",
+          "value": 14
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 9
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "79%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 0
+        },
+        {
+          "type": "Total passes",
+          "value": 633
+        },
+        {
+          "type": "Passes accurate",
+          "value": 586
+        },
+        {
+          "type": "Passes %",
+          "value": "93%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.36"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.37"
+        }
+      ]
+    },
+    {
+      "teamId": "GHA",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 1
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 0
+        },
+        {
+          "type": "Total Shots",
+          "value": 2
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 2
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 0
+        },
+        {
+          "type": "Fouls",
+          "value": 24
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "21%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 172
+        },
+        {
+          "type": "Passes accurate",
+          "value": 127
+        },
+        {
+          "type": "Passes %",
+          "value": "74%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.17"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.37"
+        }
+      ]
+    }
+  ],
+  "group": "Group L"
+}

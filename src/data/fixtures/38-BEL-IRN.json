@@ -1,0 +1,376 @@
+{
+  "id": 38,
+  "dateAndTimeInUTC": "2026-06-21T19:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489395,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "BEL",
+    "homeTeamExternalId": 1,
+    "awayTeamId": "IRN",
+    "awayTeamExternalId": 22
+  },
+  "finalScore": {
+    "home": 0,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 0,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 3,
+      "extraMinute": null,
+      "teamId": "BEL",
+      "teamExternalId": 1,
+      "playerExternalId": 907,
+      "playerName": "R. Lukaku",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Var",
+      "minute": 27,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 42315,
+      "playerName": "M. Taremi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Goal cancelled",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 33,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 19614,
+      "playerName": "S. Ezatolahi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 136880,
+      "playerName": "Saleh Hardani",
+      "assistPlayerExternalId": 2700,
+      "assistPlayerName": "A. Jahanbakhsh",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 58,
+      "extraMinute": null,
+      "teamId": "BEL",
+      "teamExternalId": 1,
+      "playerExternalId": 2120,
+      "playerName": "N. Raskin",
+      "assistPlayerExternalId": 78,
+      "assistPlayerName": "H. Vanaken",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 58,
+      "extraMinute": null,
+      "teamId": "BEL",
+      "teamExternalId": 1,
+      "playerExternalId": 264,
+      "playerName": "T. Meunier",
+      "assistPlayerExternalId": 2920,
+      "assistPlayerName": "T. Castagne",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 58,
+      "extraMinute": null,
+      "teamId": "BEL",
+      "teamExternalId": 1,
+      "playerExternalId": 1417,
+      "playerName": "A. Saelemaekers",
+      "assistPlayerExternalId": 25458,
+      "assistPlayerName": "D. Lukebakio",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 66,
+      "extraMinute": null,
+      "teamId": "BEL",
+      "teamExternalId": 1,
+      "playerExternalId": 312964,
+      "playerName": "N. Ngoy",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Red Card",
+      "comments": "Professional foul last man"
+    },
+    {
+      "type": "subst",
+      "minute": 66,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 134217,
+      "playerName": "M. Mohebi",
+      "assistPlayerExternalId": 2697,
+      "assistPlayerName": "M. Torabi",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 66,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 2685,
+      "playerName": "E. Hajisafi",
+      "assistPlayerExternalId": 2688,
+      "assistPlayerName": "M. Mohammadi",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 73,
+      "extraMinute": null,
+      "teamId": "BEL",
+      "teamExternalId": 1,
+      "playerExternalId": 907,
+      "playerName": "R. Lukaku",
+      "assistPlayerExternalId": 204043,
+      "assistPlayerName": "A. Theate",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 2699,
+      "playerName": "S. Ghoddos",
+      "assistPlayerExternalId": 89982,
+      "assistPlayerName": "S. Moghanlou",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 85,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 19614,
+      "playerName": "S. Ezatolahi",
+      "assistPlayerExternalId": 29937,
+      "assistPlayerName": "A. Hosseinzadeh",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 87,
+      "extraMinute": null,
+      "teamId": "BEL",
+      "teamExternalId": 1,
+      "playerExternalId": 629,
+      "playerName": "K. De Bruyne",
+      "assistPlayerExternalId": 340077,
+      "assistPlayerName": "M. Fernandez-Pardo",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "BEL",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 7
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 10
+        },
+        {
+          "type": "Total Shots",
+          "value": 23
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 6
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 20
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 7
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "70%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": 1
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 621
+        },
+        {
+          "type": "Passes accurate",
+          "value": 533
+        },
+        {
+          "type": "Passes %",
+          "value": "86%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.79"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "1.49"
+        }
+      ]
+    },
+    {
+      "teamId": "IRN",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 7
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 6
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 1
+        },
+        {
+          "type": "Fouls",
+          "value": 9
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 4
+        },
+        {
+          "type": "Ball Possession",
+          "value": "30%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": 0
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 7
+        },
+        {
+          "type": "Total passes",
+          "value": 270
+        },
+        {
+          "type": "Passes accurate",
+          "value": 198
+        },
+        {
+          "type": "Passes %",
+          "value": "73%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.62"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "1.49"
+        }
+      ]
+    }
+  ],
+  "group": "Group G"
+}

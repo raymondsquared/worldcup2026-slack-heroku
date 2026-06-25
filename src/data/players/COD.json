@@ -1,0 +1,210 @@
+[
+  {
+    "id": "COD-21",
+    "name": "M. Epolo",
+    "teamId": "COD",
+    "position": "Goalkeeper",
+    "number": 21,
+    "externalId": 314509
+  },
+  {
+    "id": "COD-16",
+    "name": "T. Fayulu",
+    "teamId": "COD",
+    "position": "Goalkeeper",
+    "number": 16,
+    "externalId": 48501
+  },
+  {
+    "id": "COD-1",
+    "name": "L. Mpasi",
+    "teamId": "COD",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 24012
+  },
+  {
+    "id": "COD-5",
+    "name": "D. Batubinsika",
+    "teamId": "COD",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 8445
+  },
+  {
+    "id": "COD-24",
+    "name": "G. Kalulu",
+    "teamId": "COD",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 24245
+  },
+  {
+    "id": "COD-3",
+    "name": "S. Kapuadi",
+    "teamId": "COD",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 199767
+  },
+  {
+    "id": "COD-12",
+    "name": "J. Kayembe",
+    "teamId": "COD",
+    "position": "Defender",
+    "number": 12,
+    "externalId": 21098
+  },
+  {
+    "id": "COD-26",
+    "name": "A. Masuaku",
+    "teamId": "COD",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 18816
+  },
+  {
+    "id": "COD-22",
+    "name": "C. Mbemba",
+    "teamId": "COD",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 375
+  },
+  {
+    "id": "COD-4",
+    "name": "A. Tuanzebe",
+    "teamId": "COD",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 19182
+  },
+  {
+    "id": "COD-2",
+    "name": "A. Wan-Bissaka",
+    "teamId": "COD",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 18846
+  },
+  {
+    "id": "COD-25",
+    "name": "E. Kayembe",
+    "teamId": "COD",
+    "position": "Midfielder",
+    "number": 25,
+    "externalId": 1424
+  },
+  {
+    "id": "COD-8",
+    "name": "S. Moutoussamy",
+    "teamId": "COD",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 21101
+  },
+  {
+    "id": "COD-6",
+    "name": "N. Mukau",
+    "teamId": "COD",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 375598
+  },
+  {
+    "id": "COD-18",
+    "name": "C. Pickel",
+    "teamId": "COD",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 48555
+  },
+  {
+    "id": "COD-14",
+    "name": "N. Sadiki",
+    "teamId": "COD",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 365331
+  },
+  {
+    "id": "COD-15",
+    "name": "A. Tshibola",
+    "teamId": "COD",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 44791
+  },
+  {
+    "id": "COD-7",
+    "name": "N. Mbuku",
+    "teamId": "COD",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 129670
+  },
+  {
+    "id": "COD-10",
+    "name": "T. Bongonda",
+    "teamId": "COD",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 8627
+  },
+  {
+    "id": "COD-17",
+    "name": "C. Bakambu",
+    "teamId": "COD",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 3033
+  },
+  {
+    "id": "COD-23",
+    "name": "S. Banza",
+    "teamId": "COD",
+    "position": "Attacker",
+    "number": 23,
+    "externalId": 20674
+  },
+  {
+    "id": "COD-9",
+    "name": "B. Cipenga",
+    "teamId": "COD",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 279482
+  },
+  {
+    "id": "COD-13",
+    "name": "M. Elia",
+    "teamId": "COD",
+    "position": "Attacker",
+    "number": 13,
+    "externalId": 3034
+  },
+  {
+    "id": "COD-11",
+    "name": "G. Kakuta",
+    "teamId": "COD",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 47545
+  },
+  {
+    "id": "COD-19",
+    "name": "F. Mayele",
+    "teamId": "COD",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 179699
+  },
+  {
+    "id": "COD-20",
+    "name": "Y. Wissa",
+    "teamId": "COD",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 20649
+  }
+]

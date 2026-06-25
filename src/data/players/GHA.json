@@ -1,0 +1,210 @@
+[
+  {
+    "id": "GHA-16",
+    "name": "B. Asare",
+    "teamId": "GHA",
+    "position": "Goalkeeper",
+    "number": 16,
+    "externalId": 480108
+  },
+  {
+    "id": "GHA-12",
+    "name": "J. Anang",
+    "teamId": "GHA",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 144709
+  },
+  {
+    "id": "GHA-1",
+    "name": "L. Zigi",
+    "teamId": "GHA",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 3412
+  },
+  {
+    "id": "GHA-4",
+    "name": "J. Adjetey",
+    "teamId": "GHA",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 369425
+  },
+  {
+    "id": "GHA-23",
+    "name": "D. Luckassen",
+    "teamId": "GHA",
+    "position": "Defender",
+    "number": 23,
+    "externalId": 25341
+  },
+  {
+    "id": "GHA-14",
+    "name": "G. Mensah",
+    "teamId": "GHA",
+    "position": "Defender",
+    "number": 14,
+    "externalId": 7578
+  },
+  {
+    "id": "GHA-2",
+    "name": "A. Seidu",
+    "teamId": "GHA",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 196187
+  },
+  {
+    "id": "GHA-18",
+    "name": "J. Opoku",
+    "teamId": "GHA",
+    "position": "Defender",
+    "number": 18,
+    "externalId": 137223
+  },
+  {
+    "id": "GHA-21",
+    "name": "K. Peprah Oppong",
+    "teamId": "GHA",
+    "position": "Defender",
+    "number": 21,
+    "externalId": 404172
+  },
+  {
+    "id": "GHA-6",
+    "name": "A. Mumin",
+    "teamId": "GHA",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 15900
+  },
+  {
+    "id": "GHA-26",
+    "name": "M. Senaya",
+    "teamId": "GHA",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 191240
+  },
+  {
+    "id": "GHA-17",
+    "name": "A. Baba",
+    "teamId": "GHA",
+    "position": "Defender",
+    "number": 17,
+    "externalId": 21996
+  },
+  {
+    "id": "GHA-15",
+    "name": "E. Owusu",
+    "teamId": "GHA",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 21010
+  },
+  {
+    "id": "GHA-5",
+    "name": "T. Partey",
+    "teamId": "GHA",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 49
+  },
+  {
+    "id": "GHA-8",
+    "name": "K. Sibo",
+    "teamId": "GHA",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 3608
+  },
+  {
+    "id": "GHA-3",
+    "name": "Caleb Marfo Yirenkyi",
+    "teamId": "GHA",
+    "position": "Midfielder",
+    "number": 3,
+    "externalId": 475575
+  },
+  {
+    "id": "GHA-11",
+    "name": "A. Semenyo",
+    "teamId": "GHA",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 19281
+  },
+  {
+    "id": "GHA-20",
+    "name": "A. Boakye",
+    "teamId": "GHA",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 337426
+  },
+  {
+    "id": "GHA-7",
+    "name": "A. Fatawu",
+    "teamId": "GHA",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 303467
+  },
+  {
+    "id": "GHA-25",
+    "name": "P. Adu",
+    "teamId": "GHA",
+    "position": "Midfielder",
+    "number": 25,
+    "externalId": 410016
+  },
+  {
+    "id": "GHA-10",
+    "name": "B. Thomas-Asante",
+    "teamId": "GHA",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 82090
+  },
+  {
+    "id": "GHA-9",
+    "name": "J. Ayew",
+    "teamId": "GHA",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 3428
+  },
+  {
+    "id": "GHA-13",
+    "name": "C. Bonsu Baah",
+    "teamId": "GHA",
+    "position": "Attacker",
+    "number": 13,
+    "externalId": 411800
+  },
+  {
+    "id": "GHA-19",
+    "name": "I. Williams",
+    "teamId": "GHA",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 47294
+  },
+  {
+    "id": "GHA-24",
+    "name": "E. Nuamah",
+    "teamId": "GHA",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 350856
+  },
+  {
+    "id": "GHA-22",
+    "name": "K. Sulemana",
+    "teamId": "GHA",
+    "position": "Attacker",
+    "number": 22,
+    "externalId": 199837
+  }
+]

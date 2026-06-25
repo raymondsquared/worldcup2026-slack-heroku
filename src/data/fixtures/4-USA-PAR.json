@@ -1,0 +1,454 @@
+{
+  "id": 4,
+  "dateAndTimeInUTC": "2026-06-13T01:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489370,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "USA",
+    "homeTeamExternalId": 2384,
+    "awayTeamId": "PAR",
+    "awayTeamExternalId": 2380
+  },
+  "finalScore": {
+    "home": 4,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 3,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 4,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 7,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 195107,
+      "playerName": "D. Bobadilla",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Own Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 10,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 195992,
+      "playerName": "J. Caceres",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 31,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 138835,
+      "playerName": "F. Balogun",
+      "assistPlayerExternalId": 17,
+      "assistPlayerName": "C. Pulisic",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 45,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 138835,
+      "playerName": "F. Balogun",
+      "assistPlayerExternalId": 162037,
+      "assistPlayerName": "M. Tillman",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 17,
+      "playerName": "C. Pulisic",
+      "assistPlayerExternalId": 201713,
+      "assistPlayerName": "S. Berhalter",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 195107,
+      "playerName": "D. Bobadilla",
+      "assistPlayerExternalId": 106485,
+      "assistPlayerName": "Mauricio",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 53,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 2507,
+      "playerName": "M. Almiron",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Simulation"
+    },
+    {
+      "type": "Card",
+      "minute": 59,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 1150,
+      "playerName": "T. Adams",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 62,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 2522,
+      "playerName": "A. Sanabria",
+      "assistPlayerExternalId": 95460,
+      "assistPlayerName": "A. Arce",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 138835,
+      "playerName": "F. Balogun",
+      "assistPlayerExternalId": 73868,
+      "assistPlayerName": "R. Pepi",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 38735,
+      "playerName": "S. Dest",
+      "assistPlayerExternalId": 1138,
+      "assistPlayerName": "T. Weah",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 73,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 106485,
+      "playerName": "Mauricio",
+      "assistPlayerExternalId": 70747,
+      "assistPlayerName": "J. Enciso",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 278370,
+      "playerName": "D. Gomez",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 195992,
+      "playerName": "J. Caceres",
+      "assistPlayerExternalId": 35808,
+      "assistPlayerName": "G. Velazquez",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 2507,
+      "playerName": "M. Almiron",
+      "assistPlayerExternalId": 196298,
+      "assistPlayerName": "R. Sosa",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 278370,
+      "playerName": "D. Gomez",
+      "assistPlayerExternalId": 2514,
+      "assistPlayerName": "A. Romero",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 82,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 162037,
+      "playerName": "M. Tillman",
+      "assistPlayerExternalId": 161921,
+      "assistPlayerName": "G. Reyna",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 88,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 95460,
+      "playerName": "A. Arce",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 2499,
+      "playerName": "J. Alonso",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "USA",
+      "teamExternalId": 2384,
+      "playerExternalId": 161921,
+      "playerName": "G. Reyna",
+      "assistPlayerExternalId": 355994,
+      "assistPlayerName": "A. Freeman",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "USA",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 6
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 6
+        },
+        {
+          "type": "Total Shots",
+          "value": 16
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 4
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 13
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 13
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 3
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "65%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 598
+        },
+        {
+          "type": "Passes accurate",
+          "value": 509
+        },
+        {
+          "type": "Passes %",
+          "value": "85%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.42"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-1.46"
+        }
+      ]
+    },
+    {
+      "teamId": "PAR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 1
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 9
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 5
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 5
+        },
+        {
+          "type": "Fouls",
+          "value": 17
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 1
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "35%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 5
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 319
+        },
+        {
+          "type": "Passes accurate",
+          "value": 232
+        },
+        {
+          "type": "Passes %",
+          "value": "73%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.54"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-1.46"
+        }
+      ]
+    }
+  ],
+  "group": "Group D"
+}

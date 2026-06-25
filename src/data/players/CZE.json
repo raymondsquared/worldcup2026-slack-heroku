@@ -1,0 +1,210 @@
+[
+  {
+    "id": "CZE-23",
+    "name": "L. Hornicek",
+    "teamId": "CZE",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 269349
+  },
+  {
+    "id": "CZE-1",
+    "name": "M. Kovar",
+    "teamId": "CZE",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 138804
+  },
+  {
+    "id": "CZE-16",
+    "name": "J. Stanek",
+    "teamId": "CZE",
+    "position": "Goalkeeper",
+    "number": 16,
+    "externalId": 66347
+  },
+  {
+    "id": "CZE-6",
+    "name": "S. Chaloupek",
+    "teamId": "CZE",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 337740
+  },
+  {
+    "id": "CZE-5",
+    "name": "V. Coufal",
+    "teamId": "CZE",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 1231
+  },
+  {
+    "id": "CZE-3",
+    "name": "T. Holes",
+    "teamId": "CZE",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 2252
+  },
+  {
+    "id": "CZE-4",
+    "name": "R. Hranac",
+    "teamId": "CZE",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 162964
+  },
+  {
+    "id": "CZE-14",
+    "name": "D. Jurasek",
+    "teamId": "CZE",
+    "position": "Defender",
+    "number": 14,
+    "externalId": 128793
+  },
+  {
+    "id": "CZE-7",
+    "name": "L. Krejci",
+    "teamId": "CZE",
+    "position": "Defender",
+    "number": 7,
+    "externalId": 66407
+  },
+  {
+    "id": "CZE-20",
+    "name": "J. Zeleny",
+    "teamId": "CZE",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 1237
+  },
+  {
+    "id": "CZE-2",
+    "name": "D. Zima",
+    "teamId": "CZE",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 128772
+  },
+  {
+    "id": "CZE-21",
+    "name": "D. Doudera",
+    "teamId": "CZE",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 66214
+  },
+  {
+    "id": "CZE-12",
+    "name": "L. Cerv",
+    "teamId": "CZE",
+    "position": "Midfielder",
+    "number": 12,
+    "externalId": 162194
+  },
+  {
+    "id": "CZE-8",
+    "name": "V. Darida",
+    "teamId": "CZE",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 25348
+  },
+  {
+    "id": "CZE-17",
+    "name": "L. Provod",
+    "teamId": "CZE",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 66353
+  },
+  {
+    "id": "CZE-18",
+    "name": "M. Sadilek",
+    "teamId": "CZE",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 241
+  },
+  {
+    "id": "CZE-25",
+    "name": "H. Sochurek",
+    "teamId": "CZE",
+    "position": "Midfielder",
+    "number": 25,
+    "externalId": 555437
+  },
+  {
+    "id": "CZE-24",
+    "name": "A. Sojka",
+    "teamId": "CZE",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 386837
+  },
+  {
+    "id": "CZE-22",
+    "name": "T. Soucek",
+    "teamId": "CZE",
+    "position": "Midfielder",
+    "number": 22,
+    "externalId": 1243
+  },
+  {
+    "id": "CZE-15",
+    "name": "P. Sulc",
+    "teamId": "CZE",
+    "position": "Attacker",
+    "number": 15,
+    "externalId": 66387
+  },
+  {
+    "id": "CZE-19",
+    "name": "T. Chory",
+    "teamId": "CZE",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 818
+  },
+  {
+    "id": "CZE-13",
+    "name": "M. Chytil",
+    "teamId": "CZE",
+    "position": "Attacker",
+    "number": 13,
+    "externalId": 66275
+  },
+  {
+    "id": "CZE-9",
+    "name": "A. Hlozek",
+    "teamId": "CZE",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 66019
+  },
+  {
+    "id": "CZE-11",
+    "name": "J. Kuchta",
+    "teamId": "CZE",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 66340
+  },
+  {
+    "id": "CZE-10",
+    "name": "P. Schick",
+    "teamId": "CZE",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 794
+  },
+  {
+    "id": "CZE-26",
+    "name": "D. Visinsky",
+    "teamId": "CZE",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 290212
+  }
+]

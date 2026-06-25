@@ -1,0 +1,376 @@
+{
+  "id": 11,
+  "dateAndTimeInUTC": "2026-06-14T23:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489375,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "CIV",
+    "homeTeamExternalId": 1501,
+    "awayTeamId": "ECU",
+    "awayTeamExternalId": 2382
+  },
+  "finalScore": {
+    "home": 1,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 1,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 28,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 30807,
+      "playerName": "S. Fofana",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 38,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 1642,
+      "playerName": "F. Kessie",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 40,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 161747,
+      "playerName": "G. Doue",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 56,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 387643,
+      "playerName": "B. Toure",
+      "assistPlayerExternalId": 157997,
+      "assistPlayerName": "A. Diallo",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 56,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 162707,
+      "playerName": "E. Wahi",
+      "assistPlayerExternalId": 275651,
+      "assistPlayerName": "A. Bonny",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 56,
+      "extraMinute": null,
+      "teamId": "ECU",
+      "teamExternalId": 2382,
+      "playerExternalId": 280695,
+      "playerName": "A. Minda",
+      "assistPlayerExternalId": 311543,
+      "assistPlayerName": "N. Angulo",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 62,
+      "extraMinute": null,
+      "teamId": "ECU",
+      "teamExternalId": 2382,
+      "playerExternalId": 25414,
+      "playerName": "J. Yeboah",
+      "assistPlayerExternalId": 2583,
+      "assistPlayerName": "A. Preciado",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 62,
+      "extraMinute": null,
+      "teamId": "ECU",
+      "teamExternalId": 2382,
+      "playerExternalId": 16360,
+      "playerName": "A. Franco",
+      "assistPlayerExternalId": 2575,
+      "assistPlayerName": "J. Porozo",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 73,
+      "extraMinute": null,
+      "teamId": "ECU",
+      "teamExternalId": 2382,
+      "playerExternalId": 2575,
+      "playerName": "J. Porozo",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 77,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 30807,
+      "playerName": "S. Fofana",
+      "assistPlayerExternalId": 22149,
+      "assistPlayerName": "I. Sangare",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 77,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 3246,
+      "playerName": "N. Pepe",
+      "assistPlayerExternalId": 474591,
+      "assistPlayerName": "C. Inao Oulai",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 77,
+      "extraMinute": null,
+      "teamId": "ECU",
+      "teamExternalId": 2382,
+      "playerExternalId": 35533,
+      "playerName": "E. Valencia",
+      "assistPlayerExternalId": 361966,
+      "assistPlayerName": "K. Rodriguez",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 161747,
+      "playerName": "G. Doue",
+      "assistPlayerExternalId": 48119,
+      "assistPlayerName": "O. Kossounou",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 157997,
+      "playerName": "A. Diallo",
+      "assistPlayerExternalId": 30504,
+      "assistPlayerName": "W. Singo",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "CIV",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 8
+        },
+        {
+          "type": "Total Shots",
+          "value": 15
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 8
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 7
+        },
+        {
+          "type": "Fouls",
+          "value": 10
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 3
+        },
+        {
+          "type": "Offsides",
+          "value": null
+        },
+        {
+          "type": "Ball Possession",
+          "value": "48%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 3
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 470
+        },
+        {
+          "type": "Passes accurate",
+          "value": 397
+        },
+        {
+          "type": "Passes %",
+          "value": "84%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.52"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.22"
+        }
+      ]
+    },
+    {
+      "teamId": "ECU",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 1
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 8
+        },
+        {
+          "type": "Total Shots",
+          "value": 12
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 5
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 7
+        },
+        {
+          "type": "Fouls",
+          "value": 13
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": null
+        },
+        {
+          "type": "Ball Possession",
+          "value": "52%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 492
+        },
+        {
+          "type": "Passes accurate",
+          "value": 419
+        },
+        {
+          "type": "Passes %",
+          "value": "85%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.01"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.22"
+        }
+      ]
+    }
+  ],
+  "group": "Group E"
+}

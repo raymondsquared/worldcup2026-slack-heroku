@@ -1,0 +1,210 @@
+[
+  {
+    "id": "ALG-16",
+    "name": "O. Benbot",
+    "teamId": "ALG",
+    "position": "Goalkeeper",
+    "number": 16,
+    "externalId": 4414
+  },
+  {
+    "id": "ALG-1",
+    "name": "M. Mastil",
+    "teamId": "ALG",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 304229
+  },
+  {
+    "id": "ALG-23",
+    "name": "L. Zidane",
+    "teamId": "ALG",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 732
+  },
+  {
+    "id": "ALG-3",
+    "name": "A. Abada",
+    "teamId": "ALG",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 342740
+  },
+  {
+    "id": "ALG-15",
+    "name": "R. Ait-Nouri",
+    "teamId": "ALG",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 21138
+  },
+  {
+    "id": "ALG-5",
+    "name": "Z. Belaid",
+    "teamId": "ALG",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 4561
+  },
+  {
+    "id": "ALG-17",
+    "name": "R. Belghali",
+    "teamId": "ALG",
+    "position": "Defender",
+    "number": 17,
+    "externalId": 303362
+  },
+  {
+    "id": "ALG-21",
+    "name": "R. Bensebaini",
+    "teamId": "ALG",
+    "position": "Defender",
+    "number": 21,
+    "externalId": 2194
+  },
+  {
+    "id": "ALG-26",
+    "name": "S. Chergui",
+    "teamId": "ALG",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 20869
+  },
+  {
+    "id": "ALG-13",
+    "name": "J. Hadjam",
+    "teamId": "ALG",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 271539
+  },
+  {
+    "id": "ALG-2",
+    "name": "A. Mandi",
+    "teamId": "ALG",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 1567
+  },
+  {
+    "id": "ALG-4",
+    "name": "M. Tougai",
+    "teamId": "ALG",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 4569
+  },
+  {
+    "id": "ALG-8",
+    "name": "H. Aouar",
+    "teamId": "ALG",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 658
+  },
+  {
+    "id": "ALG-19",
+    "name": "N. Bentaleb",
+    "teamId": "ALG",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 409
+  },
+  {
+    "id": "ALG-14",
+    "name": "H. Boudaoui",
+    "teamId": "ALG",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 4399
+  },
+  {
+    "id": "ALG-22",
+    "name": "I. Maza",
+    "teamId": "ALG",
+    "position": "Midfielder",
+    "number": 22,
+    "externalId": 380587
+  },
+  {
+    "id": "ALG-24",
+    "name": "Y. Titraoui",
+    "teamId": "ALG",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 327599
+  },
+  {
+    "id": "ALG-6",
+    "name": "R. Zerrouki",
+    "teamId": "ALG",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 129047
+  },
+  {
+    "id": "ALG-10",
+    "name": "F. Chaibi",
+    "teamId": "ALG",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 276670
+  },
+  {
+    "id": "ALG-18",
+    "name": "M. Amoura",
+    "teamId": "ALG",
+    "position": "Attacker",
+    "number": 18,
+    "externalId": 200139
+  },
+  {
+    "id": "ALG-12",
+    "name": "A. Benbouali",
+    "teamId": "ALG",
+    "position": "Attacker",
+    "number": 12,
+    "externalId": 292924
+  },
+  {
+    "id": "ALG-20",
+    "name": "A. Boulbina",
+    "teamId": "ALG",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 329163
+  },
+  {
+    "id": "ALG-25",
+    "name": "F. Ghedjemis",
+    "teamId": "ALG",
+    "position": "Attacker",
+    "number": 25,
+    "externalId": 334915
+  },
+  {
+    "id": "ALG-9",
+    "name": "A. Gouiri",
+    "teamId": "ALG",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 85041
+  },
+  {
+    "id": "ALG-11",
+    "name": "A. Hadj-Moussa",
+    "teamId": "ALG",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 326067
+  },
+  {
+    "id": "ALG-7",
+    "name": "R. Mahrez",
+    "teamId": "ALG",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 635
+  }
+]

@@ -1,0 +1,376 @@
+{
+  "id": 6,
+  "dateAndTimeInUTC": "2026-06-13T22:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489371,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "BRA",
+    "homeTeamExternalId": 6,
+    "awayTeamId": "MAR",
+    "awayTeamExternalId": 31
+  },
+  "finalScore": {
+    "home": 1,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 1,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 1,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 21,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 161897,
+      "playerName": "I. Saibari",
+      "assistPlayerExternalId": 744,
+      "assistPlayerName": "Brahim Diaz",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 32,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 762,
+      "playerName": "Vinicius Junior",
+      "assistPlayerExternalId": 10135,
+      "assistPlayerName": "Bruno Guimaraes",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 37,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 747,
+      "playerName": "Casemiro",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 43,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 30424,
+      "playerName": "Ibanez",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 30424,
+      "playerName": "Ibanez",
+      "assistPlayerExternalId": 618,
+      "assistPlayerName": "Danilo",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 747,
+      "playerName": "Casemiro",
+      "assistPlayerExternalId": 299,
+      "assistPlayerName": "Fabinho",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 1646,
+      "playerName": "Lucas Paqueta",
+      "assistPlayerExternalId": 1165,
+      "assistPlayerName": "Matheus Cunha",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 62,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 196156,
+      "playerName": "Thiago",
+      "assistPlayerExternalId": 265785,
+      "assistPlayerName": "Luiz Henrique",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 744,
+      "playerName": "Brahim Diaz",
+      "assistPlayerExternalId": 336659,
+      "assistPlayerName": "C. Talbi",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 129678,
+      "playerName": "A. Ounahi",
+      "assistPlayerExternalId": 415431,
+      "assistPlayerName": "S. El Mourabet",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "BRA",
+      "teamExternalId": 6,
+      "playerExternalId": 10135,
+      "playerName": "Bruno Guimaraes",
+      "assistPlayerExternalId": 275170,
+      "assistPlayerName": "Danilo Santos",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 545,
+      "playerName": "N. Mazraoui",
+      "assistPlayerExternalId": 162451,
+      "assistPlayerName": "A. Salah-Eddine",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 340573,
+      "playerName": "B. El Khannouss",
+      "assistPlayerExternalId": 535046,
+      "assistPlayerName": "A. Amaimouni",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 161897,
+      "playerName": "I. Saibari",
+      "assistPlayerExternalId": 36579,
+      "assistPlayerName": "S. Rahimi",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "BRA",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 5
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 12
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 9
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 16
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 6
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "51%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 514
+        },
+        {
+          "type": "Passes accurate",
+          "value": 449
+        },
+        {
+          "type": "Passes %",
+          "value": "87%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.26"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.38"
+        }
+      ]
+    },
+    {
+      "teamId": "MAR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 14
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 6
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 7
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 7
+        },
+        {
+          "type": "Fouls",
+          "value": 14
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "49%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 4
+        },
+        {
+          "type": "Total passes",
+          "value": 486
+        },
+        {
+          "type": "Passes accurate",
+          "value": 419
+        },
+        {
+          "type": "Passes %",
+          "value": "86%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.37"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.38"
+        }
+      ]
+    }
+  ],
+  "group": "Group C"
+}

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "CAN-16",
+    "name": "M. Crepeau",
+    "teamId": "CAN",
+    "position": "Goalkeeper",
+    "number": 16,
+    "externalId": 51274
+  },
+  {
+    "id": "CAN-18",
+    "name": "O. Goodman",
+    "teamId": "CAN",
+    "position": "Goalkeeper",
+    "number": 18,
+    "externalId": 284554
+  },
+  {
+    "id": "CAN-1",
+    "name": "D. St. Clair",
+    "teamId": "CAN",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 51148
+  },
+  {
+    "id": "CAN-13",
+    "name": "D. Cornelius",
+    "teamId": "CAN",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 51295
+  },
+  {
+    "id": "CAN-4",
+    "name": "L. De Fougerolles",
+    "teamId": "CAN",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 327738
+  },
+  {
+    "id": "CAN-22",
+    "name": "R. Laryea",
+    "teamId": "CAN",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 50816
+  },
+  {
+    "id": "CAN-5",
+    "name": "J. Waterman",
+    "teamId": "CAN",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 78494
+  },
+  {
+    "id": "CAN-2",
+    "name": "A. Johnston",
+    "teamId": "CAN",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 78547
+  },
+  {
+    "id": "CAN-3",
+    "name": "A. Jones",
+    "teamId": "CAN",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 18938
+  },
+  {
+    "id": "CAN-15",
+    "name": "M. Bombito",
+    "teamId": "CAN",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 407017
+  },
+  {
+    "id": "CAN-19",
+    "name": "A. Davies",
+    "teamId": "CAN",
+    "position": "Defender",
+    "number": 19,
+    "externalId": 509
+  },
+  {
+    "id": "CAN-23",
+    "name": "N. Sigur",
+    "teamId": "CAN",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 416901
+  },
+  {
+    "id": "CAN-14",
+    "name": "J. Shaffelburg",
+    "teamId": "CAN",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 50826
+  },
+  {
+    "id": "CAN-11",
+    "name": "L. Millar",
+    "teamId": "CAN",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 44798
+  },
+  {
+    "id": "CAN-6",
+    "name": "M. Choiniere",
+    "teamId": "CAN",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 50788
+  },
+  {
+    "id": "CAN-7",
+    "name": "S. Eustaquio",
+    "teamId": "CAN",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 35570
+  },
+  {
+    "id": "CAN-8",
+    "name": "I. Kone",
+    "teamId": "CAN",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 328046
+  },
+  {
+    "id": "CAN-21",
+    "name": "J. Osorio",
+    "teamId": "CAN",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 50817
+  },
+  {
+    "id": "CAN-25",
+    "name": "N. Saliba",
+    "teamId": "CAN",
+    "position": "Midfielder",
+    "number": 25,
+    "externalId": 294824
+  },
+  {
+    "id": "CAN-26",
+    "name": "J. Nelson",
+    "teamId": "CAN",
+    "position": "Attacker",
+    "number": 26,
+    "externalId": 193279
+  },
+  {
+    "id": "CAN-17",
+    "name": "T. Buchanan",
+    "teamId": "CAN",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 51016
+  },
+  {
+    "id": "CAN-10",
+    "name": "J. David",
+    "teamId": "CAN",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 8489
+  },
+  {
+    "id": "CAN-24",
+    "name": "P. David",
+    "teamId": "CAN",
+    "position": "Attacker",
+    "number": 24,
+    "externalId": 313353
+  },
+  {
+    "id": "CAN-9",
+    "name": "C. Larin",
+    "teamId": "CAN",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 2001
+  },
+  {
+    "id": "CAN-20",
+    "name": "A. Ahmed",
+    "teamId": "CAN",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 362145
+  },
+  {
+    "id": "CAN-12",
+    "name": "T. Oluwaseyi",
+    "teamId": "CAN",
+    "position": "Attacker",
+    "number": 12,
+    "externalId": 351587
+  }
+]

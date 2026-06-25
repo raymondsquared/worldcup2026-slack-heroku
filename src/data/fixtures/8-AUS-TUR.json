@@ -1,0 +1,363 @@
+{
+  "id": 8,
+  "dateAndTimeInUTC": "2026-06-14T04:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1539001,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "AUS",
+    "homeTeamExternalId": 20,
+    "awayTeamId": "TUR",
+    "awayTeamExternalId": 777
+  },
+  "finalScore": {
+    "home": 2,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 1,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 2,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 27,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 338014,
+      "playerName": "N. Irankunda",
+      "assistPlayerExternalId": 441269,
+      "assistPlayerName": "Paul Okon-Engstler",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "TUR",
+      "teamExternalId": 777,
+      "playerExternalId": 63274,
+      "playerName": "B. Yilmaz",
+      "assistPlayerExternalId": 339883,
+      "assistPlayerName": "K. Yildiz",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 338014,
+      "playerName": "N. Irankunda",
+      "assistPlayerExternalId": 312459,
+      "assistPlayerName": "N. Velupillay",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 62,
+      "extraMinute": null,
+      "teamId": "TUR",
+      "teamExternalId": 777,
+      "playerExternalId": 37155,
+      "playerName": "O. Kokcu",
+      "assistPlayerExternalId": 454,
+      "assistPlayerName": "Y. Akgun",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 74,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 6808,
+      "playerName": "J. Italiano",
+      "assistPlayerExternalId": 33847,
+      "assistPlayerName": "J. Geria",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 74,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 198352,
+      "playerName": "M. Toure",
+      "assistPlayerExternalId": 296645,
+      "assistPlayerName": "T. Yengi",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 6904,
+      "playerName": "C. Metcalfe",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "TUR",
+      "teamExternalId": 777,
+      "playerExternalId": 22222,
+      "playerName": "Z. Celik",
+      "assistPlayerExternalId": 1719,
+      "assistPlayerName": "M. Muldur",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "TUR",
+      "teamExternalId": 777,
+      "playerExternalId": 214463,
+      "playerName": "I. Yuksek",
+      "assistPlayerExternalId": 24807,
+      "assistPlayerName": "S. Ozcan",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 337587,
+      "playerName": "J. Bos",
+      "assistPlayerExternalId": 225,
+      "assistPlayerName": "A. Behich",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "AUS",
+      "teamExternalId": 20,
+      "playerExternalId": 441269,
+      "playerName": "Paul Okon-Engstler",
+      "assistPlayerExternalId": 2749,
+      "assistPlayerName": "J. Irvine",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 85,
+      "extraMinute": null,
+      "teamId": "TUR",
+      "teamExternalId": 777,
+      "playerExternalId": 142959,
+      "playerName": "K. Akturkoglu",
+      "assistPlayerExternalId": 388570,
+      "assistPlayerName": "D. Gul",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 86,
+      "extraMinute": null,
+      "teamId": "TUR",
+      "teamExternalId": 777,
+      "playerExternalId": 454,
+      "playerName": "Y. Akgun",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "AUS",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 9
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 6
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 12
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "28%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 8
+        },
+        {
+          "type": "Total passes",
+          "value": 271
+        },
+        {
+          "type": "Passes accurate",
+          "value": 201
+        },
+        {
+          "type": "Passes %",
+          "value": "74%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.18"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.92"
+        }
+      ]
+    },
+    {
+      "teamId": "TUR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 8
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 10
+        },
+        {
+          "type": "Total Shots",
+          "value": 30
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 12
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 14
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 16
+        },
+        {
+          "type": "Fouls",
+          "value": 4
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 8
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "72%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 704
+        },
+        {
+          "type": "Passes accurate",
+          "value": 635
+        },
+        {
+          "type": "Passes %",
+          "value": "90%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.36"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.92"
+        }
+      ]
+    }
+  ],
+  "group": "Group D"
+}

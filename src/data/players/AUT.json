@@ -1,0 +1,210 @@
+[
+  {
+    "id": "AUT-13",
+    "name": "P. Pentz",
+    "teamId": "AUT",
+    "position": "Goalkeeper",
+    "number": 13,
+    "externalId": 7598
+  },
+  {
+    "id": "AUT-1",
+    "name": "A. Schlager",
+    "teamId": "AUT",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 7525
+  },
+  {
+    "id": "AUT-12",
+    "name": "F. Wiegele",
+    "teamId": "AUT",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 221605
+  },
+  {
+    "id": "AUT-2",
+    "name": "D. Affengruber",
+    "teamId": "AUT",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 126640
+  },
+  {
+    "id": "AUT-8",
+    "name": "D. Alaba",
+    "teamId": "AUT",
+    "position": "Defender",
+    "number": 8,
+    "externalId": 505
+  },
+  {
+    "id": "AUT-3",
+    "name": "K. Danso",
+    "teamId": "AUT",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 25287
+  },
+  {
+    "id": "AUT-23",
+    "name": "M. Friedl",
+    "teamId": "AUT",
+    "position": "Defender",
+    "number": 23,
+    "externalId": 25314
+  },
+  {
+    "id": "AUT-15",
+    "name": "P. Lienhart",
+    "teamId": "AUT",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 26240
+  },
+  {
+    "id": "AUT-16",
+    "name": "P. Mwene",
+    "teamId": "AUT",
+    "position": "Defender",
+    "number": 16,
+    "externalId": 25915
+  },
+  {
+    "id": "AUT-5",
+    "name": "S. Posch",
+    "teamId": "AUT",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 711
+  },
+  {
+    "id": "AUT-25",
+    "name": "M. Svoboda",
+    "teamId": "AUT",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 7090
+  },
+  {
+    "id": "AUT-19",
+    "name": "D. Ljubicic",
+    "teamId": "AUT",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 1725
+  },
+  {
+    "id": "AUT-17",
+    "name": "C. Chukwuemeka",
+    "teamId": "AUT",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 138935
+  },
+  {
+    "id": "AUT-10",
+    "name": "F. Grillitsch",
+    "teamId": "AUT",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 719
+  },
+  {
+    "id": "AUT-20",
+    "name": "K. Laimer",
+    "teamId": "AUT",
+    "position": "Defender",
+    "number": 20,
+    "externalId": 1157
+  },
+  {
+    "id": "AUT-22",
+    "name": "A. Prass",
+    "teamId": "AUT",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 7327
+  },
+  {
+    "id": "AUT-9",
+    "name": "M. Sabitzer",
+    "teamId": "AUT",
+    "position": "Midfielder",
+    "number": 9,
+    "externalId": 1159
+  },
+  {
+    "id": "AUT-4",
+    "name": "X. Schlager",
+    "teamId": "AUT",
+    "position": "Midfielder",
+    "number": 4,
+    "externalId": 1095
+  },
+  {
+    "id": "AUT-18",
+    "name": "R. Schmid",
+    "teamId": "AUT",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 7562
+  },
+  {
+    "id": "AUT-26",
+    "name": "A. Schopf",
+    "teamId": "AUT",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 417
+  },
+  {
+    "id": "AUT-6",
+    "name": "N. Seiwald",
+    "teamId": "AUT",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 7328
+  },
+  {
+    "id": "AUT-24",
+    "name": "P. Wanner",
+    "teamId": "AUT",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 327895
+  },
+  {
+    "id": "AUT-21",
+    "name": "P. Wimmer",
+    "teamId": "AUT",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 126642
+  },
+  {
+    "id": "AUT-7",
+    "name": "M. Arnautovic",
+    "teamId": "AUT",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 18830
+  },
+  {
+    "id": "AUT-11",
+    "name": "M. Gregoritsch",
+    "teamId": "AUT",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 25297
+  },
+  {
+    "id": "AUT-14",
+    "name": "S. Kalajdzic",
+    "teamId": "AUT",
+    "position": "Attacker",
+    "number": 14,
+    "externalId": 7722
+  }
+]

@@ -1,0 +1,363 @@
+{
+  "id": 7,
+  "dateAndTimeInUTC": "2026-06-14T01:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489372,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "HAI",
+    "homeTeamExternalId": 2386,
+    "awayTeamId": "SCO",
+    "awayTeamExternalId": 1108
+  },
+  "finalScore": {
+    "home": 0,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 0,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 28,
+      "extraMinute": null,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 19191,
+      "playerName": "J.  McGinn",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 39,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 20665,
+      "playerName": "J. Bellegarde",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 44871,
+      "playerName": "A. Hickey",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 128766,
+      "playerName": "L. Deedson",
+      "assistPlayerExternalId": 174915,
+      "assistPlayerName": "J. Casimir",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 343576,
+      "playerName": "B. Doak",
+      "assistPlayerExternalId": 1125,
+      "assistPlayerName": "R. Christie",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 19524,
+      "playerName": "C. Adams",
+      "assistPlayerExternalId": 45307,
+      "assistPlayerName": "L. Dykes",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 44871,
+      "playerName": "A. Hickey",
+      "assistPlayerExternalId": 138417,
+      "assistPlayerName": "N. Patterson",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 84087,
+      "playerName": "W. Isidor",
+      "assistPlayerExternalId": 21613,
+      "assistPlayerName": "L. Joseph",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 45175,
+      "playerName": "L. Shankland",
+      "assistPlayerExternalId": 19077,
+      "assistPlayerName": "K. McLean",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 19191,
+      "playerName": "J.  McGinn",
+      "assistPlayerExternalId": 433272,
+      "assistPlayerName": "Findlay Curtis",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 85,
+      "extraMinute": null,
+      "teamId": "HAI",
+      "teamExternalId": 2386,
+      "playerExternalId": 162733,
+      "playerName": "R. Providence",
+      "assistPlayerExternalId": 48535,
+      "assistPlayerName": "Y. Fortune",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 5,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 19077,
+      "playerName": "K. McLean",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 1,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 433272,
+      "playerName": "Findlay Curtis",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "HAI",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 9
+        },
+        {
+          "type": "Total Shots",
+          "value": 15
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 4
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 8
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 7
+        },
+        {
+          "type": "Fouls",
+          "value": 23
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "54%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 431
+        },
+        {
+          "type": "Passes accurate",
+          "value": 367
+        },
+        {
+          "type": "Passes %",
+          "value": "85%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.05"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.22"
+        }
+      ]
+    },
+    {
+      "teamId": "SCO",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 9
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 8
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 1
+        },
+        {
+          "type": "Fouls",
+          "value": 21
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 3
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "46%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 3
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 374
+        },
+        {
+          "type": "Passes accurate",
+          "value": 307
+        },
+        {
+          "type": "Passes %",
+          "value": "82%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.05"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.22"
+        }
+      ]
+    }
+  ],
+  "group": "Group C"
+}

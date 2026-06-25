@@ -1,0 +1,210 @@
+[
+  {
+    "id": "MEX-12",
+    "name": "C. Acevedo",
+    "teamId": "MEX",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 35769
+  },
+  {
+    "id": "MEX-13",
+    "name": "G. Ochoa",
+    "teamId": "MEX",
+    "position": "Goalkeeper",
+    "number": 13,
+    "externalId": 2098
+  },
+  {
+    "id": "MEX-1",
+    "name": "J. Rangel",
+    "teamId": "MEX",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 270774
+  },
+  {
+    "id": "MEX-23",
+    "name": "J. Gallardo",
+    "teamId": "MEX",
+    "position": "Defender",
+    "number": 23,
+    "externalId": 2881
+  },
+  {
+    "id": "MEX-3",
+    "name": "C. Montes",
+    "teamId": "MEX",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 2873
+  },
+  {
+    "id": "MEX-15",
+    "name": "I. Reyes",
+    "teamId": "MEX",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 127227
+  },
+  {
+    "id": "MEX-2",
+    "name": "J. Sanchez",
+    "teamId": "MEX",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 2878
+  },
+  {
+    "id": "MEX-5",
+    "name": "J. Vasquez",
+    "teamId": "MEX",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 35544
+  },
+  {
+    "id": "MEX-4",
+    "name": "E. Alvarez",
+    "teamId": "MEX",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 2869
+  },
+  {
+    "id": "MEX-20",
+    "name": "M. Chavez",
+    "teamId": "MEX",
+    "position": "Defender",
+    "number": 20,
+    "externalId": 390002
+  },
+  {
+    "id": "MEX-18",
+    "name": "O. Vargas",
+    "teamId": "MEX",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 313383
+  },
+  {
+    "id": "MEX-24",
+    "name": "L. Chavez",
+    "teamId": "MEX",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 35690
+  },
+  {
+    "id": "MEX-8",
+    "name": "Alvaro Fidalgo",
+    "teamId": "MEX",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 750
+  },
+  {
+    "id": "MEX-26",
+    "name": "B. Gutierrez",
+    "teamId": "MEX",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 212233
+  },
+  {
+    "id": "MEX-6",
+    "name": "E. Lira",
+    "teamId": "MEX",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 266345
+  },
+  {
+    "id": "MEX-19",
+    "name": "G. Mora",
+    "teamId": "MEX",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 482605
+  },
+  {
+    "id": "MEX-17",
+    "name": "O. Pineda",
+    "teamId": "MEX",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 35576
+  },
+  {
+    "id": "MEX-7",
+    "name": "L. Romo",
+    "teamId": "MEX",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 35970
+  },
+  {
+    "id": "MEX-25",
+    "name": "R. Alvarado",
+    "teamId": "MEX",
+    "position": "Attacker",
+    "number": 25,
+    "externalId": 2879
+  },
+  {
+    "id": "MEX-11",
+    "name": "S. Gimenez",
+    "teamId": "MEX",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 94562
+  },
+  {
+    "id": "MEX-14",
+    "name": "A. Gonzalez",
+    "teamId": "MEX",
+    "position": "Attacker",
+    "number": 14,
+    "externalId": 291713
+  },
+  {
+    "id": "MEX-21",
+    "name": "C. Huerta",
+    "teamId": "MEX",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 36111
+  },
+  {
+    "id": "MEX-9",
+    "name": "R. Jimenez",
+    "teamId": "MEX",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 2887
+  },
+  {
+    "id": "MEX-22",
+    "name": "G. Martinez",
+    "teamId": "MEX",
+    "position": "Attacker",
+    "number": 22,
+    "externalId": 36088
+  },
+  {
+    "id": "MEX-16",
+    "name": "J. Quinones",
+    "teamId": "MEX",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 35532
+  },
+  {
+    "id": "MEX-10",
+    "name": "A. Vega",
+    "teamId": "MEX",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 2889
+  }
+]

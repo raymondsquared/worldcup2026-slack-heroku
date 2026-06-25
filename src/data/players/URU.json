@@ -1,0 +1,210 @@
+[
+  {
+    "id": "URU-12",
+    "name": "S. Mele",
+    "teamId": "URU",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 61895
+  },
+  {
+    "id": "URU-23",
+    "name": "F. Muslera",
+    "teamId": "URU",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 429
+  },
+  {
+    "id": "URU-1",
+    "name": "S. Rochet",
+    "teamId": "URU",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 50077
+  },
+  {
+    "id": "URU-4",
+    "name": "R. Araujo",
+    "teamId": "URU",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 101814
+  },
+  {
+    "id": "URU-24",
+    "name": "S. Bueno",
+    "teamId": "URU",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 135334
+  },
+  {
+    "id": "URU-3",
+    "name": "S. Caceres",
+    "teamId": "URU",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 51535
+  },
+  {
+    "id": "URU-2",
+    "name": "J. Gimenez",
+    "teamId": "URU",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 31
+  },
+  {
+    "id": "URU-16",
+    "name": "M. Olivera",
+    "teamId": "URU",
+    "position": "Defender",
+    "number": 16,
+    "externalId": 47254
+  },
+  {
+    "id": "URU-13",
+    "name": "G. Varela",
+    "teamId": "URU",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 1290
+  },
+  {
+    "id": "URU-17",
+    "name": "M. Vina",
+    "teamId": "URU",
+    "position": "Defender",
+    "number": 17,
+    "externalId": 51572
+  },
+  {
+    "id": "URU-6",
+    "name": "R. Bentancur",
+    "teamId": "URU",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 863
+  },
+  {
+    "id": "URU-15",
+    "name": "E. Martinez",
+    "teamId": "URU",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 153083
+  },
+  {
+    "id": "URU-25",
+    "name": "J. Sanabria",
+    "teamId": "URU",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 162891
+  },
+  {
+    "id": "URU-5",
+    "name": "M. Ugarte",
+    "teamId": "URU",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 51494
+  },
+  {
+    "id": "URU-8",
+    "name": "F. Valverde",
+    "teamId": "URU",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 756
+  },
+  {
+    "id": "URU-26",
+    "name": "R. Zalazar",
+    "teamId": "URU",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 108563
+  },
+  {
+    "id": "URU-10",
+    "name": "G. de Arrascaeta",
+    "teamId": "URU",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 2612
+  },
+  {
+    "id": "URU-7",
+    "name": "N. de la Cruz",
+    "teamId": "URU",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 5995
+  },
+  {
+    "id": "URU-20",
+    "name": "M. Araujo",
+    "teamId": "URU",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 51776
+  },
+  {
+    "id": "URU-14",
+    "name": "A. Canobbio",
+    "teamId": "URU",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 51603
+  },
+  {
+    "id": "URU-19",
+    "name": "R. Aguirre",
+    "teamId": "URU",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 16482
+  },
+  {
+    "id": "URU-22",
+    "name": "J. Piquerez",
+    "teamId": "URU",
+    "position": "Attacker",
+    "number": 22,
+    "externalId": 51466
+  },
+  {
+    "id": "URU-9",
+    "name": "D. Nunez",
+    "teamId": "URU",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 51617
+  },
+  {
+    "id": "URU-11",
+    "name": "F. Pellistri",
+    "teamId": "URU",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 70078
+  },
+  {
+    "id": "URU-18",
+    "name": "B. Rodriguez",
+    "teamId": "URU",
+    "position": "Attacker",
+    "number": 18,
+    "externalId": 51618
+  },
+  {
+    "id": "URU-21",
+    "name": "F. Vinas",
+    "teamId": "URU",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 51530
+  }
+]

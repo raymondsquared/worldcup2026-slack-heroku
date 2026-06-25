@@ -1,0 +1,402 @@
+{
+  "id": 44,
+  "dateAndTimeInUTC": "2026-06-23T03:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489400,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "JOR",
+    "homeTeamExternalId": 1548,
+    "awayTeamId": "ALG",
+    "awayTeamExternalId": 1532
+  },
+  "finalScore": {
+    "home": 1,
+    "away": 2
+  },
+  "score": {
+    "halftime": {
+      "home": 1,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 1,
+      "away": 2
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 36,
+      "extraMinute": null,
+      "teamId": "JOR",
+      "teamExternalId": 1548,
+      "playerExternalId": 213980,
+      "playerName": "Nizar Al Rashdan",
+      "assistPlayerExternalId": 15286,
+      "assistPlayerName": "Mousa Tamari",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 44,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 129047,
+      "playerName": "R. Zerrouki",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 129047,
+      "playerName": "R. Zerrouki",
+      "assistPlayerExternalId": 409,
+      "assistPlayerName": "N. Bentaleb",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 4399,
+      "playerName": "H. Boudaoui",
+      "assistPlayerExternalId": 292924,
+      "assistPlayerName": "A. Benbouali",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "JOR",
+      "teamExternalId": 1548,
+      "playerExternalId": 543035,
+      "playerName": "Husam Ali Mohammad Abudahab",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 69,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 292924,
+      "playerName": "A. Benbouali",
+      "assistPlayerExternalId": 635,
+      "assistPlayerName": "R. Mahrez",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "JOR",
+      "teamExternalId": 1548,
+      "playerExternalId": 123530,
+      "playerName": "Mahmoud Al Mardi",
+      "assistPlayerExternalId": 568556,
+      "assistPlayerName": "O. Al Fakhouri",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 635,
+      "playerName": "R. Mahrez",
+      "assistPlayerExternalId": 326067,
+      "assistPlayerName": "A. Hadj-Moussa",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 82,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 85041,
+      "playerName": "A. Gouiri",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Var",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 85041,
+      "playerName": "A. Gouiri",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Goal confirmed",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "JOR",
+      "teamExternalId": 1548,
+      "playerExternalId": 15286,
+      "playerName": "Mousa Tamari",
+      "assistPlayerExternalId": 575283,
+      "assistPlayerName": "A. Azaizeh",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 85,
+      "extraMinute": null,
+      "teamId": "JOR",
+      "teamExternalId": 1548,
+      "playerExternalId": 310785,
+      "playerName": "Mohannad Abu Taha",
+      "assistPlayerExternalId": 542710,
+      "assistPlayerName": "M. Abu Hasheesh",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 85,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 21138,
+      "playerName": "R. Ait-Nouri",
+      "assistPlayerExternalId": 271539,
+      "assistPlayerName": "J. Hadjam",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 86,
+      "extraMinute": null,
+      "teamId": "ALG",
+      "teamExternalId": 1532,
+      "playerExternalId": 85041,
+      "playerName": "A. Gouiri",
+      "assistPlayerExternalId": 4561,
+      "assistPlayerName": "Z. Belaid",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 1,
+      "teamId": "JOR",
+      "teamExternalId": 1548,
+      "playerExternalId": 542822,
+      "playerName": "H. Abu Al Dahab",
+      "assistPlayerExternalId": 72140,
+      "assistPlayerName": "Saleem Obaid",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 2,
+      "teamId": "JOR",
+      "teamExternalId": 1548,
+      "playerExternalId": 164026,
+      "playerName": "Ali Olwan",
+      "assistPlayerExternalId": 72142,
+      "assistPlayerName": "Mohammed Abu Zurayq",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "JOR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 8
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 0
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 11
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 1
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "28%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 6
+        },
+        {
+          "type": "Total passes",
+          "value": 251
+        },
+        {
+          "type": "Passes accurate",
+          "value": 180
+        },
+        {
+          "type": "Passes %",
+          "value": "72%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.65"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.44"
+        }
+      ]
+    },
+    {
+      "teamId": "ALG",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 8
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 17
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 5
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 11
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 6
+        },
+        {
+          "type": "Fouls",
+          "value": 6
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 10
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "72%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 638
+        },
+        {
+          "type": "Passes accurate",
+          "value": 559
+        },
+        {
+          "type": "Passes %",
+          "value": "88%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.81"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.44"
+        }
+      ]
+    }
+  ],
+  "group": "Group J"
+}

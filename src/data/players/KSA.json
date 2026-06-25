@@ -1,0 +1,210 @@
+[
+  {
+    "id": "KSA-1",
+    "name": "Nawaf Al Aqidi",
+    "teamId": "KSA",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 193288
+  },
+  {
+    "id": "KSA-22",
+    "name": "Ahmed Al Kassar",
+    "teamId": "KSA",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 44449
+  },
+  {
+    "id": "KSA-21",
+    "name": "Mohammed Al Owais",
+    "teamId": "KSA",
+    "position": "Goalkeeper",
+    "number": 21,
+    "externalId": 44411
+  },
+  {
+    "id": "KSA-12",
+    "name": "Saud Abdulhamid",
+    "teamId": "KSA",
+    "position": "Defender",
+    "number": 12,
+    "externalId": 44594
+  },
+  {
+    "id": "KSA-26",
+    "name": "Mohammed Abu Al Shamat",
+    "teamId": "KSA",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 403087
+  },
+  {
+    "id": "KSA-13",
+    "name": "Nawaf Boushal",
+    "teamId": "KSA",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 134995
+  },
+  {
+    "id": "KSA-4",
+    "name": "Abdulelah Al Amri",
+    "teamId": "KSA",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 44475
+  },
+  {
+    "id": "KSA-24",
+    "name": "Moteb Al Harbi",
+    "teamId": "KSA",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 202381
+  },
+  {
+    "id": "KSA-14",
+    "name": "Hassan Kadesh",
+    "teamId": "KSA",
+    "position": "Defender",
+    "number": 14,
+    "externalId": 44335
+  },
+  {
+    "id": "KSA-3",
+    "name": "Ali Lajami",
+    "teamId": "KSA",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 44507
+  },
+  {
+    "id": "KSA-2",
+    "name": "Ali Majrashi",
+    "teamId": "KSA",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 44367
+  },
+  {
+    "id": "KSA-5",
+    "name": "Hassan Tambakti",
+    "teamId": "KSA",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 44362
+  },
+  {
+    "id": "KSA-25",
+    "name": "J. Thakri",
+    "teamId": "KSA",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 543059
+  },
+  {
+    "id": "KSA-6",
+    "name": "Nasser Al Dawsari",
+    "teamId": "KSA",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 44339
+  },
+  {
+    "id": "KSA-23",
+    "name": "Mohamed Kanno",
+    "teamId": "KSA",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 44349
+  },
+  {
+    "id": "KSA-16",
+    "name": "Ziyad Al Johani",
+    "teamId": "KSA",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 269172
+  },
+  {
+    "id": "KSA-7",
+    "name": "Musab Al Juwayr",
+    "teamId": "KSA",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 306380
+  },
+  {
+    "id": "KSA-15",
+    "name": "Abdullah Al Khaibari",
+    "teamId": "KSA",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 44315
+  },
+  {
+    "id": "KSA-27",
+    "name": "Ala Al Haji",
+    "teamId": "KSA",
+    "position": "Midfielder",
+    "number": 27,
+    "externalId": 593759
+  },
+  {
+    "id": "KSA-17",
+    "name": "Khalid Al Ghannam",
+    "teamId": "KSA",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 44701
+  },
+  {
+    "id": "KSA-20",
+    "name": "Sultan Mandash",
+    "teamId": "KSA",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 2639
+  },
+  {
+    "id": "KSA-8",
+    "name": "Ayman Yahya",
+    "teamId": "KSA",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 147812
+  },
+  {
+    "id": "KSA-9",
+    "name": "Feras Al Brikan",
+    "teamId": "KSA",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 44324
+  },
+  {
+    "id": "KSA-19",
+    "name": "Abdullah Al Hamdan",
+    "teamId": "KSA",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 44382
+  },
+  {
+    "id": "KSA-11",
+    "name": "Saleh Al Shehri",
+    "teamId": "KSA",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 44551
+  },
+  {
+    "id": "KSA-10",
+    "name": "Salem Al Dawsari",
+    "teamId": "KSA",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 44340
+  }
+]

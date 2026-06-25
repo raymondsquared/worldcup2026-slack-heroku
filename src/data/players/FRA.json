@@ -1,0 +1,210 @@
+[
+  {
+    "id": "FRA-16",
+    "name": "M. Maignan",
+    "teamId": "FRA",
+    "position": "Goalkeeper",
+    "number": 16,
+    "externalId": 22221
+  },
+  {
+    "id": "FRA-23",
+    "name": "R. Risser",
+    "teamId": "FRA",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 347211
+  },
+  {
+    "id": "FRA-1",
+    "name": "B. Samba",
+    "teamId": "FRA",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 21628
+  },
+  {
+    "id": "FRA-3",
+    "name": "L. Digne",
+    "teamId": "FRA",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 2724
+  },
+  {
+    "id": "FRA-2",
+    "name": "M. Gusto",
+    "teamId": "FRA",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 161907
+  },
+  {
+    "id": "FRA-21",
+    "name": "L. Hernandez",
+    "teamId": "FRA",
+    "position": "Defender",
+    "number": 21,
+    "externalId": 33
+  },
+  {
+    "id": "FRA-19",
+    "name": "T. Hernandez",
+    "teamId": "FRA",
+    "position": "Defender",
+    "number": 19,
+    "externalId": 47300
+  },
+  {
+    "id": "FRA-15",
+    "name": "I. Konate",
+    "teamId": "FRA",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 1145
+  },
+  {
+    "id": "FRA-5",
+    "name": "J. Kounde",
+    "teamId": "FRA",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 1257
+  },
+  {
+    "id": "FRA-26",
+    "name": "M. Lacroix",
+    "teamId": "FRA",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 20995
+  },
+  {
+    "id": "FRA-17",
+    "name": "W. Saliba",
+    "teamId": "FRA",
+    "position": "Defender",
+    "number": 17,
+    "externalId": 22090
+  },
+  {
+    "id": "FRA-4",
+    "name": "D. Upamecano",
+    "teamId": "FRA",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 1149
+  },
+  {
+    "id": "FRA-24",
+    "name": "R. Cherki",
+    "teamId": "FRA",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 156477
+  },
+  {
+    "id": "FRA-13",
+    "name": "N. Kante",
+    "teamId": "FRA",
+    "position": "Midfielder",
+    "number": 13,
+    "externalId": 2290
+  },
+  {
+    "id": "FRA-6",
+    "name": "M. Kone",
+    "teamId": "FRA",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 22147
+  },
+  {
+    "id": "FRA-14",
+    "name": "A. Rabiot",
+    "teamId": "FRA",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 272
+  },
+  {
+    "id": "FRA-8",
+    "name": "A. Tchouameni",
+    "teamId": "FRA",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 1271
+  },
+  {
+    "id": "FRA-18",
+    "name": "W. Zaire-Emery",
+    "teamId": "FRA",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 336657
+  },
+  {
+    "id": "FRA-25",
+    "name": "M. Akliouche",
+    "teamId": "FRA",
+    "position": "Midfielder",
+    "number": 25,
+    "externalId": 274300
+  },
+  {
+    "id": "FRA-12",
+    "name": "B. Barcola",
+    "teamId": "FRA",
+    "position": "Midfielder",
+    "number": 12,
+    "externalId": 161904
+  },
+  {
+    "id": "FRA-22",
+    "name": "J. Mateta",
+    "teamId": "FRA",
+    "position": "Attacker",
+    "number": 22,
+    "externalId": 25927
+  },
+  {
+    "id": "FRA-7",
+    "name": "O. Dembele",
+    "teamId": "FRA",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 153
+  },
+  {
+    "id": "FRA-20",
+    "name": "D. Doue",
+    "teamId": "FRA",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 343027
+  },
+  {
+    "id": "FRA-10",
+    "name": "Kylian Mbappe",
+    "teamId": "FRA",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 278
+  },
+  {
+    "id": "FRA-9",
+    "name": "M. Thuram",
+    "teamId": "FRA",
+    "position": "Midfielder",
+    "number": 9,
+    "externalId": 21509
+  },
+  {
+    "id": "FRA-11",
+    "name": "M. Olise",
+    "teamId": "FRA",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 19617
+  }
+]

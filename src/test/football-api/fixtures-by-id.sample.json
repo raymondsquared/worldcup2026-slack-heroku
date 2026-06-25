@@ -1,0 +1,320 @@
+{
+  "get": "fixtures",
+  "parameters": {
+    "id": "1489369"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "fixture": {
+        "id": 1489369,
+        "referee": "W. Roldan, Colombia",
+        "timezone": "UTC",
+        "date": "2026-06-11T19:00:00+00:00",
+        "timestamp": 1781362800,
+        "periods": {
+          "first": 1781362800,
+          "second": 1781366400
+        },
+        "venue": {
+          "id": 4726,
+          "name": "Estadio Azteca",
+          "city": "Mexico City"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90
+        }
+      },
+      "league": {
+        "id": 1,
+        "name": "World Cup",
+        "country": "World",
+        "logo": "https://media.api-sports.io/football/leagues/1.png",
+        "flag": null,
+        "season": 2026,
+        "round": "Group Stage - 1"
+      },
+      "teams": {
+        "home": {
+          "id": 16,
+          "name": "Mexico",
+          "logo": "https://media.api-sports.io/football/teams/16.png",
+          "winner": true
+        },
+        "away": {
+          "id": 1531,
+          "name": "South Africa",
+          "logo": "https://media.api-sports.io/football/teams/1531.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      },
+      "events": [
+        {
+          "time": {
+            "elapsed": 23,
+            "extra": null
+          },
+          "team": {
+            "id": 16,
+            "name": "Mexico",
+            "logo": "https://media.api-sports.io/football/teams/16.png"
+          },
+          "player": {
+            "id": 1100,
+            "name": "H. Lozano"
+          },
+          "assist": {
+            "id": 1102,
+            "name": "J. Corona"
+          },
+          "type": "Goal",
+          "detail": "Normal Goal",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 55,
+            "extra": null
+          },
+          "team": {
+            "id": 16,
+            "name": "Mexico",
+            "logo": "https://media.api-sports.io/football/teams/16.png"
+          },
+          "player": {
+            "id": 1105,
+            "name": "R. Jimenez"
+          },
+          "assist": {
+            "id": 1100,
+            "name": "H. Lozano"
+          },
+          "type": "Goal",
+          "detail": "Normal Goal",
+          "comments": null
+        },
+        {
+          "time": {
+            "elapsed": 42,
+            "extra": null
+          },
+          "team": {
+            "id": 1531,
+            "name": "South Africa",
+            "logo": "https://media.api-sports.io/football/teams/1531.png"
+          },
+          "player": {
+            "id": 50220,
+            "name": "M. Mudau"
+          },
+          "assist": {
+            "id": null,
+            "name": null
+          },
+          "type": "Card",
+          "detail": "Yellow Card",
+          "comments": "Foul"
+        },
+        {
+          "time": {
+            "elapsed": 70,
+            "extra": null
+          },
+          "team": {
+            "id": 16,
+            "name": "Mexico",
+            "logo": "https://media.api-sports.io/football/teams/16.png"
+          },
+          "player": {
+            "id": 1100,
+            "name": "H. Lozano"
+          },
+          "assist": {
+            "id": null,
+            "name": null
+          },
+          "type": "subst",
+          "detail": "Substitution 1",
+          "comments": null
+        }
+      ],
+      "statistics": [
+        {
+          "team": {
+            "id": 16,
+            "name": "Mexico",
+            "logo": "https://media.api-sports.io/football/teams/16.png"
+          },
+          "statistics": [
+            {
+              "type": "Shots on Goal",
+              "value": 5
+            },
+            {
+              "type": "Shots off Goal",
+              "value": 3
+            },
+            {
+              "type": "Total Shots",
+              "value": 12
+            },
+            {
+              "type": "Blocked Shots",
+              "value": 4
+            },
+            {
+              "type": "Shots insidebox",
+              "value": 7
+            },
+            {
+              "type": "Shots outsidebox",
+              "value": 5
+            },
+            {
+              "type": "Fouls",
+              "value": 8
+            },
+            {
+              "type": "Corner Kicks",
+              "value": 4
+            },
+            {
+              "type": "Offsides",
+              "value": 2
+            },
+            {
+              "type": "Ball Possession",
+              "value": "58%"
+            },
+            {
+              "type": "Yellow Cards",
+              "value": 1
+            },
+            {
+              "type": "Red Cards",
+              "value": null
+            },
+            {
+              "type": "Goalkeeper Saves",
+              "value": 2
+            },
+            {
+              "type": "Total passes",
+              "value": 412
+            },
+            {
+              "type": "Passes accurate",
+              "value": 358
+            },
+            {
+              "type": "Passes %",
+              "value": "87%"
+            }
+          ]
+        },
+        {
+          "team": {
+            "id": 1531,
+            "name": "South Africa",
+            "logo": "https://media.api-sports.io/football/teams/1531.png"
+          },
+          "statistics": [
+            {
+              "type": "Shots on Goal",
+              "value": 2
+            },
+            {
+              "type": "Shots off Goal",
+              "value": 4
+            },
+            {
+              "type": "Total Shots",
+              "value": 8
+            },
+            {
+              "type": "Blocked Shots",
+              "value": 2
+            },
+            {
+              "type": "Shots insidebox",
+              "value": 4
+            },
+            {
+              "type": "Shots outsidebox",
+              "value": 4
+            },
+            {
+              "type": "Fouls",
+              "value": 12
+            },
+            {
+              "type": "Corner Kicks",
+              "value": 2
+            },
+            {
+              "type": "Offsides",
+              "value": 1
+            },
+            {
+              "type": "Ball Possession",
+              "value": "42%"
+            },
+            {
+              "type": "Yellow Cards",
+              "value": 1
+            },
+            {
+              "type": "Red Cards",
+              "value": null
+            },
+            {
+              "type": "Goalkeeper Saves",
+              "value": 3
+            },
+            {
+              "type": "Total passes",
+              "value": 298
+            },
+            {
+              "type": "Passes accurate",
+              "value": 241
+            },
+            {
+              "type": "Passes %",
+              "value": "81%"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

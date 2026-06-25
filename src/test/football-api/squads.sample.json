@@ -1,0 +1,127 @@
+{
+  "get": "players/squads",
+  "parameters": {
+    "team": "2384"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "team": {
+        "id": 2384,
+        "name": "USA",
+        "logo": "https://media.api-sports.io/football/teams/2384.png"
+      },
+      "players": [
+        {
+          "id": 266606,
+          "name": "C. Brady",
+          "age": 24,
+          "number": 25,
+          "position": "Goalkeeper",
+          "photo": "https://media.api-sports.io/football/players/266606.png"
+        },
+        {
+          "id": 47800,
+          "name": "M. Turner",
+          "age": 32,
+          "number": 1,
+          "position": "Goalkeeper",
+          "photo": "https://media.api-sports.io/football/players/47800.png"
+        },
+        {
+          "id": 47380,
+          "name": "S. Dest",
+          "age": 25,
+          "number": 2,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/47380.png"
+        },
+        {
+          "id": 47782,
+          "name": "T. Ream",
+          "age": 39,
+          "number": 13,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/47782.png"
+        },
+        {
+          "id": 47396,
+          "name": "C. Richards",
+          "age": 25,
+          "number": 4,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/47396.png"
+        },
+        {
+          "id": 47392,
+          "name": "A. Robinson",
+          "age": 27,
+          "number": 3,
+          "position": "Defender",
+          "photo": "https://media.api-sports.io/football/players/47392.png"
+        },
+        {
+          "id": 47395,
+          "name": "W. McKennie",
+          "age": 27,
+          "number": 8,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/47395.png"
+        },
+        {
+          "id": 47397,
+          "name": "T. Adams",
+          "age": 27,
+          "number": 4,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/47397.png"
+        },
+        {
+          "id": 47399,
+          "name": "Y. Musah",
+          "age": 23,
+          "number": 6,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/47399.png"
+        },
+        {
+          "id": 47781,
+          "name": "G. Reyna",
+          "age": 23,
+          "number": 7,
+          "position": "Midfielder",
+          "photo": "https://media.api-sports.io/football/players/47781.png"
+        },
+        {
+          "id": 47393,
+          "name": "C. Pulisic",
+          "age": 27,
+          "number": 10,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/47393.png"
+        },
+        {
+          "id": 47394,
+          "name": "T. Weah",
+          "age": 26,
+          "number": 11,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/47394.png"
+        },
+        {
+          "id": 47783,
+          "name": "F. Balogun",
+          "age": 25,
+          "number": 9,
+          "position": "Attacker",
+          "photo": "https://media.api-sports.io/football/players/47783.png"
+        }
+      ]
+    }
+  ]
+}

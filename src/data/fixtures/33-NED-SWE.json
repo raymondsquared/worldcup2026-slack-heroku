@@ -1,0 +1,441 @@
+{
+  "id": 33,
+  "dateAndTimeInUTC": "2026-06-20T17:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1539007,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "NED",
+    "homeTeamExternalId": 1118,
+    "awayTeamId": "SWE",
+    "awayTeamExternalId": 5
+  },
+  "finalScore": {
+    "home": 5,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 2,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 5,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 5,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 38750,
+      "playerName": "B. Brobbey",
+      "assistPlayerExternalId": 247,
+      "assistPlayerName": "C. Gakpo",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 17,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 38750,
+      "playerName": "B. Brobbey",
+      "assistPlayerExternalId": 226,
+      "assistPlayerName": "D. Dumfries",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 249,
+      "playerName": "D. Malen",
+      "assistPlayerExternalId": 37724,
+      "assistPlayerName": "C. Summerville",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 47,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 247,
+      "playerName": "C. Gakpo",
+      "assistPlayerExternalId": 226,
+      "assistPlayerName": "D. Dumfries",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 53,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 47969,
+      "playerName": "G. Gudmundsson",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 54,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 247,
+      "playerName": "C. Gakpo",
+      "assistPlayerExternalId": 37724,
+      "assistPlayerName": "C. Summerville",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 55,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 47696,
+      "playerName": "A. Bernhardsson",
+      "assistPlayerExternalId": 153430,
+      "assistPlayerName": "A. Elanga",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 56,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 48002,
+      "playerName": "B. Nygren",
+      "assistPlayerExternalId": 347316,
+      "assistPlayerName": "L. Bergvall",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 56,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 48047,
+      "playerName": "J. Karlstrom",
+      "assistPlayerExternalId": 350850,
+      "assistPlayerName": "B. Zeneli",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 59,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 538,
+      "playerName": "F. de Jong",
+      "assistPlayerExternalId": 36899,
+      "assistPlayerName": "T. Koopmeiners",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 59,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 36902,
+      "playerName": "T. Reijnders",
+      "assistPlayerExternalId": 36905,
+      "assistPlayerName": "G. Til",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 59,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 153430,
+      "playerName": "A. Elanga",
+      "assistPlayerExternalId": 2864,
+      "assistPlayerName": "A. Isak",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 72,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 38750,
+      "playerName": "B. Brobbey",
+      "assistPlayerExternalId": 667,
+      "assistPlayerName": "M. Depay",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 265820,
+      "playerName": "Y. Ayari",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 265820,
+      "playerName": "Y. Ayari",
+      "assistPlayerExternalId": 160925,
+      "assistPlayerName": "T. Ali",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 347316,
+      "playerName": "L. Bergvall",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 37724,
+      "playerName": "C. Summerville",
+      "assistPlayerExternalId": 667,
+      "assistPlayerName": "M. Depay",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "NED",
+      "teamExternalId": 1118,
+      "playerExternalId": 247,
+      "playerName": "C. Gakpo",
+      "assistPlayerExternalId": 544,
+      "assistPlayerName": "N. Lang",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "SWE",
+      "teamExternalId": 5,
+      "playerExternalId": 47969,
+      "playerName": "G. Gudmundsson",
+      "assistPlayerExternalId": 226765,
+      "assistPlayerName": "E. Stroud",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "NED",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 7
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 2
+        },
+        {
+          "type": "Total Shots",
+          "value": 10
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 6
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 9
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "51%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 7
+        },
+        {
+          "type": "Total passes",
+          "value": 449
+        },
+        {
+          "type": "Passes accurate",
+          "value": 398
+        },
+        {
+          "type": "Passes %",
+          "value": "89%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "2.61"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.80"
+        }
+      ]
+    },
+    {
+      "teamId": "SWE",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 8
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 16
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 7
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 9
+        },
+        {
+          "type": "Fouls",
+          "value": 12
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "49%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 3
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 425
+        },
+        {
+          "type": "Passes accurate",
+          "value": 361
+        },
+        {
+          "type": "Passes %",
+          "value": "85%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.01"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.80"
+        }
+      ]
+    }
+  ],
+  "group": "Group F"
+}

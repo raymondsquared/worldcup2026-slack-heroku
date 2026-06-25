@@ -1,0 +1,350 @@
+{
+  "id": 17,
+  "dateAndTimeInUTC": "2026-06-16T19:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489383,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "FRA",
+    "homeTeamExternalId": 2,
+    "awayTeamId": "SEN",
+    "awayTeamExternalId": 13
+  },
+  "finalScore": {
+    "home": 3,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 3,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Var",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 278,
+      "playerName": "Kylian Mbappe",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Penalty cancelled",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 66,
+      "extraMinute": null,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 278,
+      "playerName": "Kylian Mbappe",
+      "assistPlayerExternalId": 19617,
+      "assistPlayerName": "M. Olise",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "SEN",
+      "teamExternalId": 13,
+      "playerExternalId": 2218,
+      "playerName": "I. Sarr",
+      "assistPlayerExternalId": 446249,
+      "assistPlayerName": "I. Mbaye",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "SEN",
+      "teamExternalId": 13,
+      "playerExternalId": 374058,
+      "playerName": "L. Camara",
+      "assistPlayerExternalId": 327631,
+      "assistPlayerName": "H. Diarra",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 153,
+      "playerName": "O. Dembele",
+      "assistPlayerExternalId": 161904,
+      "assistPlayerName": "B. Barcola",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 82,
+      "extraMinute": null,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 161904,
+      "playerName": "B. Barcola",
+      "assistPlayerExternalId": 272,
+      "assistPlayerName": "A. Rabiot",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "SEN",
+      "teamExternalId": 13,
+      "playerExternalId": 283058,
+      "playerName": "N. Jackson",
+      "assistPlayerExternalId": 284072,
+      "assistPlayerName": "B. Dieng",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "SEN",
+      "teamExternalId": 13,
+      "playerExternalId": 20696,
+      "playerName": "P. Gueye",
+      "assistPlayerExternalId": 18592,
+      "assistPlayerName": "I. Ndiaye",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 87,
+      "extraMinute": null,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 343027,
+      "playerName": "D. Doue",
+      "assistPlayerExternalId": 156477,
+      "assistPlayerName": "R. Cherki",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 88,
+      "extraMinute": null,
+      "teamId": "SEN",
+      "teamExternalId": 13,
+      "playerExternalId": 2990,
+      "playerName": "I. Gueye",
+      "assistPlayerExternalId": 41552,
+      "assistPlayerName": "P. Ciss",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "SEN",
+      "teamExternalId": 13,
+      "playerExternalId": 446249,
+      "playerName": "I. Mbaye",
+      "assistPlayerExternalId": 18592,
+      "assistPlayerName": "I. Ndiaye",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "FRA",
+      "teamExternalId": 2,
+      "playerExternalId": 278,
+      "playerName": "Kylian Mbappe",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "FRA",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 8
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 1
+        },
+        {
+          "type": "Total Shots",
+          "value": 11
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 7
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 5
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 6
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "53%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 575
+        },
+        {
+          "type": "Passes accurate",
+          "value": 505
+        },
+        {
+          "type": "Passes %",
+          "value": "88%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.79"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.94"
+        }
+      ]
+    },
+    {
+      "teamId": "SEN",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 6
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 9
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "47%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 5
+        },
+        {
+          "type": "Total passes",
+          "value": 502
+        },
+        {
+          "type": "Passes accurate",
+          "value": 430
+        },
+        {
+          "type": "Passes %",
+          "value": "86%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.53"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.94"
+        }
+      ]
+    }
+  ],
+  "group": "Group I"
+}

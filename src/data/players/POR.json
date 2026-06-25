@@ -1,0 +1,210 @@
+[
+  {
+    "id": "POR-1",
+    "name": "Diogo Costa",
+    "teamId": "POR",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 369
+  },
+  {
+    "id": "POR-12",
+    "name": "Jose Sa",
+    "teamId": "POR",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 1590
+  },
+  {
+    "id": "POR-22",
+    "name": "Rui Silva",
+    "teamId": "POR",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 46672
+  },
+  {
+    "id": "POR-4",
+    "name": "Tomas Araujo",
+    "teamId": "POR",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 161939
+  },
+  {
+    "id": "POR-20",
+    "name": "Joao Cancelo",
+    "teamId": "POR",
+    "position": "Defender",
+    "number": 20,
+    "externalId": 855
+  },
+  {
+    "id": "POR-5",
+    "name": "Diogo Dalot",
+    "teamId": "POR",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 886
+  },
+  {
+    "id": "POR-3",
+    "name": "Ruben Dias",
+    "teamId": "POR",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 567
+  },
+  {
+    "id": "POR-14",
+    "name": "Goncalo Inacio",
+    "teamId": "POR",
+    "position": "Defender",
+    "number": 14,
+    "externalId": 265595
+  },
+  {
+    "id": "POR-25",
+    "name": "Nuno Mendes",
+    "teamId": "POR",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 263482
+  },
+  {
+    "id": "POR-2",
+    "name": "Nelson Semedo",
+    "teamId": "POR",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 130
+  },
+  {
+    "id": "POR-13",
+    "name": "Renato Veiga",
+    "teamId": "POR",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 336671
+  },
+  {
+    "id": "POR-24",
+    "name": "Samu Costa",
+    "teamId": "POR",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 190485
+  },
+  {
+    "id": "POR-8",
+    "name": "Bruno Fernandes",
+    "teamId": "POR",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 1485
+  },
+  {
+    "id": "POR-15",
+    "name": "Joao Neves",
+    "teamId": "POR",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 335051
+  },
+  {
+    "id": "POR-21",
+    "name": "Ruben Neves",
+    "teamId": "POR",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 2676
+  },
+  {
+    "id": "POR-6",
+    "name": "Matheus Nunes",
+    "teamId": "POR",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 41621
+  },
+  {
+    "id": "POR-10",
+    "name": "Bernardo Silva",
+    "teamId": "POR",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 636
+  },
+  {
+    "id": "POR-23",
+    "name": "Vitinha",
+    "teamId": "POR",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 128384
+  },
+  {
+    "id": "POR-26",
+    "name": "Francisco Conceicao",
+    "teamId": "POR",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 161585
+  },
+  {
+    "id": "POR-19",
+    "name": "Goncalo Guedes",
+    "teamId": "POR",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 925
+  },
+  {
+    "id": "POR-11",
+    "name": "Joao Felix",
+    "teamId": "POR",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 583
+  },
+  {
+    "id": "POR-17",
+    "name": "Rafael Leao",
+    "teamId": "POR",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 22236
+  },
+  {
+    "id": "POR-18",
+    "name": "Pedro Neto",
+    "teamId": "POR",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 1864
+  },
+  {
+    "id": "POR-9",
+    "name": "Goncalo Ramos",
+    "teamId": "POR",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 41585
+  },
+  {
+    "id": "POR-7",
+    "name": "Cristiano Ronaldo",
+    "teamId": "POR",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 874
+  },
+  {
+    "id": "POR-16",
+    "name": "Trincao",
+    "teamId": "POR",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 41112
+  }
+]

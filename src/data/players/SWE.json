@@ -1,0 +1,210 @@
+[
+  {
+    "id": "SWE-12",
+    "name": "V. Johansson",
+    "teamId": "SWE",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 158700
+  },
+  {
+    "id": "SWE-23",
+    "name": "K. Nordfeldt",
+    "teamId": "SWE",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 2851
+  },
+  {
+    "id": "SWE-1",
+    "name": "J. Widell Zetterstrom",
+    "teamId": "SWE",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 48033
+  },
+  {
+    "id": "SWE-14",
+    "name": "H. Ekdal",
+    "teamId": "SWE",
+    "position": "Defender",
+    "number": 14,
+    "externalId": 47903
+  },
+  {
+    "id": "SWE-5",
+    "name": "G. Gudmundsson",
+    "teamId": "SWE",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 47969
+  },
+  {
+    "id": "SWE-4",
+    "name": "I. Hien",
+    "teamId": "SWE",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 137976
+  },
+  {
+    "id": "SWE-2",
+    "name": "G. Lagerbielke",
+    "teamId": "SWE",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 137721
+  },
+  {
+    "id": "SWE-3",
+    "name": "V. Lindelof",
+    "teamId": "SWE",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 889
+  },
+  {
+    "id": "SWE-15",
+    "name": "C. Starfelt",
+    "teamId": "SWE",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 47988
+  },
+  {
+    "id": "SWE-6",
+    "name": "H. Johansson",
+    "teamId": "SWE",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 161504
+  },
+  {
+    "id": "SWE-20",
+    "name": "E. Smith",
+    "teamId": "SWE",
+    "position": "Defender",
+    "number": 20,
+    "externalId": 8486
+  },
+  {
+    "id": "SWE-24",
+    "name": "E. Stroud",
+    "teamId": "SWE",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 226765
+  },
+  {
+    "id": "SWE-8",
+    "name": "D. Svensson",
+    "teamId": "SWE",
+    "position": "Defender",
+    "number": 8,
+    "externalId": 198654
+  },
+  {
+    "id": "SWE-21",
+    "name": "A. Bernhardsson",
+    "teamId": "SWE",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 47696
+  },
+  {
+    "id": "SWE-18",
+    "name": "Y. Ayari",
+    "teamId": "SWE",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 265820
+  },
+  {
+    "id": "SWE-7",
+    "name": "L. Bergvall",
+    "teamId": "SWE",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 347316
+  },
+  {
+    "id": "SWE-10",
+    "name": "B. Nygren",
+    "teamId": "SWE",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 48002
+  },
+  {
+    "id": "SWE-16",
+    "name": "J. Karlstrom",
+    "teamId": "SWE",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 48047
+  },
+  {
+    "id": "SWE-13",
+    "name": "K. Sema",
+    "teamId": "SWE",
+    "position": "Midfielder",
+    "number": 13,
+    "externalId": 2860
+  },
+  {
+    "id": "SWE-19",
+    "name": "M. Svanberg",
+    "teamId": "SWE",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 30484
+  },
+  {
+    "id": "SWE-22",
+    "name": "B. Zeneli",
+    "teamId": "SWE",
+    "position": "Midfielder",
+    "number": 22,
+    "externalId": 350850
+  },
+  {
+    "id": "SWE-26",
+    "name": "T. Ali",
+    "teamId": "SWE",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 160925
+  },
+  {
+    "id": "SWE-11",
+    "name": "A. Elanga",
+    "teamId": "SWE",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 153430
+  },
+  {
+    "id": "SWE-17",
+    "name": "V. Gyokeres",
+    "teamId": "SWE",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 18979
+  },
+  {
+    "id": "SWE-9",
+    "name": "A. Isak",
+    "teamId": "SWE",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 2864
+  },
+  {
+    "id": "SWE-25",
+    "name": "G. Nilsson",
+    "teamId": "SWE",
+    "position": "Attacker",
+    "number": 25,
+    "externalId": 15683
+  }
+]

@@ -1,0 +1,178 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "abc123",
+  "pageInfo": {
+    "totalResults": 27,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "etag1",
+      "id": "UExCUkx0RGhUSDVvLlBtZXZHQ2tVdE04",
+      "snippet": {
+        "publishedAt": "2026-06-12T04:30:00Z",
+        "channelId": "UCpcTrCXblq78GZrTUTLWeBw",
+        "title": "Highlights | Mexico 2-0 South Africa | FIFA World Cup 2026",
+        "description": "Watch the highlights from Mexico vs South Africa in the opening match of the FIFA World Cup 2026.",
+        "thumbnails": {
+          "default": { "url": "https://i.ytimg.com/vi/PmevGCkUtM8/default.jpg" }
+        },
+        "channelTitle": "FIFA",
+        "playlistId": "PLBRLtDhTHh5o",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PmevGCkUtM8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "etag2",
+      "id": "UExCUkx0RGhUSDVvLjZrMThFSlk4eklj",
+      "snippet": {
+        "publishedAt": "2026-06-12T08:15:00Z",
+        "channelId": "UCpcTrCXblq78GZrTUTLWeBw",
+        "title": "Highlights | Korea Republic 2-1 Czechia | FIFA World Cup 2026",
+        "description": "Watch the highlights from Korea Republic vs Czechia.",
+        "thumbnails": {
+          "default": { "url": "https://i.ytimg.com/vi/6k18EJY8zIc/default.jpg" }
+        },
+        "channelTitle": "FIFA",
+        "playlistId": "PLBRLtDhTHh5o",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "6k18EJY8zIc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "etag3",
+      "id": "UExCUkx0RGhUSDVvLnctX3JZNm1vclFZ",
+      "snippet": {
+        "publishedAt": "2026-06-13T01:45:00Z",
+        "channelId": "UCpcTrCXblq78GZrTUTLWeBw",
+        "title": "Highlights | Canada 1-1 Bosnia & Herzegovina | FIFA World Cup 2026",
+        "description": "Watch the highlights from Canada vs Bosnia & Herzegovina.",
+        "thumbnails": {
+          "default": { "url": "https://i.ytimg.com/vi/w-_rY5morQY/default.jpg" }
+        },
+        "channelTitle": "FIFA",
+        "playlistId": "PLBRLtDhTHh5o",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "w-_rY5morQY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "etag4",
+      "id": "UExCUkx0RGhUSDVvLjBQVm8zYmstVE1r",
+      "snippet": {
+        "publishedAt": "2026-06-13T07:30:00Z",
+        "channelId": "UCpcTrCXblq78GZrTUTLWeBw",
+        "title": "Highlights | USA 4-1 Paraguay | FIFA World Cup 2026",
+        "description": "Watch the highlights from USA vs Paraguay.",
+        "thumbnails": {
+          "default": { "url": "https://i.ytimg.com/vi/0PVo3bk-TMk/default.jpg" }
+        },
+        "channelTitle": "FIFA",
+        "playlistId": "PLBRLtDhTHh5o",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "0PVo3bk-TMk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "etag5",
+      "id": "UExCUkx0RGhUSDVvLktWejQzLWVkZElR",
+      "snippet": {
+        "publishedAt": "2026-06-14T01:30:00Z",
+        "channelId": "UCpcTrCXblq78GZrTUTLWeBw",
+        "title": "Highlights | Qatar 1-1 Switzerland | FIFA World Cup 2026",
+        "description": "Watch the highlights from Qatar vs Switzerland.",
+        "thumbnails": {
+          "default": { "url": "https://i.ytimg.com/vi/KVz43-eddIQ/default.jpg" }
+        },
+        "channelTitle": "FIFA",
+        "playlistId": "PLBRLtDhTHh5o",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "KVz43-eddIQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "etag6",
+      "id": "UExCUkx0RGhUSDVvLnByZXNz",
+      "snippet": {
+        "publishedAt": "2026-06-12T20:00:00Z",
+        "channelId": "UCpcTrCXblq78GZrTUTLWeBw",
+        "title": "Mexico v South Africa | Post-Match Press Conference | FIFA World Cup 2026",
+        "description": "Post-match press conference with both coaches.",
+        "thumbnails": {
+          "default": { "url": "https://i.ytimg.com/vi/press123/default.jpg" }
+        },
+        "channelTitle": "FIFA",
+        "playlistId": "PLBRLtDhTHh5o",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "press123"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "etag7",
+      "id": "UExCUkx0RGhUSDVvLmdvYWxz",
+      "snippet": {
+        "publishedAt": "2026-06-12T06:00:00Z",
+        "channelId": "UCpcTrCXblq78GZrTUTLWeBw",
+        "title": "All Goals | Mexico vs South Africa | FIFA World Cup 2026",
+        "description": "Every goal from the opening match.",
+        "thumbnails": {
+          "default": { "url": "https://i.ytimg.com/vi/goals456/default.jpg" }
+        },
+        "channelTitle": "FIFA",
+        "playlistId": "PLBRLtDhTHh5o",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "goals456"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "etag8",
+      "id": "UExCUkx0RGhUSDVvLm1hbGZvcm1lZA",
+      "snippet": {
+        "publishedAt": "2026-06-12T09:00:00Z",
+        "channelId": "UCpcTrCXblq78GZrTUTLWeBw",
+        "title": "Highlights | Germany 7-1 Curacao | FIFA World Cup 2026",
+        "description": "Watch Germany dominate Curacao in Group C.",
+        "thumbnails": {
+          "default": { "url": "https://i.ytimg.com/vi/gerCur01/default.jpg" }
+        },
+        "channelTitle": "FIFA",
+        "playlistId": "PLBRLtDhTHh5o",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "gerCur01"
+        }
+      }
+    }
+  ]
+}

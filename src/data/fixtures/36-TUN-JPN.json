@@ -1,0 +1,376 @@
+{
+  "id": 36,
+  "dateAndTimeInUTC": "2026-06-21T04:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489394,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "TUN",
+    "homeTeamExternalId": 28,
+    "awayTeamId": "JPN",
+    "awayTeamExternalId": 12
+  },
+  "finalScore": {
+    "home": 0,
+    "away": 4
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 2
+    },
+    "fulltime": {
+      "home": 0,
+      "away": 4
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 4,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 2601,
+      "playerName": "D. Kamada",
+      "assistPlayerExternalId": 33321,
+      "assistPlayerName": "Keito Nakamura",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 31,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 72155,
+      "playerName": "A. Ueda",
+      "assistPlayerExternalId": 38114,
+      "assistPlayerName": "K. Itakura",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "TUN",
+      "teamExternalId": 28,
+      "playerExternalId": 2945,
+      "playerName": "D. Bronn",
+      "assistPlayerExternalId": 135059,
+      "assistPlayerName": "A. Ben Hmida",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "TUN",
+      "teamExternalId": 28,
+      "playerExternalId": 323974,
+      "playerName": "E. Saad",
+      "assistPlayerExternalId": 310196,
+      "assistPlayerName": "Ismael Gharbi",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "TUN",
+      "teamExternalId": 28,
+      "playerExternalId": 57518,
+      "playerName": "S. Tounekti",
+      "assistPlayerExternalId": 2962,
+      "assistPlayerName": "F. Chaouat",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 69,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 1942,
+      "playerName": "J. Ito",
+      "assistPlayerExternalId": 72155,
+      "assistPlayerName": "A. Ueda",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 73,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 2601,
+      "playerName": "D. Kamada",
+      "assistPlayerExternalId": 351014,
+      "assistPlayerName": "J. Suzuki",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 74,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 2598,
+      "playerName": "R. Doan",
+      "assistPlayerExternalId": 32887,
+      "assistPlayerName": "Y. Sugawara",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 2597,
+      "playerName": "T. Tomiyasu",
+      "assistPlayerExternalId": 33165,
+      "assistPlayerName": "A. Seko",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 79,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 33321,
+      "playerName": "Keito Nakamura",
+      "assistPlayerExternalId": 199143,
+      "assistPlayerName": "Y. Suzuki",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 72155,
+      "playerName": "A. Ueda",
+      "assistPlayerExternalId": 33889,
+      "assistPlayerName": "K. Sano",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "JPN",
+      "teamExternalId": 12,
+      "playerExternalId": 72155,
+      "playerName": "A. Ueda",
+      "assistPlayerExternalId": 375930,
+      "assistPlayerName": "K. Goto",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 1,
+      "teamId": "TUN",
+      "teamExternalId": 28,
+      "playerExternalId": 49583,
+      "playerName": "A. Abdi",
+      "assistPlayerExternalId": 42012,
+      "assistPlayerName": "E. Achouri",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 1,
+      "teamId": "TUN",
+      "teamExternalId": 28,
+      "playerExternalId": 21587,
+      "playerName": "E. Skhiri",
+      "assistPlayerExternalId": 25300,
+      "assistPlayerName": "R. Khedira",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "TUN",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 0
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 1
+        },
+        {
+          "type": "Total Shots",
+          "value": 2
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 1
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 1
+        },
+        {
+          "type": "Fouls",
+          "value": 8
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 3
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "38%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 354
+        },
+        {
+          "type": "Passes accurate",
+          "value": 284
+        },
+        {
+          "type": "Passes %",
+          "value": "80%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.05"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.00"
+        }
+      ]
+    },
+    {
+      "teamId": "JPN",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 5
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 11
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 8
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 15
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "62%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 0
+        },
+        {
+          "type": "Total passes",
+          "value": 583
+        },
+        {
+          "type": "Passes accurate",
+          "value": 521
+        },
+        {
+          "type": "Passes %",
+          "value": "89%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "2.13"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.00"
+        }
+      ]
+    }
+  ],
+  "group": "Group F"
+}

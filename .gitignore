@@ -1,0 +1,6 @@
+.agents/skills
+.claude/skills
+
+node_modules
+.env
+.env.local

@@ -1,0 +1,363 @@
+{
+  "id": 2,
+  "dateAndTimeInUTC": "2026-06-12T02:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1538999,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "KOR",
+    "homeTeamExternalId": 17,
+    "awayTeamId": "CZE",
+    "awayTeamExternalId": 770
+  },
+  "finalScore": {
+    "home": 2,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 2,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 59,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 66407,
+      "playerName": "L. Krejci",
+      "assistPlayerExternalId": 1231,
+      "assistPlayerName": "V. Coufal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 62,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 2906,
+      "playerName": "Lee Jae-Sung",
+      "assistPlayerExternalId": 24888,
+      "assistPlayerName": "Hwang Hee-Chan",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 66387,
+      "playerName": "P. Sulc",
+      "assistPlayerExternalId": 66019,
+      "assistPlayerName": "A. Hlozek",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 794,
+      "playerName": "P. Schick",
+      "assistPlayerExternalId": 818,
+      "assistPlayerName": "T. Chory",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 66353,
+      "playerName": "L. Provod",
+      "assistPlayerExternalId": 241,
+      "assistPlayerName": "M. Sadilek",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 67,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 2901,
+      "playerName": "Hwang In-Beom",
+      "assistPlayerExternalId": 927,
+      "assistPlayerName": "Lee Kang-In",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 69,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 186,
+      "playerName": "Son Heung-Min",
+      "assistPlayerExternalId": 34710,
+      "assistPlayerName": "Oh Hyeon-Gyu",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 69,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 237220,
+      "playerName": "Lee Tae-Seok",
+      "assistPlayerExternalId": 237050,
+      "assistPlayerName": "Eom Ji-Sung",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 34710,
+      "playerName": "Oh Hyeon-Gyu",
+      "assistPlayerExternalId": 2901,
+      "assistPlayerName": "Hwang In-Beom",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 2901,
+      "playerName": "Hwang In-Beom",
+      "assistPlayerExternalId": 34168,
+      "assistPlayerName": "Kim Jin-Gyu",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 2909,
+      "playerName": "Paik Seung-Ho",
+      "assistPlayerExternalId": 99211,
+      "assistPlayerName": "Park Jin-Seop",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "CZE",
+      "teamExternalId": 770,
+      "playerExternalId": 386837,
+      "playerName": "A. Sojka",
+      "assistPlayerExternalId": 66275,
+      "assistPlayerName": "M. Chytil",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 6,
+      "teamId": "KOR",
+      "teamExternalId": 17,
+      "playerExternalId": 304951,
+      "playerName": "Lee Gi-Hyuk",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "KOR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 6
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 15
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 4
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 10
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 5
+        },
+        {
+          "type": "Fouls",
+          "value": 9
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "62%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 541
+        },
+        {
+          "type": "Passes accurate",
+          "value": 469
+        },
+        {
+          "type": "Passes %",
+          "value": "87%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "2.30"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.06"
+        }
+      ]
+    },
+    {
+      "teamId": "CZE",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 7
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 5
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 16
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "38%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 4
+        },
+        {
+          "type": "Total passes",
+          "value": 327
+        },
+        {
+          "type": "Passes accurate",
+          "value": 230
+        },
+        {
+          "type": "Passes %",
+          "value": "70%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.83"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.06"
+        }
+      ]
+    }
+  ],
+  "group": "Group A"
+}

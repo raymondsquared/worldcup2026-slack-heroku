@@ -1,0 +1,441 @@
+{
+  "id": 26,
+  "dateAndTimeInUTC": "2026-06-18T19:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1539005,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "SUI",
+    "homeTeamExternalId": 15,
+    "awayTeamId": "BIH",
+    "awayTeamExternalId": 1113
+  },
+  "finalScore": {
+    "home": 4,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 4,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 59,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 7318,
+      "playerName": "A. Dedic",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 790,
+      "playerName": "E. Dzeko",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 63,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 264094,
+      "playerName": "B. Tahirovic",
+      "assistPlayerExternalId": 162222,
+      "assistPlayerName": "I. Basic",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 790,
+      "playerName": "E. Dzeko",
+      "assistPlayerExternalId": 329409,
+      "assistPlayerName": "E. Bajraktarevic",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 2803,
+      "playerName": "N. Elvedi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 951,
+      "playerName": "M. Aebischer",
+      "assistPlayerExternalId": 957,
+      "assistPlayerName": "D. Sow",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 163032,
+      "playerName": "F. Rieder",
+      "assistPlayerExternalId": 48471,
+      "assistPlayerName": "R. Vargas",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 48648,
+      "playerName": "D. Ndoye",
+      "assistPlayerExternalId": 406244,
+      "assistPlayerName": "J. Manzambi",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 74,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 406244,
+      "playerName": "J. Manzambi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 271350,
+      "playerName": "T. Muharemovic",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Red Card",
+      "comments": "Professional foul last man"
+    },
+    {
+      "type": "Goal",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 48471,
+      "playerName": "R. Vargas",
+      "assistPlayerExternalId": 421,
+      "assistPlayerName": "B. Embolo",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 86,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 48378,
+      "playerName": "S. Widmer",
+      "assistPlayerExternalId": 349344,
+      "assistPlayerName": "L. Jaquez",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 86,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 46930,
+      "playerName": "E. Demirovic",
+      "assistPlayerExternalId": 77037,
+      "assistPlayerName": "J. Lukic",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 86,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 1324,
+      "playerName": "I. Sunjic",
+      "assistPlayerExternalId": 50006,
+      "assistPlayerName": "A. Hadziahmetovic",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 421,
+      "playerName": "B. Embolo",
+      "assistPlayerExternalId": 48497,
+      "assistPlayerName": "C. Itten",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 1,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 395559,
+      "playerName": "Kerim-Sam Alajbegovic",
+      "assistPlayerExternalId": 340173,
+      "assistPlayerName": "Ermin Mahmic",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 406244,
+      "playerName": "J. Manzambi",
+      "assistPlayerExternalId": 48471,
+      "assistPlayerName": "R. Vargas",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 340173,
+      "playerName": "Ermin Mahmic",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "SUI",
+      "teamExternalId": 15,
+      "playerExternalId": 1464,
+      "playerName": "G. Xhaka",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Penalty",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "SUI",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 7
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 13
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 9
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 7
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 7
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "62%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": 0
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 586
+        },
+        {
+          "type": "Passes accurate",
+          "value": 516
+        },
+        {
+          "type": "Passes %",
+          "value": "88%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "2.06"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-1.54"
+        }
+      ]
+    },
+    {
+      "teamId": "BIH",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 1
+        },
+        {
+          "type": "Total Shots",
+          "value": 5
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 3
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 18
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 3
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "38%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": 1
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 3
+        },
+        {
+          "type": "Total passes",
+          "value": 354
+        },
+        {
+          "type": "Passes accurate",
+          "value": 287
+        },
+        {
+          "type": "Passes %",
+          "value": "81%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.23"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-1.54"
+        }
+      ]
+    }
+  ],
+  "group": "Group B"
+}

@@ -1,0 +1,210 @@
+[
+  {
+    "id": "QAT-1",
+    "name": "Mahmud Abunada",
+    "teamId": "QAT",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 42207
+  },
+  {
+    "id": "QAT-22",
+    "name": "Meshaal Barsham",
+    "teamId": "QAT",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 42021
+  },
+  {
+    "id": "QAT-21",
+    "name": "Salah Zakaria",
+    "teamId": "QAT",
+    "position": "Goalkeeper",
+    "number": 21,
+    "externalId": 136503
+  },
+  {
+    "id": "QAT-14",
+    "name": "Homam Ahmed",
+    "teamId": "QAT",
+    "position": "Defender",
+    "number": 14,
+    "externalId": 175439
+  },
+  {
+    "id": "QAT-18",
+    "name": "Sultan Al Braik",
+    "teamId": "QAT",
+    "position": "Defender",
+    "number": 18,
+    "externalId": 42060
+  },
+  {
+    "id": "QAT-25",
+    "name": "A. Al Hussain",
+    "teamId": "QAT",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 542542
+  },
+  {
+    "id": "QAT-13",
+    "name": "A. Al Oui",
+    "teamId": "QAT",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 377930
+  },
+  {
+    "id": "QAT-5",
+    "name": "Jassem Gaber",
+    "teamId": "QAT",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 200981
+  },
+  {
+    "id": "QAT-16",
+    "name": "Boualem Khoukhi",
+    "teamId": "QAT",
+    "position": "Defender",
+    "number": 16,
+    "externalId": 2532
+  },
+  {
+    "id": "QAT-3",
+    "name": "Lucas Mendes",
+    "teamId": "QAT",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 42288
+  },
+  {
+    "id": "QAT-4",
+    "name": "G. Laye",
+    "teamId": "QAT",
+    "position": "Midfielder",
+    "number": 4,
+    "externalId": 366516
+  },
+  {
+    "id": "QAT-2",
+    "name": "Pedro Miguel",
+    "teamId": "QAT",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 2530
+  },
+  {
+    "id": "QAT-23",
+    "name": "Assim Madibo",
+    "teamId": "QAT",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 2535
+  },
+  {
+    "id": "QAT-17",
+    "name": "Ahmed Al Ganehi",
+    "teamId": "QAT",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 42286
+  },
+  {
+    "id": "QAT-6",
+    "name": "Abdulaziz Hatem",
+    "teamId": "QAT",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 2533
+  },
+  {
+    "id": "QAT-12",
+    "name": "Karim Boudiaf",
+    "teamId": "QAT",
+    "position": "Midfielder",
+    "number": 12,
+    "externalId": 2537
+  },
+  {
+    "id": "QAT-20",
+    "name": "Ahmed Fathi",
+    "teamId": "QAT",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 2539
+  },
+  {
+    "id": "QAT-10",
+    "name": "Hassan Al Haydos",
+    "teamId": "QAT",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 2545
+  },
+  {
+    "id": "QAT-26",
+    "name": "Mohamed Al Manai",
+    "teamId": "QAT",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 283174
+  },
+  {
+    "id": "QAT-15",
+    "name": "Y. Abdurisag",
+    "teamId": "QAT",
+    "position": "Attacker",
+    "number": 15,
+    "externalId": 542541
+  },
+  {
+    "id": "QAT-11",
+    "name": "Akram Afif",
+    "teamId": "QAT",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 2544
+  },
+  {
+    "id": "QAT-7",
+    "name": "Ahmed Alaa",
+    "teamId": "QAT",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 2542
+  },
+  {
+    "id": "QAT-19",
+    "name": "Almoez Ali",
+    "teamId": "QAT",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 2543
+  },
+  {
+    "id": "QAT-8",
+    "name": "Edmilson Junior",
+    "teamId": "QAT",
+    "position": "Attacker",
+    "number": 8,
+    "externalId": 42075
+  },
+  {
+    "id": "QAT-24",
+    "name": "Tahsin Jamshid",
+    "teamId": "QAT",
+    "position": "Attacker",
+    "number": 24,
+    "externalId": 423737
+  },
+  {
+    "id": "QAT-9",
+    "name": "Mohammed Muntari",
+    "teamId": "QAT",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 42089
+  }
+]

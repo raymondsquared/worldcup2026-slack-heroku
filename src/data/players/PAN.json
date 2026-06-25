@@ -1,0 +1,210 @@
+[
+  {
+    "id": "PAN-1",
+    "name": "L. Mejia",
+    "teamId": "PAN",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 2967
+  },
+  {
+    "id": "PAN-22",
+    "name": "O. Mosquera",
+    "teamId": "PAN",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 2968
+  },
+  {
+    "id": "PAN-12",
+    "name": "C. Samudio",
+    "teamId": "PAN",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 57861
+  },
+  {
+    "id": "PAN-16",
+    "name": "A. Andrade",
+    "teamId": "PAN",
+    "position": "Defender",
+    "number": 16,
+    "externalId": 7197
+  },
+  {
+    "id": "PAN-2",
+    "name": "C. Blackman",
+    "teamId": "PAN",
+    "position": "Midfielder",
+    "number": 2,
+    "externalId": 2975
+  },
+  {
+    "id": "PAN-3",
+    "name": "J. Cordoba",
+    "teamId": "PAN",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 57739
+  },
+  {
+    "id": "PAN-15",
+    "name": "E. Davis",
+    "teamId": "PAN",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 2970
+  },
+  {
+    "id": "PAN-4",
+    "name": "F. Escobar",
+    "teamId": "PAN",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 2971
+  },
+  {
+    "id": "PAN-5",
+    "name": "E. Farina",
+    "teamId": "PAN",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 328148
+  },
+  {
+    "id": "PAN-26",
+    "name": "J. Gutierrez",
+    "teamId": "PAN",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 57803
+  },
+  {
+    "id": "PAN-14",
+    "name": "C. Harvey",
+    "teamId": "PAN",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 71230
+  },
+  {
+    "id": "PAN-25",
+    "name": "R. Miller",
+    "teamId": "PAN",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 81659
+  },
+  {
+    "id": "PAN-23",
+    "name": "A. Murillo",
+    "teamId": "PAN",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 2973
+  },
+  {
+    "id": "PAN-13",
+    "name": "J. Ramos",
+    "teamId": "PAN",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 57667
+  },
+  {
+    "id": "PAN-8",
+    "name": "A. Carrasquilla",
+    "teamId": "PAN",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 57807
+  },
+  {
+    "id": "PAN-20",
+    "name": "A. Godoy",
+    "teamId": "PAN",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 2977
+  },
+  {
+    "id": "PAN-6",
+    "name": "C. Martinez",
+    "teamId": "PAN",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 554208
+  },
+  {
+    "id": "PAN-7",
+    "name": "J. Rodriguez",
+    "teamId": "PAN",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 2979
+  },
+  {
+    "id": "PAN-11",
+    "name": "Y. Barcenas",
+    "teamId": "PAN",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 46855
+  },
+  {
+    "id": "PAN-10",
+    "name": "I. Diaz",
+    "teamId": "PAN",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 96615
+  },
+  {
+    "id": "PAN-19",
+    "name": "A. Quintero",
+    "teamId": "PAN",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 2978
+  },
+  {
+    "id": "PAN-21",
+    "name": "C. Yanis",
+    "teamId": "PAN",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 57875
+  },
+  {
+    "id": "PAN-17",
+    "name": "J. Fajardo",
+    "teamId": "PAN",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 2983
+  },
+  {
+    "id": "PAN-24",
+    "name": "A. Londono",
+    "teamId": "PAN",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 292396
+  },
+  {
+    "id": "PAN-9",
+    "name": "T. Rodriguez",
+    "teamId": "PAN",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 57910
+  },
+  {
+    "id": "PAN-18",
+    "name": "C. Waterman",
+    "teamId": "PAN",
+    "position": "Attacker",
+    "number": 18,
+    "externalId": 51648
+  }
+]

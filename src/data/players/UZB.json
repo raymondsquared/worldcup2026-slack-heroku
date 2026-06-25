@@ -1,0 +1,210 @@
+[
+  {
+    "id": "UZB-16",
+    "name": "B. Ergashev",
+    "teamId": "UZB",
+    "position": "Goalkeeper",
+    "number": 16,
+    "externalId": 72120
+  },
+  {
+    "id": "UZB-12",
+    "name": "A. Nematov",
+    "teamId": "UZB",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 73507
+  },
+  {
+    "id": "UZB-1",
+    "name": "U. Yusupov",
+    "teamId": "UZB",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 73534
+  },
+  {
+    "id": "UZB-3",
+    "name": "K. Alijonov",
+    "teamId": "UZB",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 72122
+  },
+  {
+    "id": "UZB-5",
+    "name": "R. Ashurmatov",
+    "teamId": "UZB",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 34121
+  },
+  {
+    "id": "UZB-15",
+    "name": "U. Eshmurodov",
+    "teamId": "UZB",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 73510
+  },
+  {
+    "id": "UZB-24",
+    "name": "B. Karimov",
+    "teamId": "UZB",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 416964
+  },
+  {
+    "id": "UZB-2",
+    "name": "A. Khusanov",
+    "teamId": "UZB",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 360114
+  },
+  {
+    "id": "UZB-13",
+    "name": "S. Nasrullayev",
+    "teamId": "UZB",
+    "position": "Midfielder",
+    "number": 13,
+    "externalId": 73514
+  },
+  {
+    "id": "UZB-4",
+    "name": "F. Sayfiev",
+    "teamId": "UZB",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 532759
+  },
+  {
+    "id": "UZB-26",
+    "name": "J. Urozov",
+    "teamId": "UZB",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 358427
+  },
+  {
+    "id": "UZB-18",
+    "name": "A. Abdullaev",
+    "teamId": "UZB",
+    "position": "Defender",
+    "number": 18,
+    "externalId": 73418
+  },
+  {
+    "id": "UZB-25",
+    "name": "A. Ulmasaliev",
+    "teamId": "UZB",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 65571
+  },
+  {
+    "id": "UZB-10",
+    "name": "Ruslanbek Jiyanov",
+    "teamId": "UZB",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 312231
+  },
+  {
+    "id": "UZB-19",
+    "name": "A. Ganiyev",
+    "teamId": "UZB",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 73520
+  },
+  {
+    "id": "UZB-8",
+    "name": "J. Iskanderov",
+    "teamId": "UZB",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 65576
+  },
+  {
+    "id": "UZB-9",
+    "name": "O. Hamrobekov",
+    "teamId": "UZB",
+    "position": "Midfielder",
+    "number": 9,
+    "externalId": 53835
+  },
+  {
+    "id": "UZB-6",
+    "name": "A. Mozgovoy",
+    "teamId": "UZB",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 73522
+  },
+  {
+    "id": "UZB-7",
+    "name": "O. Shukurov",
+    "teamId": "UZB",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 50272
+  },
+  {
+    "id": "UZB-22",
+    "name": "A. Fayzullaev",
+    "teamId": "UZB",
+    "position": "Attacker",
+    "number": 22,
+    "externalId": 263676
+  },
+  {
+    "id": "UZB-23",
+    "name": "S. Esanov",
+    "teamId": "UZB",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 363723
+  },
+  {
+    "id": "UZB-11",
+    "name": "O. Orunov",
+    "teamId": "UZB",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 72127
+  },
+  {
+    "id": "UZB-17",
+    "name": "D. Khamdamov",
+    "teamId": "UZB",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 53834
+  },
+  {
+    "id": "UZB-20",
+    "name": "A. Amonov",
+    "teamId": "UZB",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 65584
+  },
+  {
+    "id": "UZB-21",
+    "name": "I. Sergeev",
+    "teamId": "UZB",
+    "position": "Attacker",
+    "number": 21,
+    "externalId": 72128
+  },
+  {
+    "id": "UZB-14",
+    "name": "E. Shomurodov",
+    "teamId": "UZB",
+    "position": "Attacker",
+    "number": 14,
+    "externalId": 53535
+  }
+]

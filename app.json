@@ -1,0 +1,61 @@
+{
+  "name": "rb-heroku-mia-slack-worldcup26",
+  "description": "Slack app showcasing Heroku Managed Inference Agents with World Cup 2026 features",
+  "keywords": ["slack", "heroku", "world-cup", "ai"],
+  "repository": "https://github.com/heroku/rb-heroku-mia-slack-worldcup2026",
+  "stack": "heroku-24",
+  "buildpacks": [
+    { "url": "heroku/nodejs" }
+  ],
+  "env": {
+    "SLACK_BOT_TOKEN": {
+      "description": "Slack Bot User OAuth Token (xoxb-...)",
+      "required": true
+    },
+    "SLACK_SIGNING_SECRET": {
+      "description": "Slack app signing secret for request verification",
+      "required": true
+    },
+    "SLACK_APP_TOKEN": {
+      "description": "Slack App-Level Token for Socket Mode (xapp-...)",
+      "required": true
+    },
+    "INFERENCE_URL": {
+      "description": "Heroku Managed Inference endpoint URL",
+      "required": true
+    },
+    "INFERENCE_MODEL_ID": {
+      "description": "Inference model ID for chat completions",
+      "required": true
+    },
+    "INFERENCE_KEY": {
+      "description": "Inference API key for authentication",
+      "required": true
+    },
+    "BROADCAST_CHANNEL_ID": {
+      "description": "Slack channel ID for match broadcast cards",
+      "required": true
+    },
+    "FOOTBALL_API_KEY": {
+      "description": "API key for live match data",
+      "required": true
+    },    
+    "WEB_SEARCH_API_KEY": {
+      "description": "API key for web search provider fallback",
+      "required": true
+    },
+    "HIGHLIGHTS_API_KEY": {
+      "description": "API key for fetching highlight playlists",
+      "required": true
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 0
+    },
+    "worker": {
+      "quantity": 1,
+      "size": "private-s"
+    }
+  }
+}

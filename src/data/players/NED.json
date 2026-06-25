@@ -1,0 +1,210 @@
+[
+  {
+    "id": "NED-23",
+    "name": "M. Flekken",
+    "teamId": "NED",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 26232
+  },
+  {
+    "id": "NED-13",
+    "name": "R. Roefs",
+    "teamId": "NED",
+    "position": "Goalkeeper",
+    "number": 13,
+    "externalId": 194536
+  },
+  {
+    "id": "NED-1",
+    "name": "B. Verbruggen",
+    "teamId": "NED",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 129058
+  },
+  {
+    "id": "NED-5",
+    "name": "N. Ake",
+    "teamId": "NED",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 18861
+  },
+  {
+    "id": "NED-22",
+    "name": "D. Dumfries",
+    "teamId": "NED",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 226
+  },
+  {
+    "id": "NED-25",
+    "name": "J. Hato",
+    "teamId": "NED",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 341642
+  },
+  {
+    "id": "NED-2",
+    "name": "L. Geertruida",
+    "teamId": "NED",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 37143
+  },
+  {
+    "id": "NED-4",
+    "name": "V. van Dijk",
+    "teamId": "NED",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 290
+  },
+  {
+    "id": "NED-6",
+    "name": "J. van Hecke",
+    "teamId": "NED",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 38695
+  },
+  {
+    "id": "NED-15",
+    "name": "M. van de Ven",
+    "teamId": "NED",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 152849
+  },
+  {
+    "id": "NED-12",
+    "name": "M. Wieffer",
+    "teamId": "NED",
+    "position": "Defender",
+    "number": 12,
+    "externalId": 92993
+  },
+  {
+    "id": "NED-8",
+    "name": "R. Gravenberch",
+    "teamId": "NED",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 542
+  },
+  {
+    "id": "NED-20",
+    "name": "T. Koopmeiners",
+    "teamId": "NED",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 36899
+  },
+  {
+    "id": "NED-14",
+    "name": "T. Reijnders",
+    "teamId": "NED",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 36902
+  },
+  {
+    "id": "NED-16",
+    "name": "G. Til",
+    "teamId": "NED",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 36905
+  },
+  {
+    "id": "NED-26",
+    "name": "Q. Timber",
+    "teamId": "NED",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 38747
+  },
+  {
+    "id": "NED-21",
+    "name": "F. de Jong",
+    "teamId": "NED",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 538
+  },
+  {
+    "id": "NED-3",
+    "name": "M. de Roon",
+    "teamId": "NED",
+    "position": "Midfielder",
+    "number": 3,
+    "externalId": 30432
+  },
+  {
+    "id": "NED-7",
+    "name": "J. Kluivert",
+    "teamId": "NED",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 792
+  },
+  {
+    "id": "NED-19",
+    "name": "B. Brobbey",
+    "teamId": "NED",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 38750
+  },
+  {
+    "id": "NED-10",
+    "name": "M. Depay",
+    "teamId": "NED",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 667
+  },
+  {
+    "id": "NED-11",
+    "name": "C. Gakpo",
+    "teamId": "NED",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 247
+  },
+  {
+    "id": "NED-17",
+    "name": "N. Lang",
+    "teamId": "NED",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 544
+  },
+  {
+    "id": "NED-18",
+    "name": "D. Malen",
+    "teamId": "NED",
+    "position": "Attacker",
+    "number": 18,
+    "externalId": 249
+  },
+  {
+    "id": "NED-24",
+    "name": "C. Summerville",
+    "teamId": "NED",
+    "position": "Attacker",
+    "number": 24,
+    "externalId": 37724
+  },
+  {
+    "id": "NED-9",
+    "name": "W. Weghorst",
+    "teamId": "NED",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 25416
+  }
+]

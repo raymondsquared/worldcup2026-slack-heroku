@@ -1,0 +1,210 @@
+[
+  {
+    "id": "BRA-1",
+    "name": "Alisson Becker",
+    "teamId": "BRA",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 280
+  },
+  {
+    "id": "BRA-23",
+    "name": "Ederson",
+    "teamId": "BRA",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 617
+  },
+  {
+    "id": "BRA-12",
+    "name": "Weverton",
+    "teamId": "BRA",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 2410
+  },
+  {
+    "id": "BRA-6",
+    "name": "Alex Sandro",
+    "teamId": "BRA",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 860
+  },
+  {
+    "id": "BRA-14",
+    "name": "Bremer",
+    "teamId": "BRA",
+    "position": "Defender",
+    "number": 14,
+    "externalId": 30497
+  },
+  {
+    "id": "BRA-3",
+    "name": "Gabriel Magalhaes",
+    "teamId": "BRA",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 22224
+  },
+  {
+    "id": "BRA-24",
+    "name": "Ibanez",
+    "teamId": "BRA",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 30424
+  },
+  {
+    "id": "BRA-15",
+    "name": "Leo Pereira",
+    "teamId": "BRA",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 10124
+  },
+  {
+    "id": "BRA-4",
+    "name": "Marquinhos",
+    "teamId": "BRA",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 257
+  },
+  {
+    "id": "BRA-16",
+    "name": "Douglas Santos",
+    "teamId": "BRA",
+    "position": "Defender",
+    "number": 16,
+    "externalId": 24866
+  },
+  {
+    "id": "BRA-2",
+    "name": "Ederson Silva",
+    "teamId": "BRA",
+    "position": "Midfielder",
+    "number": 2,
+    "externalId": 10097
+  },
+  {
+    "id": "BRA-13",
+    "name": "Danilo",
+    "teamId": "BRA",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 618
+  },
+  {
+    "id": "BRA-8",
+    "name": "Bruno Guimaraes",
+    "teamId": "BRA",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 10135
+  },
+  {
+    "id": "BRA-5",
+    "name": "Casemiro",
+    "teamId": "BRA",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 747
+  },
+  {
+    "id": "BRA-17",
+    "name": "Fabinho",
+    "teamId": "BRA",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 299
+  },
+  {
+    "id": "BRA-20",
+    "name": "Lucas Paqueta",
+    "teamId": "BRA",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 1646
+  },
+  {
+    "id": "BRA-18",
+    "name": "Danilo Santos",
+    "teamId": "BRA",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 275170
+  },
+  {
+    "id": "BRA-9",
+    "name": "Matheus Cunha",
+    "teamId": "BRA",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 1165
+  },
+  {
+    "id": "BRA-19",
+    "name": "Endrick",
+    "teamId": "BRA",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 377122
+  },
+  {
+    "id": "BRA-21",
+    "name": "Luiz Henrique",
+    "teamId": "BRA",
+    "position": "Attacker",
+    "number": 21,
+    "externalId": 265785
+  },
+  {
+    "id": "BRA-22",
+    "name": "Gabriel Martinelli",
+    "teamId": "BRA",
+    "position": "Attacker",
+    "number": 22,
+    "externalId": 127769
+  },
+  {
+    "id": "BRA-10",
+    "name": "Neymar",
+    "teamId": "BRA",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 276
+  },
+  {
+    "id": "BRA-11",
+    "name": "Raphinha",
+    "teamId": "BRA",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 1496
+  },
+  {
+    "id": "BRA-26",
+    "name": "Rayan",
+    "teamId": "BRA",
+    "position": "Attacker",
+    "number": 26,
+    "externalId": 407806
+  },
+  {
+    "id": "BRA-25",
+    "name": "Thiago",
+    "teamId": "BRA",
+    "position": "Attacker",
+    "number": 25,
+    "externalId": 196156
+  },
+  {
+    "id": "BRA-7",
+    "name": "Vinicius Junior",
+    "teamId": "BRA",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 762
+  }
+]

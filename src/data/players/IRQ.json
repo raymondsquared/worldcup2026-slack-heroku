@@ -1,0 +1,210 @@
+[
+  {
+    "id": "IRQ-22",
+    "name": "Ahmed Basil",
+    "teamId": "IRQ",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 197933
+  },
+  {
+    "id": "IRQ-12",
+    "name": "Jalal Hassan Hachim",
+    "teamId": "IRQ",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 53886
+  },
+  {
+    "id": "IRQ-1",
+    "name": "Fahad Talib",
+    "teamId": "IRQ",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 123802
+  },
+  {
+    "id": "IRQ-3",
+    "name": "Hussein Ali",
+    "teamId": "IRQ",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 145465
+  },
+  {
+    "id": "IRQ-23",
+    "name": "Merchas Doski",
+    "teamId": "IRQ",
+    "position": "Defender",
+    "number": 23,
+    "externalId": 271444
+  },
+  {
+    "id": "IRQ-26",
+    "name": "Frans Putros",
+    "teamId": "IRQ",
+    "position": "Defender",
+    "number": 26,
+    "externalId": 15769
+  },
+  {
+    "id": "IRQ-25",
+    "name": "Mustafa Saadoun",
+    "teamId": "IRQ",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 427187
+  },
+  {
+    "id": "IRQ-2",
+    "name": "Rebin Solaka",
+    "teamId": "IRQ",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 42261
+  },
+  {
+    "id": "IRQ-4",
+    "name": "Zayed Tahseen",
+    "teamId": "IRQ",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 296373
+  },
+  {
+    "id": "IRQ-15",
+    "name": "Ahmed Hasan Al Reeshawee",
+    "teamId": "IRQ",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 292253
+  },
+  {
+    "id": "IRQ-6",
+    "name": "Munaf Younus",
+    "teamId": "IRQ",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 295394
+  },
+  {
+    "id": "IRQ-5",
+    "name": "Akam Rahman",
+    "teamId": "IRQ",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 453073
+  },
+  {
+    "id": "IRQ-16",
+    "name": "Amir Al Ammari",
+    "teamId": "IRQ",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 47792
+  },
+  {
+    "id": "IRQ-7",
+    "name": "Youssef Amyn",
+    "teamId": "IRQ",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 282065
+  },
+  {
+    "id": "IRQ-8",
+    "name": "Ibraheem Bayesh",
+    "teamId": "IRQ",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 140747
+  },
+  {
+    "id": "IRQ-14",
+    "name": "Zidane Iqbal",
+    "teamId": "IRQ",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 284295
+  },
+  {
+    "id": "IRQ-24",
+    "name": "Z. Ismaeel",
+    "teamId": "IRQ",
+    "position": "Midfielder",
+    "number": 24,
+    "externalId": 626479
+  },
+  {
+    "id": "IRQ-20",
+    "name": "A. Sher",
+    "teamId": "IRQ",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 48129
+  },
+  {
+    "id": "IRQ-19",
+    "name": "Kevin Yakob",
+    "teamId": "IRQ",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 48025
+  },
+  {
+    "id": "IRQ-17",
+    "name": "A. Jasim",
+    "teamId": "IRQ",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 542644
+  },
+  {
+    "id": "IRQ-9",
+    "name": "Ali Al Hamadi",
+    "teamId": "IRQ",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 299813
+  },
+  {
+    "id": "IRQ-21",
+    "name": "M. Farji",
+    "teamId": "IRQ",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 265448
+  },
+  {
+    "id": "IRQ-18",
+    "name": "Aymen Hussein",
+    "teamId": "IRQ",
+    "position": "Attacker",
+    "number": 18,
+    "externalId": 49451
+  },
+  {
+    "id": "IRQ-10",
+    "name": "Meme",
+    "teamId": "IRQ",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 53894
+  },
+  {
+    "id": "IRQ-11",
+    "name": "A. Qasem",
+    "teamId": "IRQ",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 229112
+  },
+  {
+    "id": "IRQ-13",
+    "name": "A. Y. Hashim",
+    "teamId": "IRQ",
+    "position": "Attacker",
+    "number": 13,
+    "externalId": 163854
+  }
+]

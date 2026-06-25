@@ -1,0 +1,210 @@
+[
+  {
+    "id": "USA-25",
+    "name": "C. Brady",
+    "teamId": "USA",
+    "position": "Goalkeeper",
+    "number": 25,
+    "externalId": 266606
+  },
+  {
+    "id": "USA-24",
+    "name": "M. Freese",
+    "teamId": "USA",
+    "position": "Goalkeeper",
+    "number": 24,
+    "externalId": 50728
+  },
+  {
+    "id": "USA-1",
+    "name": "M. Turner",
+    "teamId": "USA",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 50999
+  },
+  {
+    "id": "USA-2",
+    "name": "S. Dest",
+    "teamId": "USA",
+    "position": "Midfielder",
+    "number": 2,
+    "externalId": 38735
+  },
+  {
+    "id": "USA-16",
+    "name": "A. Freeman",
+    "teamId": "USA",
+    "position": "Defender",
+    "number": 16,
+    "externalId": 355994
+  },
+  {
+    "id": "USA-22",
+    "name": "M. McKenzie",
+    "teamId": "USA",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 50735
+  },
+  {
+    "id": "USA-13",
+    "name": "T. Ream",
+    "teamId": "USA",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 19023
+  },
+  {
+    "id": "USA-3",
+    "name": "C. Richards",
+    "teamId": "USA",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 126949
+  },
+  {
+    "id": "USA-5",
+    "name": "A. Robinson",
+    "teamId": "USA",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 19549
+  },
+  {
+    "id": "USA-12",
+    "name": "M. Robinson",
+    "teamId": "USA",
+    "position": "Defender",
+    "number": 12,
+    "externalId": 50879
+  },
+  {
+    "id": "USA-23",
+    "name": "J. Scally",
+    "teamId": "USA",
+    "position": "Defender",
+    "number": 23,
+    "externalId": 50852
+  },
+  {
+    "id": "USA-6",
+    "name": "A. Trusty",
+    "teamId": "USA",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 50737
+  },
+  {
+    "id": "USA-18",
+    "name": "M. Arfsten",
+    "teamId": "USA",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 362400
+  },
+  {
+    "id": "USA-14",
+    "name": "S. Berhalter",
+    "teamId": "USA",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 201713
+  },
+  {
+    "id": "USA-8",
+    "name": "W. McKennie",
+    "teamId": "USA",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 415
+  },
+  {
+    "id": "USA-7",
+    "name": "G. Reyna",
+    "teamId": "USA",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 161921
+  },
+  {
+    "id": "USA-15",
+    "name": "C. Roldan",
+    "teamId": "USA",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 51114
+  },
+  {
+    "id": "USA-17",
+    "name": "M. Tillman",
+    "teamId": "USA",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 162037
+  },
+  {
+    "id": "USA-4",
+    "name": "T. Adams",
+    "teamId": "USA",
+    "position": "Midfielder",
+    "number": 4,
+    "externalId": 1150
+  },
+  {
+    "id": "USA-21",
+    "name": "T. Weah",
+    "teamId": "USA",
+    "position": "Attacker",
+    "number": 21,
+    "externalId": 1138
+  },
+  {
+    "id": "USA-26",
+    "name": "A. Zendejas",
+    "teamId": "USA",
+    "position": "Attacker",
+    "number": 26,
+    "externalId": 35885
+  },
+  {
+    "id": "USA-11",
+    "name": "B. Aaronson",
+    "teamId": "USA",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 50739
+  },
+  {
+    "id": "USA-20",
+    "name": "F. Balogun",
+    "teamId": "USA",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 138835
+  },
+  {
+    "id": "USA-9",
+    "name": "R. Pepi",
+    "teamId": "USA",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 73868
+  },
+  {
+    "id": "USA-10",
+    "name": "C. Pulisic",
+    "teamId": "USA",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 17
+  },
+  {
+    "id": "USA-19",
+    "name": "H. Wright",
+    "teamId": "USA",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 427
+  }
+]

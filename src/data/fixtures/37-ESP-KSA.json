@@ -1,0 +1,415 @@
+{
+  "id": 37,
+  "dateAndTimeInUTC": "2026-06-21T16:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489397,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "ESP",
+    "homeTeamExternalId": 9,
+    "awayTeamId": "KSA",
+    "awayTeamExternalId": 23
+  },
+  "finalScore": {
+    "home": 4,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 3,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 4,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 10,
+      "extraMinute": null,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 386828,
+      "playerName": "Lamine Yamal",
+      "assistPlayerExternalId": 47323,
+      "assistPlayerName": "Mikel Oyarzabal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 21,
+      "extraMinute": null,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 47323,
+      "playerName": "Mikel Oyarzabal",
+      "assistPlayerExternalId": 622,
+      "assistPlayerName": "Aymeric Laporte",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 24,
+      "extraMinute": null,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 47323,
+      "playerName": "Mikel Oyarzabal",
+      "assistPlayerExternalId": 1323,
+      "assistPlayerName": "Dani Olmo",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 30,
+      "extraMinute": null,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 44340,
+      "playerName": "Salem Al Dawsari",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 47323,
+      "playerName": "Mikel Oyarzabal",
+      "assistPlayerExternalId": 931,
+      "assistPlayerName": "Ferran Torres",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 386828,
+      "playerName": "Lamine Yamal",
+      "assistPlayerExternalId": 184226,
+      "assistPlayerName": "Yeremy Pino",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 44315,
+      "playerName": "Abdullah Al Khaibari",
+      "assistPlayerExternalId": 44349,
+      "assistPlayerName": "Mohamed Kanno",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 306380,
+      "playerName": "Musab Al Juwayr",
+      "assistPlayerExternalId": 44382,
+      "assistPlayerName": "Abdullah Al Hamdan",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 49,
+      "extraMinute": null,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 44362,
+      "playerName": "Hassan Tambakti",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Own Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 44349,
+      "playerName": "Mohamed Kanno",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 44475,
+      "playerName": "Abdulelah Al Amri",
+      "assistPlayerExternalId": 593759,
+      "assistPlayerName": "Ala Al Haji",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 44324,
+      "playerName": "Feras Al Brikan",
+      "assistPlayerExternalId": 403087,
+      "assistPlayerName": "Mohammed Abu Al Shamat",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 1323,
+      "playerName": "Dani Olmo",
+      "assistPlayerExternalId": 47311,
+      "assistPlayerName": "Mikel Merino",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 182219,
+      "playerName": "Alex Baena",
+      "assistPlayerExternalId": 183799,
+      "assistPlayerName": "Nico Williams",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 70,
+      "extraMinute": null,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 133609,
+      "playerName": "Pedri",
+      "assistPlayerExternalId": 328,
+      "assistPlayerName": "Fabian Ruiz",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Var",
+      "minute": 90,
+      "extraMinute": 5,
+      "teamId": "ESP",
+      "teamExternalId": 9,
+      "playerExternalId": 931,
+      "playerName": "Ferran Torres",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Goal cancelled",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "KSA",
+      "teamExternalId": 23,
+      "playerExternalId": 44339,
+      "playerName": "Nasser Al Dawsari",
+      "assistPlayerExternalId": 44701,
+      "assistPlayerName": "Khalid Al Ghannam",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "ESP",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 8
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 12
+        },
+        {
+          "type": "Total Shots",
+          "value": 22
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 13
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 9
+        },
+        {
+          "type": "Fouls",
+          "value": 10
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 6
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "67%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 726
+        },
+        {
+          "type": "Passes accurate",
+          "value": 668
+        },
+        {
+          "type": "Passes %",
+          "value": "92%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "2.30"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.55"
+        }
+      ]
+    },
+    {
+      "teamId": "KSA",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 1
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 1
+        },
+        {
+          "type": "Total Shots",
+          "value": 3
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 0
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 2
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 1
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "33%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 5
+        },
+        {
+          "type": "Total passes",
+          "value": 364
+        },
+        {
+          "type": "Passes accurate",
+          "value": 294
+        },
+        {
+          "type": "Passes %",
+          "value": "81%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.14"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.55"
+        }
+      ]
+    }
+  ],
+  "group": "Group H"
+}

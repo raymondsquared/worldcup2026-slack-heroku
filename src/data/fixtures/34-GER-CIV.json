@@ -1,0 +1,363 @@
+{
+  "id": 34,
+  "dateAndTimeInUTC": "2026-06-20T20:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489393,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "GER",
+    "homeTeamExternalId": 25,
+    "awayTeamId": "CIV",
+    "awayTeamExternalId": 1501
+  },
+  "finalScore": {
+    "home": 2,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 2,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 30,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 1642,
+      "playerName": "F. Kessie",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 26243,
+      "playerName": "N. Schlotterbeck",
+      "assistPlayerExternalId": 2285,
+      "assistPlayerName": "A. Rudiger",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 328033,
+      "playerName": "A. Pavlovic",
+      "assistPlayerExternalId": 714,
+      "assistPlayerName": "N. Amiri",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 644,
+      "playerName": "L. Sane",
+      "assistPlayerExternalId": 128533,
+      "assistPlayerName": "J. Leweling",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 181812,
+      "playerName": "J. Musiala",
+      "assistPlayerExternalId": 26475,
+      "assistPlayerName": "D. Undav",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 68,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 26475,
+      "playerName": "D. Undav",
+      "assistPlayerExternalId": 714,
+      "assistPlayerName": "N. Amiri",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 22149,
+      "playerName": "I. Sangare",
+      "assistPlayerExternalId": 30807,
+      "assistPlayerName": "S. Fofana",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 275651,
+      "playerName": "A. Bonny",
+      "assistPlayerExternalId": 137303,
+      "assistPlayerName": "E. Guessand",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 75,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 157997,
+      "playerName": "A. Diallo",
+      "assistPlayerExternalId": 301771,
+      "assistPlayerName": "S. Adingra",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 82,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 30504,
+      "playerName": "W. Singo",
+      "assistPlayerExternalId": 161747,
+      "assistPlayerName": "G. Doue",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 85,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 978,
+      "playerName": "K. Havertz",
+      "assistPlayerExternalId": 511,
+      "assistPlayerName": "L. Goretzka",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 85,
+      "extraMinute": null,
+      "teamId": "CIV",
+      "teamExternalId": 1501,
+      "playerExternalId": 513776,
+      "playerName": "Y. Diomande",
+      "assistPlayerExternalId": 3246,
+      "assistPlayerName": "N. Pepe",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "GER",
+      "teamExternalId": 25,
+      "playerExternalId": 26475,
+      "playerName": "D. Undav",
+      "assistPlayerExternalId": 637,
+      "assistPlayerName": "F. Nmecha",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "GER",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 7
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 16
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 4
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 9
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 7
+        },
+        {
+          "type": "Fouls",
+          "value": 5
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 8
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "60%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 624
+        },
+        {
+          "type": "Passes accurate",
+          "value": 555
+        },
+        {
+          "type": "Passes %",
+          "value": "89%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.89"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.36"
+        }
+      ]
+    },
+    {
+      "teamId": "CIV",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 2
+        },
+        {
+          "type": "Total Shots",
+          "value": 9
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 5
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 6
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 7
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 3
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "40%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": null
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 5
+        },
+        {
+          "type": "Total passes",
+          "value": 431
+        },
+        {
+          "type": "Passes accurate",
+          "value": 367
+        },
+        {
+          "type": "Passes %",
+          "value": "85%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.22"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.36"
+        }
+      ]
+    }
+  ],
+  "group": "Group E"
+}

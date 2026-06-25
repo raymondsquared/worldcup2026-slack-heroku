@@ -1,0 +1,210 @@
+[
+  {
+    "id": "SEN-23",
+    "name": "M. Diaw",
+    "teamId": "SEN",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 119853
+  },
+  {
+    "id": "SEN-1",
+    "name": "Y. Diouf",
+    "teamId": "SEN",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 20566
+  },
+  {
+    "id": "SEN-16",
+    "name": "E. Mendy",
+    "teamId": "SEN",
+    "position": "Goalkeeper",
+    "number": 16,
+    "externalId": 2986
+  },
+  {
+    "id": "SEN-25",
+    "name": "E. Diouf",
+    "teamId": "SEN",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 409303
+  },
+  {
+    "id": "SEN-14",
+    "name": "I. Jakobs",
+    "teamId": "SEN",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 158121
+  },
+  {
+    "id": "SEN-3",
+    "name": "K. Koulibaly",
+    "teamId": "SEN",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 318
+  },
+  {
+    "id": "SEN-24",
+    "name": "A. Mendy",
+    "teamId": "SEN",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 313937
+  },
+  {
+    "id": "SEN-19",
+    "name": "M. Niakhate",
+    "teamId": "SEN",
+    "position": "Defender",
+    "number": 19,
+    "externalId": 25916
+  },
+  {
+    "id": "SEN-2",
+    "name": "M. Sarr",
+    "teamId": "SEN",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 276184
+  },
+  {
+    "id": "SEN-4",
+    "name": "A. Seck",
+    "teamId": "SEN",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 8450
+  },
+  {
+    "id": "SEN-15",
+    "name": "K. Diatta",
+    "teamId": "SEN",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 81
+  },
+  {
+    "id": "SEN-8",
+    "name": "L. Camara",
+    "teamId": "SEN",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 374058
+  },
+  {
+    "id": "SEN-6",
+    "name": "P. Ciss",
+    "teamId": "SEN",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 41552
+  },
+  {
+    "id": "SEN-21",
+    "name": "H. Diarra",
+    "teamId": "SEN",
+    "position": "Attacker",
+    "number": 21,
+    "externalId": 327631
+  },
+  {
+    "id": "SEN-5",
+    "name": "I. Gueye",
+    "teamId": "SEN",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 2990
+  },
+  {
+    "id": "SEN-26",
+    "name": "P. Gueye",
+    "teamId": "SEN",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 20696
+  },
+  {
+    "id": "SEN-22",
+    "name": "Bara Ndiaye",
+    "teamId": "SEN",
+    "position": "Midfielder",
+    "number": 22,
+    "externalId": 630895
+  },
+  {
+    "id": "SEN-17",
+    "name": "P. Sarr",
+    "teamId": "SEN",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 237129
+  },
+  {
+    "id": "SEN-7",
+    "name": "Assane Diao",
+    "teamId": "SEN",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 400948
+  },
+  {
+    "id": "SEN-9",
+    "name": "B. Dieng",
+    "teamId": "SEN",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 284072
+  },
+  {
+    "id": "SEN-11",
+    "name": "N. Jackson",
+    "teamId": "SEN",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 283058
+  },
+  {
+    "id": "SEN-10",
+    "name": "S. Mane",
+    "teamId": "SEN",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 304
+  },
+  {
+    "id": "SEN-20",
+    "name": "I. Mbaye",
+    "teamId": "SEN",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 446249
+  },
+  {
+    "id": "SEN-12",
+    "name": "C. Ndiaye",
+    "teamId": "SEN",
+    "position": "Attacker",
+    "number": 12,
+    "externalId": 14379
+  },
+  {
+    "id": "SEN-13",
+    "name": "I. Ndiaye",
+    "teamId": "SEN",
+    "position": "Midfielder",
+    "number": 13,
+    "externalId": 18592
+  },
+  {
+    "id": "SEN-18",
+    "name": "I. Sarr",
+    "teamId": "SEN",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 2218
+  }
+]

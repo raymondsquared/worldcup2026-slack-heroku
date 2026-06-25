@@ -1,0 +1,210 @@
+[
+  {
+    "id": "BIH-12",
+    "name": "M. Jurkas",
+    "teamId": "BIH",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 446130
+  },
+  {
+    "id": "BIH-1",
+    "name": "N. Vasilj",
+    "teamId": "BIH",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 9026
+  },
+  {
+    "id": "BIH-22",
+    "name": "M. Zlomislic",
+    "teamId": "BIH",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 108370
+  },
+  {
+    "id": "BIH-24",
+    "name": "A. Malic",
+    "teamId": "BIH",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 409670
+  },
+  {
+    "id": "BIH-7",
+    "name": "A. Dedic",
+    "teamId": "BIH",
+    "position": "Defender",
+    "number": 7,
+    "externalId": 7318
+  },
+  {
+    "id": "BIH-3",
+    "name": "D. Hadzikadunic",
+    "teamId": "BIH",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 53517
+  },
+  {
+    "id": "BIH-18",
+    "name": "N. Katic",
+    "teamId": "BIH",
+    "position": "Defender",
+    "number": 18,
+    "externalId": 1741
+  },
+  {
+    "id": "BIH-5",
+    "name": "S. Kolasinac",
+    "teamId": "BIH",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 1442
+  },
+  {
+    "id": "BIH-4",
+    "name": "T. Muharemovic",
+    "teamId": "BIH",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 271350
+  },
+  {
+    "id": "BIH-2",
+    "name": "N. Mujakic",
+    "teamId": "BIH",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 76867
+  },
+  {
+    "id": "BIH-21",
+    "name": "S. Radeljic",
+    "teamId": "BIH",
+    "position": "Defender",
+    "number": 21,
+    "externalId": 14301
+  },
+  {
+    "id": "BIH-13",
+    "name": "I. Basic",
+    "teamId": "BIH",
+    "position": "Midfielder",
+    "number": 13,
+    "externalId": 162222
+  },
+  {
+    "id": "BIH-8",
+    "name": "A. Gigovic",
+    "teamId": "BIH",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 70514
+  },
+  {
+    "id": "BIH-16",
+    "name": "A. Hadziahmetovic",
+    "teamId": "BIH",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 50006
+  },
+  {
+    "id": "BIH-26",
+    "name": "Ermin Mahmic",
+    "teamId": "BIH",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 340173
+  },
+  {
+    "id": "BIH-14",
+    "name": "I. Sunjic",
+    "teamId": "BIH",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 1324
+  },
+  {
+    "id": "BIH-6",
+    "name": "B. Tahirovic",
+    "teamId": "BIH",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 264094
+  },
+  {
+    "id": "BIH-15",
+    "name": "A. Memic",
+    "teamId": "BIH",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 322101
+  },
+  {
+    "id": "BIH-17",
+    "name": "D. Burnic",
+    "teamId": "BIH",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 25129
+  },
+  {
+    "id": "BIH-19",
+    "name": "Kerim-Sam Alajbegovic",
+    "teamId": "BIH",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 395559
+  },
+  {
+    "id": "BIH-20",
+    "name": "E. Bajraktarevic",
+    "teamId": "BIH",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 329409
+  },
+  {
+    "id": "BIH-9",
+    "name": "S. Bazdar",
+    "teamId": "BIH",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 314377
+  },
+  {
+    "id": "BIH-10",
+    "name": "E. Demirovic",
+    "teamId": "BIH",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 46930
+  },
+  {
+    "id": "BIH-11",
+    "name": "E. Dzeko",
+    "teamId": "BIH",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 790
+  },
+  {
+    "id": "BIH-25",
+    "name": "J. Lukic",
+    "teamId": "BIH",
+    "position": "Attacker",
+    "number": 25,
+    "externalId": 77037
+  },
+  {
+    "id": "BIH-23",
+    "name": "H. Tabakovic",
+    "teamId": "BIH",
+    "position": "Attacker",
+    "number": 23,
+    "externalId": 28382
+  }
+]

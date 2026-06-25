@@ -1,0 +1,415 @@
+{
+  "id": 3,
+  "dateAndTimeInUTC": "2026-06-12T19:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1539000,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "CAN",
+    "homeTeamExternalId": 5529,
+    "awayTeamId": "BIH",
+    "awayTeamExternalId": 1113
+  },
+  "finalScore": {
+    "home": 1,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 1,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 11,
+      "extraMinute": null,
+      "teamId": "CAN",
+      "teamExternalId": 5529,
+      "playerExternalId": 78547,
+      "playerName": "A. Johnston",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 21,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 77037,
+      "playerName": "J. Lukic",
+      "assistPlayerExternalId": 1442,
+      "assistPlayerName": "S. Kolasinac",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 45,
+      "extraMinute": 1,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 77037,
+      "playerName": "J. Lukic",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 45,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 46930,
+      "playerName": "E. Demirovic",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 53,
+      "extraMinute": null,
+      "teamId": "CAN",
+      "teamExternalId": 5529,
+      "playerExternalId": 327738,
+      "playerName": "L. De Fougerolles",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "CAN",
+      "teamExternalId": 5529,
+      "playerExternalId": 44798,
+      "playerName": "L. Millar",
+      "assistPlayerExternalId": 50826,
+      "assistPlayerName": "J. Shaffelburg",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "CAN",
+      "teamExternalId": 5529,
+      "playerExternalId": 8489,
+      "playerName": "J. David",
+      "assistPlayerExternalId": 313353,
+      "assistPlayerName": "P. David",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "CAN",
+      "teamExternalId": 5529,
+      "playerExternalId": 51016,
+      "playerName": "T. Buchanan",
+      "assistPlayerExternalId": 362145,
+      "assistPlayerName": "A. Ahmed",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 62,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 162222,
+      "playerName": "I. Basic",
+      "assistPlayerExternalId": 70514,
+      "assistPlayerName": "A. Gigovic",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 62,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 77037,
+      "playerName": "J. Lukic",
+      "assistPlayerExternalId": 314377,
+      "assistPlayerName": "S. Bazdar",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 74,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 329409,
+      "playerName": "E. Bajraktarevic",
+      "assistPlayerExternalId": 1324,
+      "assistPlayerName": "I. Sunjic",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 74,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 322101,
+      "playerName": "A. Memic",
+      "assistPlayerExternalId": 395559,
+      "assistPlayerName": "Kerim-Sam Alajbegovic",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "CAN",
+      "teamExternalId": 5529,
+      "playerExternalId": 351587,
+      "playerName": "T. Oluwaseyi",
+      "assistPlayerExternalId": 2001,
+      "assistPlayerName": "C. Larin",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 78,
+      "extraMinute": null,
+      "teamId": "CAN",
+      "teamExternalId": 5529,
+      "playerExternalId": 2001,
+      "playerName": "C. Larin",
+      "assistPlayerExternalId": 313353,
+      "assistPlayerName": "P. David",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 1442,
+      "playerName": "S. Kolasinac",
+      "assistPlayerExternalId": 25129,
+      "assistPlayerName": "D. Burnic",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "BIH",
+      "teamExternalId": 1113,
+      "playerExternalId": 1741,
+      "playerName": "N. Katic",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 1,
+      "teamId": "CAN",
+      "teamExternalId": 5529,
+      "playerExternalId": 35570,
+      "playerName": "S. Eustaquio",
+      "assistPlayerExternalId": 50817,
+      "assistPlayerName": "J. Osorio",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "CAN",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 13
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 4
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 10
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 10
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 9
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "61%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 421
+        },
+        {
+          "type": "Passes accurate",
+          "value": 310
+        },
+        {
+          "type": "Passes %",
+          "value": "74%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.23"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.25"
+        }
+      ]
+    },
+    {
+      "teamId": "BIH",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 3
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 8
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 1
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 5
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 20
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "39%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 3
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 271
+        },
+        {
+          "type": "Passes accurate",
+          "value": 172
+        },
+        {
+          "type": "Passes %",
+          "value": "63%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.96"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.25"
+        }
+      ]
+    }
+  ],
+  "group": "Group B"
+}

@@ -1,0 +1,389 @@
+{
+  "id": 32,
+  "dateAndTimeInUTC": "2026-06-20T03:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1539006,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "TUR",
+    "homeTeamExternalId": 777,
+    "awayTeamId": "PAR",
+    "awayTeamExternalId": 2380
+  },
+  "finalScore": {
+    "home": 0,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 0,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 2,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 305832,
+      "playerName": "M. Galarza",
+      "assistPlayerExternalId": 70747,
+      "assistPlayerName": "J. Enciso",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 4,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 305832,
+      "playerName": "M. Galarza",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 45,
+      "extraMinute": 3,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 2507,
+      "playerName": "M. Almiron",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Red Card",
+      "comments": "Argument"
+    },
+    {
+      "type": "Var",
+      "minute": 45,
+      "extraMinute": 2,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 2507,
+      "playerName": "M. Almiron",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Card reviewed",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "TUR",
+      "teamExternalId": 777,
+      "playerExternalId": 142959,
+      "playerName": "K. Akturkoglu",
+      "assistPlayerExternalId": 63274,
+      "assistPlayerName": "B. Yilmaz",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 70670,
+      "playerName": "I. Pitta",
+      "assistPlayerExternalId": 195107,
+      "assistPlayerName": "D. Bobadilla",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "TUR",
+      "teamExternalId": 777,
+      "playerExternalId": 454,
+      "playerName": "Y. Akgun",
+      "assistPlayerExternalId": 388570,
+      "assistPlayerName": "D. Gul",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "TUR",
+      "teamExternalId": 777,
+      "playerExternalId": 214463,
+      "playerName": "I. Yuksek",
+      "assistPlayerExternalId": 339887,
+      "assistPlayerName": "C. Uzun",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 67,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 278370,
+      "playerName": "D. Gomez",
+      "assistPlayerExternalId": 35808,
+      "assistPlayerName": "G. Velazquez",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 70,
+      "extraMinute": null,
+      "teamId": "TUR",
+      "teamExternalId": 777,
+      "playerExternalId": 1361,
+      "playerName": "F. Kadioglu",
+      "assistPlayerExternalId": 50057,
+      "assistPlayerName": "E. Elmali",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "TUR",
+      "teamExternalId": 777,
+      "playerExternalId": 50057,
+      "playerName": "E. Elmali",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 195992,
+      "playerName": "J. Caceres",
+      "assistPlayerExternalId": 425020,
+      "assistPlayerName": "A. Maidana",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 86,
+      "extraMinute": null,
+      "teamId": "TUR",
+      "teamExternalId": 777,
+      "playerExternalId": 61837,
+      "playerName": "A. Bardakci",
+      "assistPlayerExternalId": 37155,
+      "assistPlayerName": "O. Kokcu",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 2,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 70747,
+      "playerName": "J. Enciso",
+      "assistPlayerExternalId": 6483,
+      "assistPlayerName": "G. Avalos",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 2,
+      "teamId": "PAR",
+      "teamExternalId": 2380,
+      "playerExternalId": 305832,
+      "playerName": "M. Galarza",
+      "assistPlayerExternalId": 70732,
+      "assistPlayerName": "J. Canale",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "TUR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 5
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 15
+        },
+        {
+          "type": "Total Shots",
+          "value": 32
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 12
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 16
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 16
+        },
+        {
+          "type": "Fouls",
+          "value": 14
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 12
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "79%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": 0
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 629
+        },
+        {
+          "type": "Passes accurate",
+          "value": 559
+        },
+        {
+          "type": "Passes %",
+          "value": "89%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "2.17"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.67"
+        }
+      ]
+    },
+    {
+      "teamId": "PAR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 7
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 3
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 15
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 0
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "21%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": 1
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 5
+        },
+        {
+          "type": "Total passes",
+          "value": 178
+        },
+        {
+          "type": "Passes accurate",
+          "value": 96
+        },
+        {
+          "type": "Passes %",
+          "value": "54%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.32"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.67"
+        }
+      ]
+    }
+  ],
+  "group": "Group D"
+}

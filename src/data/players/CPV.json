@@ -1,0 +1,210 @@
+[
+  {
+    "id": "CPV-12",
+    "name": "Marcio Rosa",
+    "teamId": "CPV",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 41764
+  },
+  {
+    "id": "CPV-1",
+    "name": "Vozinha",
+    "teamId": "CPV",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 15304
+  },
+  {
+    "id": "CPV-23",
+    "name": "C. dos Santos",
+    "teamId": "CPV",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 163200
+  },
+  {
+    "id": "CPV-3",
+    "name": "Diney Borges",
+    "teamId": "CPV",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 41608
+  },
+  {
+    "id": "CPV-5",
+    "name": "Logan Costa",
+    "teamId": "CPV",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 21997
+  },
+  {
+    "id": "CPV-13",
+    "name": "S. Lopes Cabral",
+    "teamId": "CPV",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 308689
+  },
+  {
+    "id": "CPV-4",
+    "name": "Pico",
+    "teamId": "CPV",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 69260
+  },
+  {
+    "id": "CPV-22",
+    "name": "S. Moreira",
+    "teamId": "CPV",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 22139
+  },
+  {
+    "id": "CPV-24",
+    "name": "Wagner Pina",
+    "teamId": "CPV",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 332056
+  },
+  {
+    "id": "CPV-25",
+    "name": "Kelvin Pires",
+    "teamId": "CPV",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 268806
+  },
+  {
+    "id": "CPV-2",
+    "name": "Stopira",
+    "teamId": "CPV",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 2331
+  },
+  {
+    "id": "CPV-18",
+    "name": "Telmo Arcanjo",
+    "teamId": "CPV",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 265556
+  },
+  {
+    "id": "CPV-14",
+    "name": "Deroy Duarte",
+    "teamId": "CPV",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 37435
+  },
+  {
+    "id": "CPV-15",
+    "name": "L. Duarte",
+    "teamId": "CPV",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 37436
+  },
+  {
+    "id": "CPV-8",
+    "name": "Joao Paulo",
+    "teamId": "CPV",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 142016
+  },
+  {
+    "id": "CPV-6",
+    "name": "Kevin Pina",
+    "teamId": "CPV",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 96512
+  },
+  {
+    "id": "CPV-10",
+    "name": "Jamiro Monteiro",
+    "teamId": "CPV",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 50745
+  },
+  {
+    "id": "CPV-16",
+    "name": "Yannick Semedo",
+    "teamId": "CPV",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 128007
+  },
+  {
+    "id": "CPV-11",
+    "name": "Garry Rodrigues",
+    "teamId": "CPV",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 44612
+  },
+  {
+    "id": "CPV-21",
+    "name": "Nuno da Costa",
+    "teamId": "CPV",
+    "position": "Attacker",
+    "number": 21,
+    "externalId": 22265
+  },
+  {
+    "id": "CPV-7",
+    "name": "Jovane Cabral",
+    "teamId": "CPV",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 1494
+  },
+  {
+    "id": "CPV-17",
+    "name": "Willy Semedo",
+    "teamId": "CPV",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 113580
+  },
+  {
+    "id": "CPV-26",
+    "name": "Helio Varela",
+    "teamId": "CPV",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 291024
+  },
+  {
+    "id": "CPV-20",
+    "name": "Ryan Mendes",
+    "teamId": "CPV",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 50270
+  },
+  {
+    "id": "CPV-9",
+    "name": "Gilson Benchimol",
+    "teamId": "CPV",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 309182
+  },
+  {
+    "id": "CPV-19",
+    "name": "D. Livramento",
+    "teamId": "CPV",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 343287
+  }
+]

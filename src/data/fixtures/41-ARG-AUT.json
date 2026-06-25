@@ -1,0 +1,428 @@
+{
+  "id": 41,
+  "dateAndTimeInUTC": "2026-06-22T17:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489399,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "ARG",
+    "homeTeamExternalId": 26,
+    "awayTeamId": "AUT",
+    "awayTeamExternalId": 775
+  },
+  "finalScore": {
+    "home": 2,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 1,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 2,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Var",
+      "minute": 7,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 217,
+      "playerName": "Lautaro Martinez",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Penalty confirmed",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 9,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 154,
+      "playerName": "L. Messi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Missed Penalty",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 38,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 154,
+      "playerName": "L. Messi",
+      "assistPlayerExternalId": 6231,
+      "assistPlayerName": "F. Medina",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 40,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 711,
+      "playerName": "S. Posch",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "type": "subst",
+      "minute": 57,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 30776,
+      "playerName": "C. Romero",
+      "assistPlayerExternalId": 624,
+      "assistPlayerName": "N. Otamendi",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 6067,
+      "playerName": "T. Almada",
+      "assistPlayerExternalId": 6009,
+      "assistPlayerName": "J. Alvarez",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 217,
+      "playerName": "Lautaro Martinez",
+      "assistPlayerExternalId": 26315,
+      "assistPlayerName": "N. Gonzalez",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 67,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 505,
+      "playerName": "D. Alaba",
+      "assistPlayerExternalId": 25314,
+      "assistPlayerName": "M. Friedl",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 68,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 327895,
+      "playerName": "P. Wanner",
+      "assistPlayerExternalId": 18830,
+      "assistPlayerName": "M. Arnautovic",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 68,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 711,
+      "playerName": "S. Posch",
+      "assistPlayerExternalId": 7327,
+      "assistPlayerName": "A. Prass",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 6231,
+      "playerName": "F. Medina",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "type": "Card",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 1157,
+      "playerName": "K. Laimer",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "type": "subst",
+      "minute": 78,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 7562,
+      "playerName": "R. Schmid",
+      "assistPlayerExternalId": 126642,
+      "assistPlayerName": "P. Wimmer",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 82,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 2472,
+      "playerName": "R. De Paul",
+      "assistPlayerExternalId": 271,
+      "assistPlayerName": "L. Paredes",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 82,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 6231,
+      "playerName": "F. Medina",
+      "assistPlayerExternalId": 529,
+      "assistPlayerName": "N. Tagliafico",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 85,
+      "extraMinute": null,
+      "teamId": "AUT",
+      "teamExternalId": 775,
+      "playerExternalId": 25297,
+      "playerName": "M. Gregoritsch",
+      "assistPlayerExternalId": 138935,
+      "assistPlayerName": "C. Chukwuemeka",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 2,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 271,
+      "playerName": "L. Paredes",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "ARG",
+      "teamExternalId": 26,
+      "playerExternalId": 154,
+      "playerName": "L. Messi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "ARG",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 5
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 12
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 10
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 13
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 1
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "54%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 554
+        },
+        {
+          "type": "Passes accurate",
+          "value": 494
+        },
+        {
+          "type": "Passes %",
+          "value": "89%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "2.36"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.49"
+        }
+      ]
+    },
+    {
+      "teamId": "AUT",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 1
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 6
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 0
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 2
+        },
+        {
+          "type": "Fouls",
+          "value": 13
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 3
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "46%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 468
+        },
+        {
+          "type": "Passes accurate",
+          "value": 401
+        },
+        {
+          "type": "Passes %",
+          "value": "86%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.53"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.49"
+        }
+      ]
+    }
+  ],
+  "group": "Group J"
+}

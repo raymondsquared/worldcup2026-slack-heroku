@@ -1,0 +1,210 @@
+[
+  {
+    "id": "SUI-21",
+    "name": "M. Keller",
+    "teamId": "SUI",
+    "position": "Goalkeeper",
+    "number": 21,
+    "externalId": 123468
+  },
+  {
+    "id": "SUI-1",
+    "name": "G. Kobel",
+    "teamId": "SUI",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 25282
+  },
+  {
+    "id": "SUI-12",
+    "name": "Y. Mvogo",
+    "teamId": "SUI",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 1142
+  },
+  {
+    "id": "SUI-5",
+    "name": "M. Akanji",
+    "teamId": "SUI",
+    "position": "Defender",
+    "number": 5,
+    "externalId": 5
+  },
+  {
+    "id": "SUI-24",
+    "name": "A. Amenda",
+    "teamId": "SUI",
+    "position": "Defender",
+    "number": 24,
+    "externalId": 162414
+  },
+  {
+    "id": "SUI-18",
+    "name": "E. Comert",
+    "teamId": "SUI",
+    "position": "Defender",
+    "number": 18,
+    "externalId": 48372
+  },
+  {
+    "id": "SUI-4",
+    "name": "N. Elvedi",
+    "teamId": "SUI",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 2803
+  },
+  {
+    "id": "SUI-25",
+    "name": "L. Jaquez",
+    "teamId": "SUI",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 349344
+  },
+  {
+    "id": "SUI-2",
+    "name": "M. Muheim",
+    "teamId": "SUI",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 48489
+  },
+  {
+    "id": "SUI-13",
+    "name": "R. Rodriguez",
+    "teamId": "SUI",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 1631
+  },
+  {
+    "id": "SUI-3",
+    "name": "S. Widmer",
+    "teamId": "SUI",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 48378
+  },
+  {
+    "id": "SUI-20",
+    "name": "M. Aebischer",
+    "teamId": "SUI",
+    "position": "Midfielder",
+    "number": 20,
+    "externalId": 951
+  },
+  {
+    "id": "SUI-8",
+    "name": "R. Freuler",
+    "teamId": "SUI",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 2807
+  },
+  {
+    "id": "SUI-14",
+    "name": "A. Jashari",
+    "teamId": "SUI",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 264705
+  },
+  {
+    "id": "SUI-15",
+    "name": "D. Sow",
+    "teamId": "SUI",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 957
+  },
+  {
+    "id": "SUI-10",
+    "name": "G. Xhaka",
+    "teamId": "SUI",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 1464
+  },
+  {
+    "id": "SUI-6",
+    "name": "D. Zakaria",
+    "teamId": "SUI",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 2810
+  },
+  {
+    "id": "SUI-16",
+    "name": "C. Fassnacht",
+    "teamId": "SUI",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 952
+  },
+  {
+    "id": "SUI-26",
+    "name": "C. Itten",
+    "teamId": "SUI",
+    "position": "Attacker",
+    "number": 26,
+    "externalId": 48497
+  },
+  {
+    "id": "SUI-22",
+    "name": "F. Rieder",
+    "teamId": "SUI",
+    "position": "Midfielder",
+    "number": 22,
+    "externalId": 163032
+  },
+  {
+    "id": "SUI-17",
+    "name": "R. Vargas",
+    "teamId": "SUI",
+    "position": "Attacker",
+    "number": 17,
+    "externalId": 48471
+  },
+  {
+    "id": "SUI-23",
+    "name": "Z. Amdouni",
+    "teamId": "SUI",
+    "position": "Attacker",
+    "number": 23,
+    "externalId": 123469
+  },
+  {
+    "id": "SUI-7",
+    "name": "B. Embolo",
+    "teamId": "SUI",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 421
+  },
+  {
+    "id": "SUI-9",
+    "name": "J. Manzambi",
+    "teamId": "SUI",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 406244
+  },
+  {
+    "id": "SUI-19",
+    "name": "N. Okafor",
+    "teamId": "SUI",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 48389
+  },
+  {
+    "id": "SUI-11",
+    "name": "D. Ndoye",
+    "teamId": "SUI",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 48648
+  }
+]

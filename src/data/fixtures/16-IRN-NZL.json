@@ -1,0 +1,376 @@
+{
+  "id": 16,
+  "dateAndTimeInUTC": "2026-06-16T01:00:00+00:00",
+  "stage": "Group Stage - 1",
+  "externalId": 1489378,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "IRN",
+    "homeTeamExternalId": 22,
+    "awayTeamId": "NZL",
+    "awayTeamExternalId": 4673
+  },
+  "finalScore": {
+    "home": 2,
+    "away": 2
+  },
+  "score": {
+    "halftime": {
+      "home": 1,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 2,
+      "away": 2
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 7,
+      "extraMinute": null,
+      "teamId": "NZL",
+      "teamExternalId": 4673,
+      "playerExternalId": 94333,
+      "playerName": "E. Just",
+      "assistPlayerExternalId": 18931,
+      "assistPlayerName": "C. Wood",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 32,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 2691,
+      "playerName": "R. Rezaeian",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 343405,
+      "playerName": "A. Yousefi",
+      "assistPlayerExternalId": 29781,
+      "assistPlayerName": "M. Ghaedi",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 53,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 89982,
+      "playerName": "S. Moghanlou",
+      "assistPlayerExternalId": 29720,
+      "assistPlayerName": "A. Alipour",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 54,
+      "extraMinute": null,
+      "teamId": "NZL",
+      "teamExternalId": 4673,
+      "playerExternalId": 94333,
+      "playerName": "E. Just",
+      "assistPlayerExternalId": 18931,
+      "assistPlayerName": "C. Wood",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 134217,
+      "playerName": "M. Mohebi",
+      "assistPlayerExternalId": 2691,
+      "assistPlayerName": "R. Rezaeian",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 2699,
+      "playerName": "S. Ghoddos",
+      "assistPlayerExternalId": 2685,
+      "assistPlayerName": "E. Hajisafi",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 68,
+      "extraMinute": null,
+      "teamId": "NZL",
+      "teamExternalId": 4673,
+      "playerExternalId": 94322,
+      "playerName": "C. McCowatt",
+      "assistPlayerExternalId": 242,
+      "assistPlayerName": "R. Thomas",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 68,
+      "extraMinute": null,
+      "teamId": "NZL",
+      "teamExternalId": 4673,
+      "playerExternalId": 6931,
+      "playerName": "L. Cacace",
+      "assistPlayerExternalId": 179856,
+      "assistPlayerName": "B. Old",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 78,
+      "extraMinute": null,
+      "teamId": "NZL",
+      "teamExternalId": 4673,
+      "playerExternalId": 94346,
+      "playerName": "T. Payne",
+      "assistPlayerExternalId": 6932,
+      "assistPlayerName": "C. Elliot",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 42315,
+      "playerName": "M. Taremi",
+      "assistPlayerExternalId": 29937,
+      "assistPlayerName": "A. Hosseinzadeh",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "IRN",
+      "teamExternalId": 22,
+      "playerExternalId": 2685,
+      "playerName": "E. Hajisafi",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 2,
+      "teamId": "NZL",
+      "teamExternalId": 4673,
+      "playerExternalId": 6935,
+      "playerName": "S. Singh",
+      "assistPlayerExternalId": 158688,
+      "assistPlayerName": "J. Randall",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": 2,
+      "teamId": "NZL",
+      "teamExternalId": 4673,
+      "playerExternalId": 179862,
+      "playerName": "M. Stamenic",
+      "assistPlayerExternalId": 430835,
+      "assistPlayerName": "Tyler Bindon",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "IRN",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 8
+        },
+        {
+          "type": "Total Shots",
+          "value": 17
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 5
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 10
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 7
+        },
+        {
+          "type": "Fouls",
+          "value": 10
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "49%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 6
+        },
+        {
+          "type": "Total passes",
+          "value": 409
+        },
+        {
+          "type": "Passes accurate",
+          "value": 314
+        },
+        {
+          "type": "Passes %",
+          "value": "77%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.50"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.28"
+        }
+      ]
+    },
+    {
+      "teamId": "NZL",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 8
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 14
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 2
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 10
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 4
+        },
+        {
+          "type": "Fouls",
+          "value": 8
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 1
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "51%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 0
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 446
+        },
+        {
+          "type": "Passes accurate",
+          "value": 376
+        },
+        {
+          "type": "Passes %",
+          "value": "84%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "1.24"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.28"
+        }
+      ]
+    }
+  ],
+  "group": "Group G"
+}

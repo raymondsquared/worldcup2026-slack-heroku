@@ -1,0 +1,350 @@
+{
+  "id": 30,
+  "dateAndTimeInUTC": "2026-06-19T22:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489390,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "SCO",
+    "homeTeamExternalId": 1108,
+    "awayTeamId": "MAR",
+    "awayTeamExternalId": 31
+  },
+  "finalScore": {
+    "home": 0,
+    "away": 1
+  },
+  "score": {
+    "halftime": {
+      "home": 0,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 0,
+      "away": 1
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 2,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 161897,
+      "playerName": "I. Saibari",
+      "assistPlayerExternalId": 744,
+      "assistPlayerName": "Brahim Diaz",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 23,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 18814,
+      "playerName": "I. Diop",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 1117,
+      "playerName": "K. Tierney",
+      "assistPlayerExternalId": 343576,
+      "assistPlayerName": "B. Doak",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 65,
+      "extraMinute": null,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 289,
+      "playerName": "A. Robertson",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 1125,
+      "playerName": "R. Christie",
+      "assistPlayerExternalId": 19077,
+      "assistPlayerName": "K. McLean",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 19524,
+      "playerName": "C. Adams",
+      "assistPlayerExternalId": 45307,
+      "assistPlayerName": "L. Dykes",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 340573,
+      "playerName": "B. El Khannouss",
+      "assistPlayerExternalId": 336659,
+      "assistPlayerName": "C. Talbi",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 161897,
+      "playerName": "I. Saibari",
+      "assistPlayerExternalId": 36579,
+      "assistPlayerName": "S. Rahimi",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 84,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 744,
+      "playerName": "Brahim Diaz",
+      "assistPlayerExternalId": 535046,
+      "assistPlayerName": "A. Amaimouni",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 138417,
+      "playerName": "N. Patterson",
+      "assistPlayerExternalId": 1115,
+      "assistPlayerName": "A. Ralston",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 89,
+      "extraMinute": null,
+      "teamId": "SCO",
+      "teamExternalId": 1108,
+      "playerExternalId": 19191,
+      "playerName": "J.  McGinn",
+      "assistPlayerExternalId": 45078,
+      "assistPlayerName": "R. Stewart",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "MAR",
+      "teamExternalId": 31,
+      "playerExternalId": 129678,
+      "playerName": "A. Ounahi",
+      "assistPlayerExternalId": 415431,
+      "assistPlayerName": "S. El Mourabet",
+      "detail": "Substitution 4",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "SCO",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 0
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 3
+        },
+        {
+          "type": "Total Shots",
+          "value": 6
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 5
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 1
+        },
+        {
+          "type": "Fouls",
+          "value": 11
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 1
+        },
+        {
+          "type": "Ball Possession",
+          "value": "41%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 1
+        },
+        {
+          "type": "Total passes",
+          "value": 456
+        },
+        {
+          "type": "Passes accurate",
+          "value": 388
+        },
+        {
+          "type": "Passes %",
+          "value": "85%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.51"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.00"
+        }
+      ]
+    },
+    {
+      "teamId": "MAR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 6
+        },
+        {
+          "type": "Total Shots",
+          "value": 12
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 4
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 9
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 8
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 5
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "59%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 0
+        },
+        {
+          "type": "Total passes",
+          "value": 670
+        },
+        {
+          "type": "Passes accurate",
+          "value": 600
+        },
+        {
+          "type": "Passes %",
+          "value": "90%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.99"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "0.00"
+        }
+      ]
+    }
+  ],
+  "group": "Group C"
+}

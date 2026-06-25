@@ -1,0 +1,210 @@
+[
+  {
+    "id": "ECU-1",
+    "name": "H. Galindez",
+    "teamId": "ECU",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 16380
+  },
+  {
+    "id": "ECU-12",
+    "name": "M. Ramirez",
+    "teamId": "ECU",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 81224
+  },
+  {
+    "id": "ECU-22",
+    "name": "G. Valle",
+    "teamId": "ECU",
+    "position": "Goalkeeper",
+    "number": 22,
+    "externalId": 16642
+  },
+  {
+    "id": "ECU-7",
+    "name": "P. Estupinan",
+    "teamId": "ECU",
+    "position": "Midfielder",
+    "number": 7,
+    "externalId": 46731
+  },
+  {
+    "id": "ECU-3",
+    "name": "P. Hincapie",
+    "teamId": "ECU",
+    "position": "Midfielder",
+    "number": 3,
+    "externalId": 127817
+  },
+  {
+    "id": "ECU-26",
+    "name": "Y. Medina",
+    "teamId": "ECU",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 306940
+  },
+  {
+    "id": "ECU-4",
+    "name": "J. Ordonez",
+    "teamId": "ECU",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 354027
+  },
+  {
+    "id": "ECU-6",
+    "name": "W. Pacho",
+    "teamId": "ECU",
+    "position": "Defender",
+    "number": 6,
+    "externalId": 16367
+  },
+  {
+    "id": "ECU-25",
+    "name": "J. Porozo",
+    "teamId": "ECU",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 2575
+  },
+  {
+    "id": "ECU-17",
+    "name": "A. Preciado",
+    "teamId": "ECU",
+    "position": "Defender",
+    "number": 17,
+    "externalId": 2583
+  },
+  {
+    "id": "ECU-2",
+    "name": "F. Torres",
+    "teamId": "ECU",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 63964
+  },
+  {
+    "id": "ECU-5",
+    "name": "J. Alcivar",
+    "teamId": "ECU",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 16470
+  },
+  {
+    "id": "ECU-23",
+    "name": "M. Caicedo",
+    "teamId": "ECU",
+    "position": "Midfielder",
+    "number": 23,
+    "externalId": 116117
+  },
+  {
+    "id": "ECU-18",
+    "name": "D. Castillo",
+    "teamId": "ECU",
+    "position": "Midfielder",
+    "number": 18,
+    "externalId": 338045
+  },
+  {
+    "id": "ECU-21",
+    "name": "A. Franco",
+    "teamId": "ECU",
+    "position": "Defender",
+    "number": 21,
+    "externalId": 16360
+  },
+  {
+    "id": "ECU-10",
+    "name": "K. Paez",
+    "teamId": "ECU",
+    "position": "Attacker",
+    "number": 10,
+    "externalId": 406303
+  },
+  {
+    "id": "ECU-14",
+    "name": "A. Minda",
+    "teamId": "ECU",
+    "position": "Midfielder",
+    "number": 14,
+    "externalId": 280695
+  },
+  {
+    "id": "ECU-8",
+    "name": "A. Valencia",
+    "teamId": "ECU",
+    "position": "Attacker",
+    "number": 8,
+    "externalId": 198347
+  },
+  {
+    "id": "ECU-15",
+    "name": "P. Vite",
+    "teamId": "ECU",
+    "position": "Midfielder",
+    "number": 15,
+    "externalId": 237078
+  },
+  {
+    "id": "ECU-11",
+    "name": "K. Rodriguez",
+    "teamId": "ECU",
+    "position": "Attacker",
+    "number": 11,
+    "externalId": 361966
+  },
+  {
+    "id": "ECU-9",
+    "name": "J. Yeboah",
+    "teamId": "ECU",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 25414
+  },
+  {
+    "id": "ECU-20",
+    "name": "N. Angulo",
+    "teamId": "ECU",
+    "position": "Attacker",
+    "number": 20,
+    "externalId": 311543
+  },
+  {
+    "id": "ECU-16",
+    "name": "J. Caicedo",
+    "teamId": "ECU",
+    "position": "Attacker",
+    "number": 16,
+    "externalId": 16590
+  },
+  {
+    "id": "ECU-24",
+    "name": "Jeremy Arevalo",
+    "teamId": "ECU",
+    "position": "Attacker",
+    "number": 24,
+    "externalId": 350799
+  },
+  {
+    "id": "ECU-19",
+    "name": "G. Plata",
+    "teamId": "ECU",
+    "position": "Attacker",
+    "number": 19,
+    "externalId": 16369
+  },
+  {
+    "id": "ECU-13",
+    "name": "E. Valencia",
+    "teamId": "ECU",
+    "position": "Attacker",
+    "number": 13,
+    "externalId": 35533
+  }
+]

@@ -1,0 +1,428 @@
+{
+  "id": 45,
+  "dateAndTimeInUTC": "2026-06-23T17:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489404,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "POR",
+    "homeTeamExternalId": 27,
+    "awayTeamId": "UZB",
+    "awayTeamExternalId": 1568
+  },
+  "finalScore": {
+    "home": 5,
+    "away": 0
+  },
+  "score": {
+    "halftime": {
+      "home": 3,
+      "away": 0
+    },
+    "fulltime": {
+      "home": 5,
+      "away": 0
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Goal",
+      "minute": 6,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 874,
+      "playerName": "Cristiano Ronaldo",
+      "assistPlayerExternalId": 855,
+      "assistPlayerName": "Joao Cancelo",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 14,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 53835,
+      "playerName": "O. Hamrobekov",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 17,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 263482,
+      "playerName": "Nuno Mendes",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Var",
+      "minute": 30,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 73520,
+      "playerName": "A. Ganiyev",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Goal cancelled",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 39,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 874,
+      "playerName": "Cristiano Ronaldo",
+      "assistPlayerExternalId": 1485,
+      "assistPlayerName": "Bruno Fernandes",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 1864,
+      "playerName": "Pedro Neto",
+      "assistPlayerExternalId": 161585,
+      "assistPlayerName": "Francisco Conceicao",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 855,
+      "playerName": "Joao Cancelo",
+      "assistPlayerExternalId": 130,
+      "assistPlayerName": "Nelson Semedo",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 53835,
+      "playerName": "O. Hamrobekov",
+      "assistPlayerExternalId": 73522,
+      "assistPlayerName": "A. Mozgovoy",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 73514,
+      "playerName": "S. Nasrullayev",
+      "assistPlayerExternalId": 72122,
+      "assistPlayerName": "K. Alijonov",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 60,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 73507,
+      "playerName": "A. Nematov",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Own Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 64,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 583,
+      "playerName": "Joao Felix",
+      "assistPlayerExternalId": 41112,
+      "assistPlayerName": "Trincao",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 68,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 336671,
+      "playerName": "Renato Veiga",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 73,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 263676,
+      "playerName": "A. Fayzullaev",
+      "assistPlayerExternalId": 72128,
+      "assistPlayerName": "I. Sergeev",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 76,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 335051,
+      "playerName": "Joao Neves",
+      "assistPlayerExternalId": 636,
+      "assistPlayerName": "Bernardo Silva",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 83,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 128384,
+      "playerName": "Vitinha",
+      "assistPlayerExternalId": 22236,
+      "assistPlayerName": "Rafael Leao",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 87,
+      "extraMinute": null,
+      "teamId": "POR",
+      "teamExternalId": 27,
+      "playerExternalId": 22236,
+      "playerName": "Rafael Leao",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 50272,
+      "playerName": "O. Shukurov",
+      "assistPlayerExternalId": 363723,
+      "assistPlayerName": "S. Esanov",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 90,
+      "extraMinute": null,
+      "teamId": "UZB",
+      "teamExternalId": 1568,
+      "playerExternalId": 416964,
+      "playerName": "B. Karimov",
+      "assistPlayerExternalId": 312231,
+      "assistPlayerName": "Ruslanbek Jiyanov",
+      "detail": "Substitution 5",
+      "comments": null
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "POR",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 9
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 5
+        },
+        {
+          "type": "Total Shots",
+          "value": 17
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 12
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 5
+        },
+        {
+          "type": "Fouls",
+          "value": 14
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 3
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "66%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 623
+        },
+        {
+          "type": "Passes accurate",
+          "value": 561
+        },
+        {
+          "type": "Passes %",
+          "value": "90%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "2.41"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-1.08"
+        }
+      ]
+    },
+    {
+      "teamId": "UZB",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 2
+        },
+        {
+          "type": "Total Shots",
+          "value": 7
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 3
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 4
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 3
+        },
+        {
+          "type": "Fouls",
+          "value": 15
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 2
+        },
+        {
+          "type": "Offsides",
+          "value": 2
+        },
+        {
+          "type": "Ball Possession",
+          "value": "34%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 1
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 4
+        },
+        {
+          "type": "Total passes",
+          "value": 324
+        },
+        {
+          "type": "Passes accurate",
+          "value": 263
+        },
+        {
+          "type": "Passes %",
+          "value": "81%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.25"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-1.08"
+        }
+      ]
+    }
+  ],
+  "group": "Group K"
+}

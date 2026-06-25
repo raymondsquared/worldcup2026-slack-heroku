@@ -1,0 +1,210 @@
+[
+  {
+    "id": "TUR-12",
+    "name": "A. Bayindir",
+    "teamId": "TUR",
+    "position": "Goalkeeper",
+    "number": 12,
+    "externalId": 50132
+  },
+  {
+    "id": "TUR-23",
+    "name": "U. Cakir",
+    "teamId": "TUR",
+    "position": "Goalkeeper",
+    "number": 23,
+    "externalId": 49866
+  },
+  {
+    "id": "TUR-1",
+    "name": "M. Gunok",
+    "teamId": "TUR",
+    "position": "Goalkeeper",
+    "number": 1,
+    "externalId": 49837
+  },
+  {
+    "id": "TUR-25",
+    "name": "S. Akaydin",
+    "teamId": "TUR",
+    "position": "Defender",
+    "number": 25,
+    "externalId": 62490
+  },
+  {
+    "id": "TUR-14",
+    "name": "A. Bardakci",
+    "teamId": "TUR",
+    "position": "Defender",
+    "number": 14,
+    "externalId": 61837
+  },
+  {
+    "id": "TUR-2",
+    "name": "Z. Celik",
+    "teamId": "TUR",
+    "position": "Defender",
+    "number": 2,
+    "externalId": 22222
+  },
+  {
+    "id": "TUR-3",
+    "name": "M. Demiral",
+    "teamId": "TUR",
+    "position": "Defender",
+    "number": 3,
+    "externalId": 30521
+  },
+  {
+    "id": "TUR-13",
+    "name": "E. Elmali",
+    "teamId": "TUR",
+    "position": "Defender",
+    "number": 13,
+    "externalId": 50057
+  },
+  {
+    "id": "TUR-15",
+    "name": "O. Kabak",
+    "teamId": "TUR",
+    "position": "Defender",
+    "number": 15,
+    "externalId": 26300
+  },
+  {
+    "id": "TUR-20",
+    "name": "F. Kadioglu",
+    "teamId": "TUR",
+    "position": "Defender",
+    "number": 20,
+    "externalId": 1361
+  },
+  {
+    "id": "TUR-18",
+    "name": "M. Muldur",
+    "teamId": "TUR",
+    "position": "Defender",
+    "number": 18,
+    "externalId": 1719
+  },
+  {
+    "id": "TUR-4",
+    "name": "C. Soyuncu",
+    "teamId": "TUR",
+    "position": "Defender",
+    "number": 4,
+    "externalId": 18776
+  },
+  {
+    "id": "TUR-10",
+    "name": "H. Calhanoglu",
+    "teamId": "TUR",
+    "position": "Midfielder",
+    "number": 10,
+    "externalId": 1640
+  },
+  {
+    "id": "TUR-22",
+    "name": "K. Ayhan",
+    "teamId": "TUR",
+    "position": "Defender",
+    "number": 22,
+    "externalId": 25448
+  },
+  {
+    "id": "TUR-6",
+    "name": "O. Kokcu",
+    "teamId": "TUR",
+    "position": "Midfielder",
+    "number": 6,
+    "externalId": 37155
+  },
+  {
+    "id": "TUR-5",
+    "name": "S. Ozcan",
+    "teamId": "TUR",
+    "position": "Midfielder",
+    "number": 5,
+    "externalId": 24807
+  },
+  {
+    "id": "TUR-16",
+    "name": "I. Yuksek",
+    "teamId": "TUR",
+    "position": "Midfielder",
+    "number": 16,
+    "externalId": 214463
+  },
+  {
+    "id": "TUR-26",
+    "name": "C. Uzun",
+    "teamId": "TUR",
+    "position": "Midfielder",
+    "number": 26,
+    "externalId": 339887
+  },
+  {
+    "id": "TUR-24",
+    "name": "O. Aydin",
+    "teamId": "TUR",
+    "position": "Attacker",
+    "number": 24,
+    "externalId": 134590
+  },
+  {
+    "id": "TUR-8",
+    "name": "A. Guler",
+    "teamId": "TUR",
+    "position": "Midfielder",
+    "number": 8,
+    "externalId": 291964
+  },
+  {
+    "id": "TUR-19",
+    "name": "Y. Akgun",
+    "teamId": "TUR",
+    "position": "Midfielder",
+    "number": 19,
+    "externalId": 454
+  },
+  {
+    "id": "TUR-7",
+    "name": "K. Akturkoglu",
+    "teamId": "TUR",
+    "position": "Attacker",
+    "number": 7,
+    "externalId": 142959
+  },
+  {
+    "id": "TUR-9",
+    "name": "D. Gul",
+    "teamId": "TUR",
+    "position": "Attacker",
+    "number": 9,
+    "externalId": 388570
+  },
+  {
+    "id": "TUR-17",
+    "name": "I. Kahveci",
+    "teamId": "TUR",
+    "position": "Midfielder",
+    "number": 17,
+    "externalId": 49857
+  },
+  {
+    "id": "TUR-11",
+    "name": "K. Yildiz",
+    "teamId": "TUR",
+    "position": "Midfielder",
+    "number": 11,
+    "externalId": 339883
+  },
+  {
+    "id": "TUR-21",
+    "name": "B. Yilmaz",
+    "teamId": "TUR",
+    "position": "Midfielder",
+    "number": 21,
+    "externalId": 63274
+  }
+]

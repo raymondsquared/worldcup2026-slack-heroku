@@ -1,0 +1,415 @@
+{
+  "id": 39,
+  "dateAndTimeInUTC": "2026-06-21T22:00:00+00:00",
+  "stage": "Group Stage - 2",
+  "externalId": 1489398,
+  "status": "Match Finished",
+  "teams": {
+    "homeTeamId": "URU",
+    "homeTeamExternalId": 7,
+    "awayTeamId": "CPV",
+    "awayTeamExternalId": 1533
+  },
+  "finalScore": {
+    "home": 2,
+    "away": 2
+  },
+  "score": {
+    "halftime": {
+      "home": 2,
+      "away": 1
+    },
+    "fulltime": {
+      "home": 2,
+      "away": 2
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  },
+  "events": [
+    {
+      "type": "Card",
+      "minute": 5,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 308689,
+      "playerName": "S. Lopes Cabral",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Card",
+      "minute": 20,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 863,
+      "playerName": "R. Bentancur",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "Goal",
+      "minute": 21,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 96512,
+      "playerName": "Kevin Pina",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 44,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 51776,
+      "playerName": "M. Araujo",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 45,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 51603,
+      "playerName": "A. Canobbio",
+      "assistPlayerExternalId": 51776,
+      "assistPlayerName": "M. Araujo",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 46,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 265556,
+      "playerName": "Telmo Arcanjo",
+      "assistPlayerExternalId": 37435,
+      "assistPlayerName": "Deroy Duarte",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 58,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 47254,
+      "playerName": "M. Olivera",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "type": "subst",
+      "minute": 58,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 44612,
+      "playerName": "Garry Rodrigues",
+      "assistPlayerExternalId": 291024,
+      "assistPlayerName": "Helio Varela",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 58,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 309182,
+      "playerName": "Gilson Benchimol",
+      "assistPlayerExternalId": 22265,
+      "assistPlayerName": "Nuno da Costa",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Goal",
+      "minute": 61,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 291024,
+      "playerName": "Helio Varela",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "type": "Var",
+      "minute": 69,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 51776,
+      "playerName": "M. Araujo",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Goal cancelled",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 70,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 51530,
+      "playerName": "F. Vinas",
+      "assistPlayerExternalId": 51617,
+      "assistPlayerName": "D. Nunez",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 70,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 51494,
+      "playerName": "M. Ugarte",
+      "assistPlayerExternalId": 5995,
+      "assistPlayerName": "N. de la Cruz",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 71,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 96512,
+      "playerName": "Kevin Pina",
+      "assistPlayerExternalId": 37436,
+      "assistPlayerName": "L. Duarte",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 80,
+      "extraMinute": null,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 50745,
+      "playerName": "Jamiro Monteiro",
+      "assistPlayerExternalId": 128007,
+      "assistPlayerName": "Yannick Semedo",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "type": "subst",
+      "minute": 81,
+      "extraMinute": null,
+      "teamId": "URU",
+      "teamExternalId": 7,
+      "playerExternalId": 51776,
+      "playerName": "M. Araujo",
+      "assistPlayerExternalId": 51618,
+      "assistPlayerName": "B. Rodriguez",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "type": "Card",
+      "minute": 90,
+      "extraMinute": 3,
+      "teamId": "CPV",
+      "teamExternalId": 1533,
+      "playerExternalId": 41608,
+      "playerName": "Diney Borges",
+      "assistPlayerExternalId": null,
+      "assistPlayerName": null,
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    }
+  ],
+  "statistics": [
+    {
+      "teamId": "URU",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 2
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 8
+        },
+        {
+          "type": "Total Shots",
+          "value": 17
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 7
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 9
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 8
+        },
+        {
+          "type": "Fouls",
+          "value": 11
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 11
+        },
+        {
+          "type": "Offsides",
+          "value": 3
+        },
+        {
+          "type": "Ball Possession",
+          "value": "65%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 2
+        },
+        {
+          "type": "Total passes",
+          "value": 511
+        },
+        {
+          "type": "Passes accurate",
+          "value": 420
+        },
+        {
+          "type": "Passes %",
+          "value": "82%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "2.32"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.35"
+        }
+      ]
+    },
+    {
+      "teamId": "CPV",
+      "statistics": [
+        {
+          "type": "Shots on Goal",
+          "value": 4
+        },
+        {
+          "type": "Shots off Goal",
+          "value": 4
+        },
+        {
+          "type": "Total Shots",
+          "value": 12
+        },
+        {
+          "type": "Blocked Shots",
+          "value": 4
+        },
+        {
+          "type": "Shots insidebox",
+          "value": 2
+        },
+        {
+          "type": "Shots outsidebox",
+          "value": 10
+        },
+        {
+          "type": "Fouls",
+          "value": 4
+        },
+        {
+          "type": "Corner Kicks",
+          "value": 4
+        },
+        {
+          "type": "Offsides",
+          "value": 0
+        },
+        {
+          "type": "Ball Possession",
+          "value": "35%"
+        },
+        {
+          "type": "Yellow Cards",
+          "value": 2
+        },
+        {
+          "type": "Red Cards",
+          "value": null
+        },
+        {
+          "type": "Goalkeeper Saves",
+          "value": 0
+        },
+        {
+          "type": "Total passes",
+          "value": 278
+        },
+        {
+          "type": "Passes accurate",
+          "value": 205
+        },
+        {
+          "type": "Passes %",
+          "value": "74%"
+        },
+        {
+          "type": "expected_goals",
+          "value": "0.88"
+        },
+        {
+          "type": "goals_prevented",
+          "value": "-0.35"
+        }
+      ]
+    }
+  ],
+  "group": "Group H"
+}

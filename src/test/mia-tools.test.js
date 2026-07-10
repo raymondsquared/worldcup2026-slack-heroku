@@ -184,6 +184,10 @@ describe('tools - safeParseArgs', () => {
 });
 
 describe('tools - dispatchTool routing', () => {
+  afterEach(() => {
+    jest.useRealTimers();
+  });
+
   test('rejects an unknown tool name with a structured error (never throws)', () => {
     expect(dispatchTool('rm_rf', {})).toEqual({ error: 'Unknown tool: rm_rf' });
     expect(dispatchTool('', {})).toEqual({ error: 'Unknown tool: ' });
@@ -206,6 +210,8 @@ describe('tools - dispatchTool routing', () => {
   });
 
   test('get_upcoming_fixtures without a team returns the global upcoming list', () => {
+    // Pin the clock to during the tournament so upcoming fixtures exist.
+    jest.useFakeTimers().setSystemTime(new Date('2026-06-20T00:00:00Z'));
     const out = dispatchTool('get_upcoming_fixtures', {});
     expect(Array.isArray(out)).toBe(true);
     expect(out.length).toBeGreaterThan(0);

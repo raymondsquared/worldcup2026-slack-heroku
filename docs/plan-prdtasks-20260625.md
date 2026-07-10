@@ -13,20 +13,20 @@ and priorities. The implementation covers two features:
 2. Match Recap Charts - Visual statistics in post-match recap cards
 
 The implementation follows a logical progression:
-infrastructure setup → MCP tool implementation → chart implementation
-→ testing → deployment.
+infrastructure setup -> MCP tool implementation -> chart implementation
+-> testing -> deployment.
 
 ## Task Dependency Chain
 
 ```text
 task-38 (Setup Environment & Core MCP Server)
-  ↓
+  v
 task-39 (Implement & Test 5 MCP Tools)
-  ↓
-task-40 (Deploy & Document MCP Server) ← Test MCP immediately!
-  ↓
+  v
+task-40 (Deploy & Document MCP Server) <- Test MCP immediately!
+  v
 task-41 (Chart Utility with Tests)
-  ↓
+  v
 task-42 (Integrate Charts & Final Deployment)
 ```
 
@@ -180,19 +180,19 @@ Mitigation:
 
 ## Success Criteria Mapping
 
-| Success Criteria                                     | Validated By                           |
-| ---------------------------------------------------- | -------------------------------------- |
-| MCP server registered and discoverable               | task-42                                |
-| All 5 tools callable with < 2s response time         | task-39, task-42                       |
-| Zero API key leaks                                   | task-39 (verify sanitization)          |
-| Tool call error rate < 5%                            | task-39, task-42 (production validation) |
-| MCP server deploys successfully                      | task-42                                |
-| Ball possession chart displays correctly             | task-40, task-41                       |
-| Total shots chart displays correctly                 | task-40, task-41                       |
-| Charts render in Slack recap card                    | task-41, task-42                       |
-| Charts handle missing statistics gracefully          | task-40, task-41                       |
-| Chart generation adds < 500ms latency                | task-41 (measure latency)              |
-| Documentation complete                               | task-42                                |
+| Success Criteria                             | Validated By                             |
+| -------------------------------------------- | ---------------------------------------- |
+| MCP server registered and discoverable       | task-42                                  |
+| All 5 tools callable with < 2s response time | task-39, task-42                         |
+| Zero API key leaks                           | task-39 (verify sanitization)            |
+| Tool call error rate < 5%                    | task-39, task-42 (production validation) |
+| MCP server deploys successfully              | task-42                                  |
+| Ball possession chart displays correctly     | task-40, task-41                         |
+| Total shots chart displays correctly         | task-40, task-41                         |
+| Charts render in Slack recap card            | task-41, task-42                         |
+| Charts handle missing statistics gracefully  | task-40, task-41                         |
+| Chart generation adds < 500ms latency        | task-41 (measure latency)                |
+| Documentation complete                       | task-42                                  |
 
 ## Notes
 

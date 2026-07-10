@@ -158,16 +158,19 @@ function buildRecapBlocks(fixture, liveData, recapText) {
 
   blocks.push({ type: 'divider' });
 
-  // AI recap text
+  // AI recap text. plain_text (not mrkdwn) so the model's free-form output is
+  // never parsed as Slack markup - matches the recap prompt's own "write plain
+  // text only" instruction instead of hoping the model complies and patching
+  // exceptions after the fact.
   blocks.push({
     type: 'section',
-    text: { type: 'mrkdwn', text: recapText },
+    text: { type: 'plain_text', text: recapText, emoji: true },
   });
 
   return blocks;
 }
 
-async function generateRecap(client, fixtureId, threadTs, persona) {
+async function generateRecap(client, fixtureId, persona) {
   const liveData = cache.getFixture(fixtureId);
   if (!liveData || liveData.stale) return;
 

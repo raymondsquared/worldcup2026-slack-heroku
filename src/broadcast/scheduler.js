@@ -206,7 +206,7 @@ async function handleDiffs(client, diffs) {
 
     if (diff.matchEnded) {
       const persona = matchPersonas.get(fixtureId) || null;
-      generateRecap(client, fixtureId, null, persona).catch((err) => {
+      generateRecap(client, fixtureId, persona).catch((err) => {
         console.error(`Recap failed for fixture ${fixtureId}:`, err.message);
       });
     }

@@ -178,6 +178,7 @@ heroku logs --tail --app rb-mia-slack-wc26-ext
 ```
 
 The `Procfile` declares both process types:
+
 - `worker: node src/index.js` - Slack bot
 - `mcp-football: node src/mcp/football-server.js` - MCP server (on-demand)
 

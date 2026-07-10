@@ -6,10 +6,9 @@ const { logInteraction } = require('./audit');
 const { isFootballRelated: isFootballRelatedKeyword } = require('./scope');
 const {
   getSystemPrompt,
-  CONFIDENCE_THRESHOLD,
-  FOOTBALL_RELATED_THRESHOLD,
   REFERENCE_INSTRUCTION,
-  TOOL_INSTRUCTION,
+  LOCAL_TOOL_INSTRUCTION,
+  MCP_TOOL_INSTRUCTION,
 } = require('./personas');
 const { isLowConfidence } = require('./low-confidence');
 const { webSearch } = require('../web-search');
@@ -19,28 +18,30 @@ const { TOOL_SCHEMAS, dispatchTool, safeParseArgs } = require('./tools');
 const USE_MCP_TOOLS = process.env.USE_MCP_TOOLS === 'true';
 
 const ANSWER_REGEX = /<answer>([\s\S]*?)<\/answer>/;
-const CONFIDENCE_REGEX = /<confidenceScore>(\d+)<\/confidenceScore>/;
-const FOOTBALL_RELATED_REGEX = /<isFootballRelatedScore>(\d+)<\/isFootballRelatedScore>/;
+const CONFIDENCE_REGEX = /<confidenceLabel>\s*(HIGH|MEDIUM|LOW)\s*<\/confidenceLabel>/i;
+const FOOTBALL_RELATED_REGEX =
+  /<footballRelatedLabel>\s*(HIGH|MEDIUM|LOW)\s*<\/footballRelatedLabel>/i;
 
-const MAX_TOOL_ITERS = 4;
-const LOOP_BUDGET_IN_MS = 10000;
+const LOCAL_TOOL_LOOP_MAX_ITERATIONS = 4;
+const LOCAL_TOOL_LOOP_BUDGET_IN_MS = 10000;
 
-// Model-driven retrieval: offer the read-only tool catalog and let the model
-// choose which to call, executing each via the whitelist `dispatchTool` and
-// feeding `role: tool` results back until it returns a final answer. This is
-// the primary retrieval path. Returns null when no tool grounded an answer
-// (no tool ran, loop exhausted, over budget, or error); the caller then makes a
-// direct model call so a question is never dropped.
+// Primary retrieval path: offer the read-only tool catalog, run each pick
+// via the whitelist `dispatchTool`, and feed `role: tool` results back until a
+// final answer. Returns null when nothing grounded an answer (no tool ran,
+// exhausted, over budget, or error) so the caller can make a direct call.
 async function retrieveWithTools(sanitized, systemPrompt) {
-  const deadline = Date.now() + LOOP_BUDGET_IN_MS;
+  const deadline = Date.now() + LOCAL_TOOL_LOOP_BUDGET_IN_MS;
   const messages = [
-    { role: 'system', content: `${systemPrompt}\n\n${TOOL_INSTRUCTION}` },
+    {
+      role: 'system',
+      content: `${systemPrompt}\n\n<tool_instructions>\n${LOCAL_TOOL_INSTRUCTION}\n</tool_instructions>`,
+    },
     { role: 'user', content: sanitized },
   ];
   const toolsCalled = [];
 
   try {
-    for (let i = 0; i < MAX_TOOL_ITERS; i++) {
+    for (let i = 0; i < LOCAL_TOOL_LOOP_MAX_ITERATIONS; i++) {
       if (Date.now() >= deadline) break; // wall-clock budget exceeded -> direct call
 
       const msg = await chatWithTools(messages, TOOL_SCHEMAS, { temperature: 0 });
@@ -66,10 +67,9 @@ async function retrieveWithTools(sanitized, systemPrompt) {
         const name = call.function && call.function.name;
         const args = safeParseArgs(call.function && call.function.arguments);
         const result = dispatchTool(name, args); // whitelist only; never throws
-        // Record every tool the model invoked, including one that returned an
-        // {error} (unknown name or handler failure): toolsCalled is an attempt
-        // log of what the model chose, not a success log, so a poorly-fitting or
-        // bogus tool pick stays observable in the audit record.
+        // Log every tool the model invoked, even one returning {error}:
+        // toolsCalled is an attempt log (what the model chose), not a success
+        // log, so bogus picks stay observable in the audit record.
         if (name) toolsCalled.push(name);
         messages.push({
           role: 'tool',
@@ -87,47 +87,44 @@ async function retrieveWithTools(sanitized, systemPrompt) {
 }
 
 /**
- * Parse MIA's XML response. Falls back gracefully if tags are missing.
- * Expects: <response><answer>...</answer><confidenceScore>0-100</confidenceScore>
- *          <isFootballRelatedScore>0-100</isFootballRelatedScore></response>
- * Returns: { answer: string, confident: boolean, footballRelated: boolean|null }
- *   footballRelated is true/false from the score vs threshold, or null when the
- *   tag is absent (caller falls back to the keyword check).
+ * Parse MIA's XML response; falls back gracefully if tags are missing.
+ * Expects: <output><answer>...</answer><confidenceLabel>HIGH|MEDIUM|LOW</confidenceLabel>
+ *          <footballRelatedLabel>HIGH|MEDIUM|LOW</footballRelatedLabel></output>
+ * Returns { answer, confident, footballRelated }: confident/footballRelated are
+ * true only for HIGH; footballRelated is null when the tag is absent (caller
+ * then falls back to the keyword check).
  */
 function parseResponse(raw) {
-  // An empty or non-string completion (e.g. a null/tool-only message) is never
-  // a confident answer. Mark it low-confidence so the cascade escalates instead
-  // of returning nothing as if it were certain - this also keeps a null result
-  // from poisoning the `rawOutput === undefined` escalation guards in ask().
+  // An empty/non-string completion (e.g. a tool-only message) is never a
+  // confident answer: mark it low-confidence so the cascade escalates instead
+  // of returning nothing as if certain.
   if (!raw || typeof raw !== 'string') {
     return { answer: '', confident: false, footballRelated: null };
   }
 
   const footballMatch = FOOTBALL_RELATED_REGEX.exec(raw);
-  const footballRelated = footballMatch
-    ? Number(footballMatch[1]) >= FOOTBALL_RELATED_THRESHOLD
-    : null;
+  const footballRelated = footballMatch ? footballMatch[1].toUpperCase() === 'HIGH' : null;
 
   const answerMatch = ANSWER_REGEX.exec(raw);
   if (answerMatch) {
     const answer = answerMatch[1].trim();
     const confMatch = CONFIDENCE_REGEX.exec(raw);
-    const score = confMatch ? Number(confMatch[1]) : 100;
-    return { answer, confident: score >= CONFIDENCE_THRESHOLD, footballRelated };
+    // Missing/unparseable label defaults to HIGH (confident) to preserve the
+    // legacy "answer present but no confidence tag = confident" behavior.
+    const label = confMatch ? confMatch[1].toUpperCase() : 'HIGH';
+    return { answer, confident: label === 'HIGH', footballRelated };
   }
   // If MIA returns plain text without XML tags, treat as confident.
   // Falls back to phrase detection via isLowConfidence().
   return { answer: raw, confident: true, footballRelated };
 }
 
-// Assemble the [system, user] pair shared by the explicit-context and
-// web-search-retry paths. `context` (when present) is wrapped in the delimited
-// Context block so it stays separated from the system instructions (role
-// separation = the primary injection defense). Any `extraSystem` segments - the
-// web-search results and the citation instruction on the retry - are appended
-// to the system turn in order.
+// Assemble the [system, user] pair for the context and web-search-retry paths.
+// `context` is wrapped in a <context> tag so it stays separated from the system
+// instructions (role separation = the primary injection defense). `extraSystem`
+// segments are appended to the system turn in order.
 function buildMessages(systemPrompt, context, userText, ...extraSystem) {
-  let systemContent = systemPrompt + (context ? `\n\nContext:\n---\n${context}\n---` : '');
+  let systemContent = systemPrompt + (context ? `\n\n<context>\n${context}\n</context>` : '');
   for (const extra of extraSystem) {
     systemContent += `\n\n${extra}`;
   }
@@ -146,7 +143,7 @@ async function ask(userText, opts = {}) {
     const recapMessages = [
       {
         role: 'system',
-        content: options.systemOverride + '\n\nContext:\n---\n' + context + '\n---',
+        content: options.systemOverride + '\n\n<context>\n' + context + '\n</context>',
       },
       { role: 'user', content: userText },
     ];
@@ -170,13 +167,10 @@ async function ask(userText, opts = {}) {
     return inputCheck.text;
   }
 
-  // 4. Retrieve + answer. The model-driven tool loop is the primary retriever:
-  // it reads the question, picks read-only tools, and grounds its own answer in
-  // live data. When the caller already supplies authoritative data (an explicit
-  // thread match context, e.g. live score/events), we skip the tools and answer
-  // from that context in a single call. Either way the answer self-rates its
-  // confidence (personas BASE_INSTRUCTION step 4); a low-confidence on-topic
-  // answer escalates to web search.
+  // 4. Retrieve + answer. The tool loop is the primary retriever; when the
+  // caller supplies authoritative context (e.g. a live thread match) we skip
+  // tools and answer from it directly. Either way the answer self-rates its
+  // confidence, and a low-confidence on-topic answer escalates to web search.
   const systemPrompt = getSystemPrompt(persona);
 
   let rawOutput;
@@ -185,8 +179,8 @@ async function ask(userText, opts = {}) {
   let toolsCalled = null;
 
   // (a) Caller-supplied context is authoritative: answer from it in one call.
-  // Role separation (the delimited Context block) is the primary injection
-  // defense; temperature 0 keeps it deterministic.
+  // Role separation (the <context> block) is the primary injection defense;
+  // temperature 0 keeps it deterministic.
   if (context) {
     rawOutput = await chat(buildMessages(systemPrompt, context, sanitized), { temperature: 0 });
     retrievalPath = 'context';
@@ -194,7 +188,11 @@ async function ask(userText, opts = {}) {
   } else if (USE_MCP_TOOLS) {
     // (b) MCP agent endpoint with automatic tool execution
     try {
-      const messages = buildMessages(systemPrompt, '', sanitized);
+      const messages = buildMessages(
+        `${systemPrompt}\n\n<tool_instructions>\n${MCP_TOOL_INSTRUCTION}\n</tool_instructions>`,
+        '',
+        sanitized,
+      );
       rawOutput = await chatWithAgent(messages, { enableMcp: true });
       retrievalPath = 'mcp_agent';
       toolsCalled = ['mcp-football'];
@@ -235,8 +233,8 @@ async function ask(userText, opts = {}) {
           systemPrompt,
           context,
           sanitized,
-          searchContext,
-          REFERENCE_INSTRUCTION,
+          `<search_results>\n${searchContext}\n</search_results>`,
+          `<citation_instructions>\n${REFERENCE_INSTRUCTION}\n</citation_instructions>`,
         );
         const retryOutput = await chat(augmentedMessages, { temperature: 0 });
         const retryParsed = parseResponse(retryOutput);
@@ -248,18 +246,17 @@ async function ask(userText, opts = {}) {
     }
   }
 
-  // 5. Filter toxic output. Read `.safe` explicitly (like the input and recap
-  // paths) rather than relying on filterToxic having swapped the text - the
-  // canned reply replaces a toxic answer at the output boundary.
+  // 5. Filter toxic output: read `.safe` explicitly and swap in the canned
+  // reply at the output boundary.
   const filtered = filterToxic(finalOutput);
   const safeOutput = filtered.safe ? filtered.text : TOXIC_REPLY;
 
   // 6. Demask PII in response (restore originals for the user)
   const demasked = demaskPii(safeOutput, map);
 
-  // 7. Log (with masked values for audit safety). retrievalPath records which
-  // path produced the answer (tool_call / context / direct / web_search) so the
-  // web-search fallback rate is observable and SC-8 is measurable.
+  // 7. Log with masked values for audit safety. retrievalPath records which
+  // path produced the answer so the web-search fallback rate is observable
+  // (SC-8).
   logInteraction({ input: masked, output: safeOutput, retrievalPath, toolsCalled });
 
   return demasked;

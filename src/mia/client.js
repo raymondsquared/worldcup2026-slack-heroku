@@ -78,7 +78,6 @@ async function chatWithAgent(messages, opts = {}) {
   const lines = text.split('\n');
 
   let finalContent = '';
-  let foundToolUse = false;
 
   for (const line of lines) {
     if (line.startsWith('data:')) {
@@ -91,12 +90,16 @@ async function chatWithAgent(messages, opts = {}) {
       try {
         const parsed = JSON.parse(data);
 
-        if (parsed.choices?.[0]?.message?.tool_calls) {
-          foundToolUse = true;
+        const toolCalls = parsed.choices?.[0]?.message?.tool_calls;
+        if (toolCalls) {
+          const toolNames = toolCalls.map((c) => c.function?.name).filter(Boolean);
+          console.log(`[mia/client] Agent tool call(s): ${toolNames.join(', ') || 'unknown'}`);
         }
 
-        if (parsed.choices?.[0]?.message?.role === 'assistant' &&
-            parsed.choices[0].message.content) {
+        if (
+          parsed.choices?.[0]?.message?.role === 'assistant' &&
+          parsed.choices[0].message.content
+        ) {
           finalContent = parsed.choices[0].message.content;
         }
       } catch (err) {

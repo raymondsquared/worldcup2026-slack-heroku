@@ -6,13 +6,13 @@
 flowchart TD
     user["<b>Slack User</b>\n[Person]\n\nAsks World Cup questions,\nreceives match updates"]
 
-    app["<b>World Cup 2026 Slack App</b>\n[Software System]\n[Heroku Private Space]\n\nSlack bot, live broadcasting,\nslash commands"]
+    app["<b>World Cup 2026 Slack App</b>\n[Software System]\n[Heroku Common Runtime]\n\nSlack bot, live broadcasting,\nslash commands"]
 
-    mcpserver["<b>Football API MCP Server</b>\n[Software System]\n[Heroku Common Runtime]\n\nExposes Football API data\nvia MCP protocol"]
+    mcpserver["<b>Football API MCP Server</b>\n[Software System]\n[Heroku Common Runtime]\n[same app, on-demand process]\n\nExposes Football API data\nvia MCP protocol"]
 
     slack["<b>Slack</b>\n[External System]\n\nTeam messaging and\ncollaboration platform"]
 
-    mia["<b>Heroku MIA</b>\n[External System]\n[Attached to MCP Server]\n\nAI inference and\nlanguage model service"]
+    mia["<b>Heroku MIA</b>\n[External System]\n[Attached to the app]\n\nAI inference and\nlanguage model service"]
 
     football["<b>Football Data API</b>\n[External System]\n\nLive fixtures, scores,\nevents, and squads"]
 
@@ -23,8 +23,8 @@ flowchart TD
     user -- "Slash commands,\n@mentions, DMs" --> slack
     slack -- "Events via\nWebSocket" --> app
     app -- "Block Kit responses,\nlive match cards" --> slack
-    app -- "AI chat requests\n[HTTPS]" --> mia
-    mia -- "MCP tool calls\n[STDIO]" --> mcpserver
+    app -- "AI chat requests\n[HTTPS]\n/v1/chat/completions\nor /v1/agents/heroku" --> mia
+    mia -- "MCP tool calls\n[STDIO]\n(one-off dyno, on demand)" --> mcpserver
     mia -- "AI responses" --> app
     app -- "Polls live fixtures,\nscores, events\n[HTTPS]" --> football
     mcpserver -- "Direct API calls\n[HTTPS]" --> football
@@ -40,10 +40,17 @@ Legend:
 
 Deployment Model:
 
-- Slack App: Heroku Private Space (`rb-heroku-mia-slack-worldcup26`)
-- MCP Server: Heroku Common Runtime (`rb-mcp-football-server`)
-- Inference Add-on: Attached to MCP Server app
-- Private Space app uses MCP Server's INFERENCE_URL/KEY
+- Single Heroku Common Runtime app (`rb-mia-slack-wc26-ext`) runs both process
+  types from one `Procfile`:
+  - `worker: node src/index.js` - Slack bot (always-on)
+  - `mcp-football: node src/mcp/football-server.js` - MCP server (scaled to 0,
+    spawned on-demand as a one-off dyno per tool call)
+- Heroku Managed Inference is attached to this app; both processes share its
+  `INFERENCE_URL`/`INFERENCE_KEY`
+- Common Runtime is required (not Private Spaces) because `/v1/agents/heroku`
+  cannot register or use MCP servers running in a Private Space (see ADR-7);
+  the original Private Space deployment was migrated entirely to Common
+  Runtime to unblock this
 
 ## Container Diagram (C4)
 
@@ -55,8 +62,8 @@ flowchart TD
     websearch["<b>Web Search API</b>\n[External System]"]
     highlightsapi["<b>Highlights Video API</b>\n[External System]"]
 
-    subgraph heroku["Heroku (Basic+ Worker Dyno)"]
-        bolt["<b>Bolt Runtime</b>\n[Container: Node.js]\n\nSocket Mode connection,\nevent routing"]
+    subgraph heroku["Heroku Common Runtime app (rb-mia-slack-wc26-ext)"]
+        bolt["<b>Bolt Runtime</b>\n[Container: Node.js]\n[worker process, always-on]\n\nSocket Mode connection,\nevent routing"]
 
         commands["<b>Slash Commands</b>\n[Component]\n\n/worldcup2026 schedule\n(incl. Live Now), groups,\nhighlights"]
 
@@ -99,6 +106,8 @@ flowchart TD
             hldigest["<b>Digest</b>\n[Component]\n\nAI intro + Block Kit\ndaily digest"]
             hlquery["<b>Query</b>\n[Component]\n\ngetLatestHighlights\n(on-demand command)"]
         end
+
+        mcpserver["<b>Football MCP Server</b>\n[Container: Node.js]\n[mcp-football process,\nscaled to 0, on-demand]\n\n5 football_* tools,\nSTDIO transport,\nerror sanitization"]
     end
 
     slack <-- "WebSocket\n(Socket Mode)" --> bolt
@@ -110,11 +119,15 @@ flowchart TD
     chat -- "thread match id" --> matchcontext
     matchcontext --> data
     aipipeline --> guardrails
-    aipipeline -- "tool loop reads\n(dispatchTool whitelist)" --> data
-    aipipeline <-- "HTTPS\n/v1/chat/completions" --> mia
+    aipipeline -- "local tool loop reads\n(USE_MCP_TOOLS=false;\ndispatchTool whitelist)" --> data
+    aipipeline <-- "HTTPS\n/v1/chat/completions\n(context, local tools,\nweb-search retry, recap)" --> mia
+    aipipeline -- "HTTPS\n/v1/agents/heroku\n(USE_MCP_TOOLS=true;\nfalls back to direct\nchat/completions on error)" --> mia
     aipipeline -- "low confidence\nfallback" --> websearchmod
     aipipeline --> personas
     websearchmod -- "POST /search\n[HTTPS]" --> websearch
+
+    mia -- "MCP tool calls\n[STDIO]" --> mcpserver
+    mcpserver -- "Direct API calls\n[HTTPS]" --> football
 
     recap -- "ask(recap: true)" --> aipipeline
     recap -- "post to channel" --> slack
@@ -153,15 +166,17 @@ flowchart TD
 
 ## Trust Layer
 
-The security pipeline wrapping every request. The diagram shows the safe path;
-the core is one box, expanded in Agentic Flow below.
+The security pipeline wrapping every chat/DM/mention request. The diagram
+shows the safe path; the core is one box, expanded in Agentic Flow below. The
+recap/digest path (`ask({recap: true})`) is a narrower variant that skips
+masking, sanitization, and input-toxicity filtering - see Recap Flow below.
 
 ```mermaid
 flowchart TD
     In["User input"] --> Mask["Data Masking"]
     Mask --> San["Prompt Defense"]
     San --> ToxIn["Toxicity Detection"]
-    ToxIn --> Retr["Data Retrieval & Grounding\n(context / tools / web search)"]
+    ToxIn --> Retr["Data Retrieval & Grounding\n(context / MCP agent / local tools / web search)"]
     Retr --> Core["Agentic Flow\n(LLM reasons + answers)\n- see diagram below"]
     Core --> ToxOut["Toxicity Detection"]
     ToxOut --> Demask["Data Demasking"]
@@ -174,7 +189,7 @@ flowchart TD
 - Data Masking - PII replaced with tokens (`[EMAIL_1]`); map kept for demasking.
 - Prompt Defense - strip injection attempts, system overrides, delimiter escapes.
 - Toxicity Detection - whole-message guard (input + output); a match swaps the whole message for a fixed canned reply.
-- Data Retrieval & Grounding - context, tool loop, or web search; see Agentic Flow below.
+- Data Retrieval & Grounding - context, MCP agent call, local tool loop, or web search; see Agentic Flow below.
 - Audit - logs the masked, pre-demask snapshot only; the demasked response is
   never written to the log, so PII is never persisted.
 - Data Demasking - restores real PII into the user-facing response only; that
@@ -183,21 +198,28 @@ flowchart TD
 ## Agentic Flow
 
 The Trust Layer's agentic core. Each `[LLM]` node is one model call; only the
-context path can be a single call.
+context path can be a single call. Which of the two no-context paths runs is a
+static feature flag (`USE_MCP_TOOLS`), not a per-request choice. `Final` isn't
+a new call - it's the same content already returned by the MCP call or the
+tool loop's last iteration, just carried forward as the answer.
 
 ```mermaid
 flowchart TD
     Start["sanitized + masked input"] --> Retr{"explicit context\nsupplied?"}
 
-    Retr -->|yes| Cx["context chat()\n[LLM]"]
-    Retr -->|no| Tool["tool-grounding loop\nLLM plus read-only tools\n[LLM]"]
+    Retr -->|yes| Cx["context chat()\n[LLM]\n/v1/chat/completions"]
+    Retr -->|"no, USE_MCP_TOOLS=true"| MCP["MCP agent call\n[LLM]\n/v1/agents/heroku\n(automatic tool exec)"]
+    Retr -->|"no, USE_MCP_TOOLS=false"| Tool["local tool-grounding loop\nLLM plus read-only tools\n[LLM]\n/v1/chat/completions"]
+
+    MCP -->|error| Dir["direct chat()\n[LLM]\n/v1/chat/completions"]
+    MCP -->|success| Final["final answer\n(already returned by\nthe MCP/tool call above)"]
 
     Tool --> TR{"grounded an\nanswer?"}
-    TR -->|yes| TF["final answer\n[LLM]"]
-    TR -->|"no / error /\nexhausted"| Dir["direct chat()\n[LLM]"]
+    TR -->|yes| Final
+    TR -->|"no / error /\nexhausted"| Dir
 
     Cx --> Gate{"low confidence\n+ on-topic?"}
-    TF --> Gate
+    Final --> Gate
     Dir --> Gate
 
     Gate -->|no| Done(["answer"])
@@ -278,6 +300,7 @@ flowchart TD
 - Score change edits the card; new events post threaded alerts. 5 failed polls flag the cache
   stale ("data may be outdated").
 - Match-end triggers recap generation (fire-and-forget): reads events/stats from cache, generates
-  AI summary with persona tone, posts to match thread.
+  AI summary with persona tone, posts a Full Time card as a standalone channel message (not
+  threaded).
 - Daily restart at a safe hour (`DAILY_RESTART_HOUR_IN_UTC`, default 11) resets in-memory
   dedup state and prevents Heroku's unpredictable 24h dyno cycling from landing mid-match.

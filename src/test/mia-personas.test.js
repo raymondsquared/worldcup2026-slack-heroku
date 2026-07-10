@@ -41,6 +41,27 @@ describe('mia/personas', () => {
     });
   });
 
+  describe('system prompt XML structure', () => {
+    const prompts = [
+      ['sporty', getSystemPrompt('sporty')],
+      ['funny', getSystemPrompt('funny')],
+      ['serious', getSystemPrompt('serious')],
+      ['default', getSystemPrompt(null)],
+    ];
+
+    test.each(prompts)('%s prompt wraps role, scope, and output_format sections', (_key, prompt) => {
+      expect(prompt).toMatch(/<role>[\s\S]*<\/role>/);
+      expect(prompt).toMatch(/<scope>[\s\S]*<\/scope>/);
+      expect(prompt).toMatch(/<output_format>[\s\S]*<\/output_format>/);
+    });
+
+    test.each(prompts)('%s prompt uses the <output> response schema, not <response>', (_key, prompt) => {
+      expect(prompt).toContain('<output>');
+      expect(prompt).toContain('</output>');
+      expect(prompt).not.toContain('<response>');
+    });
+  });
+
   describe('SCOPE_INSTRUCTION', () => {
     test('scopes to football with a World Cup 2026 focus', () => {
       expect(SCOPE_INSTRUCTION).toMatch(/football-related questions/i);

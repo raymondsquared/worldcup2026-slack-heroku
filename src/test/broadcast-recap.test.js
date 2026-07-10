@@ -307,8 +307,29 @@ describe('broadcast/recap - buildRecapBlocks', () => {
     // Meta context: stage + group.
     expect(blocks[3].elements[0].text).toBe('Group Stage · Group A');
 
-    // Recap text is passed through verbatim in the final section.
+    // Recap text is passed through verbatim in the final section, rendered as
+    // plain_text (not mrkdwn) so the model's free-form output is never parsed
+    // as Slack markup.
+    expect(blocks[5].text.type).toBe('plain_text');
     expect(blocks[5].text.text).toBe('A thrilling 2-1 win.');
+  });
+
+  test('recap text renders literally even when it contains mrkdwn-special characters', () => {
+    const liveData = {
+      finalScore: { home: 2, away: 1 },
+      events: [],
+    };
+    const dangerousRecap =
+      "*Bold claim* about <@U123456> and <https://evil.example> - it's _wild_ out there, ~unbelievable~ even.";
+
+    const blocks = buildRecapBlocks(fixture, liveData, dangerousRecap);
+    const recapBlock = blocks[blocks.length - 1];
+
+    // plain_text: Slack renders the text exactly as given, with no markup,
+    // link, or mention parsing - so nothing needs to be escaped beforehand.
+    expect(recapBlock.type).toBe('section');
+    expect(recapBlock.text.type).toBe('plain_text');
+    expect(recapBlock.text.text).toBe(dangerousRecap);
   });
 
   test('omits the scorers context when there were no goals (cards only)', () => {
@@ -498,7 +519,7 @@ describe('broadcast/recap - generateRecap', () => {
       }),
     });
 
-    await generateRecap(client, 1, null, 'sporty');
+    await generateRecap(client, 1, 'sporty');
 
     expect(client.chat.postMessage).toHaveBeenCalledWith(
       expect.objectContaining({
@@ -538,7 +559,7 @@ describe('broadcast/recap - generateRecap', () => {
       }),
     });
 
-    await generateRecap(client, 1, '1234567890.123456', 'serious');
+    await generateRecap(client, 1, 'serious');
 
     const body = JSON.parse(global.fetch.mock.calls[0][1].body);
     expect(body.messages[0].content).toContain('analytical');
@@ -559,13 +580,13 @@ describe('broadcast/recap - generateRecap', () => {
       }),
     });
 
-    await generateRecap(client, 1, '1234567890.123456', null);
+    await generateRecap(client, 1, null);
 
     const body = JSON.parse(global.fetch.mock.calls[0][1].body);
     expect(body.messages[0].content).toContain('football writer');
   });
 
-  test('still works when threadTs is null (standalone post)', async () => {
+  test('always posts as a standalone message (no thread_ts)', async () => {
     cache.getFixture.mockReturnValue({
       finalScore: { home: 1, away: 0 },
       status: 'Match Finished',
@@ -579,7 +600,7 @@ describe('broadcast/recap - generateRecap', () => {
       }),
     });
 
-    await generateRecap(client, 1, null, 'sporty');
+    await generateRecap(client, 1, 'sporty');
 
     expect(client.chat.postMessage).toHaveBeenCalled();
     const call = client.chat.postMessage.mock.calls[0][0];
@@ -589,7 +610,7 @@ describe('broadcast/recap - generateRecap', () => {
   test('does nothing when no cache data', async () => {
     cache.getFixture.mockReturnValue(null);
 
-    await generateRecap(client, 1, '1234567890.123456', 'sporty');
+    await generateRecap(client, 1, 'sporty');
 
     expect(global.fetch).not.toHaveBeenCalled();
     expect(client.chat.postMessage).not.toHaveBeenCalled();
@@ -603,7 +624,7 @@ describe('broadcast/recap - generateRecap', () => {
       stale: true,
     });
 
-    await generateRecap(client, 1, '1234567890.123456', 'sporty');
+    await generateRecap(client, 1, 'sporty');
 
     expect(global.fetch).not.toHaveBeenCalled();
     expect(client.chat.postMessage).not.toHaveBeenCalled();
@@ -624,7 +645,7 @@ describe('broadcast/recap - generateRecap', () => {
       }),
     });
 
-    await generateRecap(client, 1, '1234567890.123456', 'sporty');
+    await generateRecap(client, 1, 'sporty');
 
     expect(client.chat.postMessage).not.toHaveBeenCalled();
   });
@@ -637,7 +658,7 @@ describe('broadcast/recap - generateRecap', () => {
     });
     getFixtureById.mockReturnValue(null);
 
-    await generateRecap(client, 1, '1234567890.123456', 'sporty');
+    await generateRecap(client, 1, 'sporty');
 
     expect(global.fetch).not.toHaveBeenCalled();
     expect(client.chat.postMessage).not.toHaveBeenCalled();

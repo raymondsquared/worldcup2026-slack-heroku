@@ -89,6 +89,14 @@ describe('worldcup command - register', () => {
 });
 
 describe('scheduleBlocks', () => {
+  beforeEach(() => {
+    // Pin the clock to during the tournament so upcoming fixtures exist.
+    jest.useFakeTimers().setSystemTime(new Date('2026-06-20T00:00:00Z'));
+  });
+  afterEach(() => {
+    jest.useRealTimers();
+  });
+
   test('returns header and fixture sections with team names', () => {
     const blocks = scheduleBlocks();
     expect(blocks[0].text.text).toBe('📅 Upcoming Fixtures');
@@ -156,7 +164,8 @@ describe('scheduleBlocks - Live Now section', () => {
   });
 
   test('shows a divider between live and upcoming sections', () => {
-    // Real timers: the committed schedule still has upcoming fixtures.
+    // Pin the clock to during the tournament so upcoming fixtures exist.
+    jest.useFakeTimers().setSystemTime(new Date('2026-06-20T00:00:00Z'));
     mockLive({ 1: { status: 'Second Half', elapsed: 67, finalScore: { home: 2, away: 1 } } });
 
     const blocks = scheduleBlocks();
@@ -169,6 +178,8 @@ describe('scheduleBlocks - Live Now section', () => {
   });
 
   test('shows only upcoming (no Live Now header) when nothing is live', () => {
+    // Pin the clock to during the tournament so upcoming fixtures exist.
+    jest.useFakeTimers().setSystemTime(new Date('2026-06-20T00:00:00Z'));
     setLiveCache(null);
 
     const blocks = scheduleBlocks();

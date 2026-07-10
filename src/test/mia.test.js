@@ -9,12 +9,18 @@ const { maskPii, demaskPii, sanitizeInput, filterToxic } = require('../mia/guard
 const { logInteraction } = require('../mia/audit');
 const { ask } = require('../mia');
 
-function xml(answer, confidence = 95, footballScore = null) {
+// xml() accepts either a HIGH/MEDIUM/LOW label or a legacy 0-100 number
+// (>=70 HIGH, >=40 MEDIUM, else LOW) so existing numeric call sites keep working.
+function toLabel(value) {
+  if (typeof value === 'string') return value;
+  return value >= 70 ? 'HIGH' : value >= 40 ? 'MEDIUM' : 'LOW';
+}
+function xml(answer, confidence = 'HIGH', footballScore = null) {
   const football =
     footballScore == null
       ? ''
-      : `\n<isFootballRelatedScore>${footballScore}</isFootballRelatedScore>`;
-  return `<response>\n<answer>${answer}</answer>\n<confidenceScore>${confidence}</confidenceScore>${football}\n</response>`;
+      : `\n<footballRelatedLabel>${toLabel(footballScore)}</footballRelatedLabel>`;
+  return `<output>\n<answer>${answer}</answer>\n<confidenceLabel>${toLabel(confidence)}</confidenceLabel>${football}\n</output>`;
 }
 
 describe('client - chat', () => {
@@ -469,7 +475,7 @@ describe('ask - web search fallback', () => {
   });
 
   test('keyword check still gates when the LLM score tag is absent', async () => {
-    // No <isFootballRelatedScore> in the response (footballRelated = null);
+    // No <footballRelatedLabel> in the response (footballRelated = null);
     // keyword check on the prompt ("match") keeps the fallback enabled.
     global.fetch
       .mockResolvedValueOnce({
@@ -498,27 +504,27 @@ describe('ask - web search fallback', () => {
     expect(result).toBe('USA won 2-1.');
   });
 
-  test('does NOT trigger fallback at exactly threshold (70)', async () => {
+  test('does NOT trigger fallback when confidence is HIGH', async () => {
     global.fetch.mockResolvedValue({
       ok: true,
       json: async () => ({
-        choices: [{ message: { content: xml('Probably USA vs Mexico on June 12.', 70) } }],
+        choices: [{ message: { content: xml('Probably USA vs Mexico on June 12.', 'HIGH') } }],
       }),
     });
 
     const { ask: askFresh } = require('../mia');
     await askFresh('When does USA play?', { context: GROUNDING });
 
-    // Score exactly at threshold = confident, no fallback
+    // HIGH confidence = confident, no fallback
     expect(global.fetch).toHaveBeenCalledTimes(1);
   });
 
-  test('triggers fallback just below threshold (69)', async () => {
+  test('triggers fallback when confidence is MEDIUM', async () => {
     global.fetch
       .mockResolvedValueOnce({
         ok: true,
         json: async () => ({
-          choices: [{ message: { content: xml('Maybe June 12?', 69) } }],
+          choices: [{ message: { content: xml('Maybe June 12?', 'MEDIUM') } }],
         }),
       })
       .mockResolvedValueOnce({
@@ -543,23 +549,23 @@ describe('ask - web search fallback', () => {
     const { ask: askFresh } = require('../mia');
     const result = await askFresh('When does USA play?', { context: GROUNDING });
 
-    // Score below threshold triggers fallback
+    // MEDIUM confidence triggers fallback
     expect(result).toBe('USA plays Mexico on June 12.');
     expect(global.fetch).toHaveBeenCalledTimes(3);
   });
 
-  test('returns original response when confidence missing from XML (defaults to 100)', async () => {
+  test('returns original response when confidence missing from XML (defaults to HIGH)', async () => {
     global.fetch.mockResolvedValue({
       ok: true,
       json: async () => ({
-        choices: [{ message: { content: '<response><answer>USA won 2-1</answer></response>' } }],
+        choices: [{ message: { content: '<output><answer>USA won 2-1</answer></output>' } }],
       }),
     });
 
     const { ask: askFresh } = require('../mia');
     const result = await askFresh('Who won the match?', { context: GROUNDING });
 
-    // Missing confidenceScore defaults to 100 (confident), no fallback
+    // Missing confidence defaults to HIGH (confident), no fallback
     expect(result).toBe('USA won 2-1');
     expect(global.fetch).toHaveBeenCalledTimes(1);
   });
@@ -666,6 +672,43 @@ describe('ask - web search fallback', () => {
     const retryBody = JSON.parse(global.fetch.mock.calls[2][1].body);
     expect(retryBody.messages[0].content).toContain('According to [source name] (URL)');
     expect(retryBody.messages[0].content).toContain('Do not invent sources');
+  });
+
+  test('retry system message wraps search results and citation guidance in tags', async () => {
+    global.fetch
+      .mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          choices: [{ message: { content: xml(LOW_CONFIDENCE, 10) } }],
+        }),
+      })
+      .mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          results: [{ title: 'ESPN', content: 'Match info.', url: 'https://espn.com/article' }],
+        }),
+      })
+      .mockResolvedValueOnce({
+        ok: true,
+        json: async () => ({
+          choices: [
+            {
+              message: {
+                content: xml('According to ESPN (https://espn.com/article), USA won.', 95),
+              },
+            },
+          ],
+        }),
+      });
+
+    const { ask: askFresh } = require('../mia');
+    await askFresh('Who won the match?', { context: GROUNDING });
+
+    const retryBody = JSON.parse(global.fetch.mock.calls[2][1].body);
+    expect(retryBody.messages[0].content).toMatch(/<search_results>[\s\S]*<\/search_results>/);
+    expect(retryBody.messages[0].content).toMatch(
+      /<citation_instructions>[\s\S]*<\/citation_instructions>/,
+    );
   });
 
   test('does not include reference instruction in initial call', async () => {
@@ -821,7 +864,7 @@ describe('ask - recap mode', () => {
     const body = JSON.parse(global.fetch.mock.calls[0][1].body);
     expect(body.messages[0].content).toContain('energetic sports commentator');
     expect(body.messages[0].content).toContain('USA 2-1 Mexico');
-    expect(body.messages[0].content).toContain('---');
+    expect(body.messages[0].content).toContain('<context>');
   });
 
   test('returns null when output is toxic', async () => {
@@ -962,6 +1005,18 @@ describe('ask - tool-calling retrieval', () => {
     expect(Array.isArray(assistantTurn.tool_calls)).toBe(true);
   });
 
+  test('tool-loop system message wraps tool guidance in <tool_instructions>', async () => {
+    global.fetch
+      .mockResolvedValueOnce(toolCallResponse('get_upcoming_fixtures', { teamId: 'England' }))
+      .mockResolvedValueOnce(finalResponse(xml('England play Ghana on June 23.', 95, 95)));
+
+    const { ask: askFresh } = require('../mia');
+    await askFresh('When is the next England match?');
+
+    const firstBody = JSON.parse(global.fetch.mock.calls[0][1].body);
+    expect(firstBody.messages[0].content).toMatch(/<tool_instructions>[\s\S]*<\/tool_instructions>/);
+  });
+
   test('gap query: past score answered from local results (no web search)', async () => {
     global.fetch
       .mockResolvedValueOnce(toolCallResponse('get_team_results', { teamId: 'Brazil' }))
@@ -989,18 +1044,41 @@ describe('ask - tool-calling retrieval', () => {
   });
 
   test('gap query: goal tally answered from local events via get_player_goals', async () => {
-    global.fetch
-      .mockResolvedValueOnce(toolCallResponse('get_player_goals', { name: 'Messi' }))
-      .mockResolvedValueOnce(finalResponse(xml('Messi has scored 3 goals.', 95, 95)));
+    // The live goal tally drifts as data syncs; this test only proves ask() feeds
+    // the tool result back to the model, so inject a fixed fake for a stable assertion.
+    const FAKE_GOALS = {
+      name: 'Lionel Messi',
+      team: 'Argentina',
+      teamId: 'ARG',
+      goals: 5,
+      penalties: 1,
+      fixtures: [],
+    };
+    jest.doMock('../mia/tools', () => {
+      const actual = jest.requireActual('../mia/tools');
+      return {
+        ...actual,
+        dispatchTool: (name, args) =>
+          name === 'get_player_goals' ? FAKE_GOALS : actual.dispatchTool(name, args),
+      };
+    });
 
-    const { ask: askFresh } = require('../mia');
-    const result = await askFresh('How many goals has Messi scored?');
+    try {
+      global.fetch
+        .mockResolvedValueOnce(toolCallResponse('get_player_goals', { name: 'Messi' }))
+        .mockResolvedValueOnce(finalResponse(xml('Messi has scored 5 goals.', 95, 95)));
 
-    expect(result).toBe('Messi has scored 3 goals.');
-    expect(global.fetch).toHaveBeenCalledTimes(2); // no web-search third call
-    const secondBody = JSON.parse(global.fetch.mock.calls[1][1].body);
-    const toolMsg = secondBody.messages.find((m) => m.role === 'tool');
-    expect(JSON.parse(toolMsg.content)).toMatchObject({ teamId: 'ARG', goals: 3 });
+      const { ask: askFresh } = require('../mia');
+      const result = await askFresh('How many goals has Messi scored?');
+
+      expect(result).toBe('Messi has scored 5 goals.');
+      expect(global.fetch).toHaveBeenCalledTimes(2); // no web-search third call
+      const secondBody = JSON.parse(global.fetch.mock.calls[1][1].body);
+      const toolMsg = secondBody.messages.find((m) => m.role === 'tool');
+      expect(JSON.parse(toolMsg.content)).toMatchObject({ teamId: 'ARG', goals: 5 });
+    } finally {
+      jest.dontMock('../mia/tools');
+    }
   });
 
   test('supports multiple sequential tool calls within the iteration cap', async () => {
@@ -1177,7 +1255,7 @@ describe('ask - tool-calling retrieval', () => {
 
   test('a loop that never stops requesting tools exhausts the cap and falls back to a direct call', async () => {
     // The model requests a (valid) tool on every iteration and never returns a
-    // final answer, so the loop runs MAX_TOOL_ITERS (4) times and then returns
+    // final answer, so the loop runs LOCAL_TOOL_LOOP_MAX_ITERATIONS (4) times and then returns
     // null (exhausted). ask() then makes the direct safety-net call. Total
     // fetches: 4 tool-loop turns + 1 direct = 5.
     global.fetch
